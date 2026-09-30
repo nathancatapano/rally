@@ -1,0 +1,1977 @@
+[
+  {
+    "id": "p01",
+    "name": "Maya Chen",
+    "age": 21,
+    "avatar": "/avatars/p01.jpg",
+    "headline": "Econ senior who runs before her 8am and reads on the bus",
+    "situation": "student",
+    "movedFrom": "Boston, MA",
+    "monthsInCity": 38,
+    "school": "Trinity College",
+    "major": "Economics",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Research assistant, Trinity Econ department",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Trinity campus",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7481,
+        "lng": -72.6899
+      },
+      "radiusMiles": 4
+    },
+    "learned": [
+      {
+        "text": "Runs on the treadmill before class",
+        "category": "active"
+      },
+      {
+        "text": "Reads on the bus",
+        "category": "learning"
+      },
+      {
+        "text": "Knows nobody off campus",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "running",
+      "coffee",
+      "book_club",
+      "yoga",
+      "trivia"
+    ],
+    "hobbies": [
+      "Half marathons",
+      "Pour-over coffee",
+      "Literary fiction",
+      "Sunday crosswords"
+    ],
+    "lookingFor": [
+      "A run club that goes for coffee after",
+      "People off campus, not just Trinity"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "active"
+    },
+    "bio": "Senior year and realizing her whole world is the Long Walk. Wants to know Hartford before she graduates, not just the campus."
+  },
+  {
+    "id": "p02",
+    "name": "Derek Okafor",
+    "age": 24,
+    "avatar": "/avatars/p02.jpg",
+    "headline": "Data science grad student from Lagos, weekend climber",
+    "situation": "international_student",
+    "movedFrom": "Lagos, Nigeria",
+    "homeCountry": "Nigeria",
+    "monthsInCity": 3,
+    "school": "UConn Hartford",
+    "major": "MS Data Science",
+    "classYear": 2028,
+    "studentStatus": "grad_student",
+    "occupation": "Graduate assistant",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Downtown",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7662,
+        "lng": -72.6748
+      },
+      "radiusMiles": 8
+    },
+    "learned": [
+      {
+        "text": "Boulders alone at the gym",
+        "category": "active"
+      },
+      {
+        "text": "Hikes when he can get a ride",
+        "category": "active"
+      },
+      {
+        "text": "Arrived from Lagos in August",
+        "category": "community"
+      }
+    ],
+    "interests": [
+      "climbing",
+      "hiking",
+      "tech",
+      "international",
+      "photography"
+    ],
+    "hobbies": [
+      "Bouldering",
+      "Trail photography",
+      "Afrobeats playlists",
+      "Mechanical keyboards"
+    ],
+    "lookingFor": [
+      "Climbing partners who will belay on a Tuesday",
+      "Other international students who get it"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "active"
+    },
+    "bio": "Three months into an American grad program and a Connecticut winter he has been warned about. Left a climbing gym crew in Lagos and wants that back."
+  },
+  {
+    "id": "p03",
+    "name": "Priya Raman",
+    "age": 24,
+    "avatar": "/avatars/p03.jpg",
+    "headline": "Law student, trivia ringer, loves a plot twist",
+    "situation": "student",
+    "movedFrom": "Storrs, CT",
+    "monthsInCity": 14,
+    "school": "UConn School of Law",
+    "major": "JD, 2L",
+    "classYear": 2028,
+    "studentStatus": "grad_student",
+    "occupation": "Law review staff",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "West End",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7719,
+        "lng": -72.7102
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Undefeated at pub trivia",
+        "category": "social"
+      },
+      {
+        "text": "Reads a mystery a week",
+        "category": "learning"
+      },
+      {
+        "text": "Only knows law students",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "trivia",
+      "board_games",
+      "wine",
+      "theater",
+      "book_club"
+    ],
+    "hobbies": [
+      "Pub trivia",
+      "Mystery novels",
+      "Broadway cast recordings",
+      "Wordle streaks"
+    ],
+    "lookingFor": [
+      "A standing trivia team",
+      "Friends who are not also in law school"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "chill"
+    },
+    "bio": "Did undergrad at Storrs, so Hartford is new even though Connecticut is not. Second year of law school and every friend is a classmate; wants one thing a week that is not about torts."
+  },
+  {
+    "id": "p04",
+    "name": "Sofia Alvarez",
+    "age": 22,
+    "avatar": "/avatars/p04.jpg",
+    "headline": "Design senior chasing good light and good type",
+    "situation": "student",
+    "movedFrom": "San Antonio, TX",
+    "monthsInCity": 38,
+    "school": "University of Hartford",
+    "major": "Visual Communication Design, Hartford Art School",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Freelance brand designer",
+    "workMode": "remote",
+    "location": {
+      "neighborhood": "Parkville",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7538,
+        "lng": -72.7042
+      },
+      "radiusMiles": 7
+    },
+    "learned": [
+      {
+        "text": "Sketches in coffee shops",
+        "category": "arts"
+      },
+      {
+        "text": "Bikes everywhere",
+        "category": "active"
+      },
+      {
+        "text": "Wants designers outside her program",
+        "category": "arts"
+      }
+    ],
+    "interests": [
+      "design",
+      "tech",
+      "ai",
+      "visual_art",
+      "coffee",
+      "cycling"
+    ],
+    "hobbies": [
+      "Sketchbooks",
+      "Letterpress",
+      "Bike commuting",
+      "Figma plugins"
+    ],
+    "lookingFor": [
+      "Designers outside her program to critique with",
+      "A gallery buddy"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Moved off campus to a Parkville loft to be near the studios and the Market. Wants to find the working designers in the city before she becomes one."
+  },
+  {
+    "id": "p05",
+    "name": "Hannah Kowalski",
+    "age": 24,
+    "avatar": "/avatars/p05.jpg",
+    "headline": "First-year PhD student who would rather be on a ridgeline",
+    "situation": "student",
+    "movedFrom": "Chicago, IL",
+    "monthsInCity": 2,
+    "school": "UConn Health",
+    "major": "PhD, Biomedical Science",
+    "classYear": 2031,
+    "studentStatus": "grad_student",
+    "occupation": "Lab rotation, UConn Health",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Farmington",
+      "city": "Farmington",
+      "coords": {
+        "lat": 41.7203,
+        "lng": -72.8318
+      },
+      "radiusMiles": 15
+    },
+    "learned": [
+      {
+        "text": "Hikes Talcott every weekend, alone",
+        "category": "active"
+      },
+      {
+        "text": "Fosters dogs",
+        "category": "social"
+      },
+      {
+        "text": "Lab is empty by six",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "hiking",
+      "climbing",
+      "kayaking",
+      "dogs",
+      "sustainability"
+    ],
+    "hobbies": [
+      "Section-hiking the Metacomet Trail",
+      "Kayaking the Farmington",
+      "Foster dogs",
+      "Trail maps"
+    ],
+    "lookingFor": [
+      "A hiking group that goes every weekend",
+      "Grad students from other programs"
+    ],
+    "availability": [
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "active"
+    },
+    "bio": "Two months into a PhD in Farmington. Everyone in the lab is either 45 or in the lab until 9pm. Has hiked Talcott Mountain eleven times, always alone."
+  },
+  {
+    "id": "p06",
+    "name": "Aisha Bello",
+    "age": 22,
+    "avatar": "/avatars/p06.jpg",
+    "headline": "Nursing senior who needs live music between clinicals",
+    "situation": "student",
+    "movedFrom": "Hartford (Blue Hills)",
+    "monthsInCity": 264,
+    "school": "University of Saint Joseph",
+    "major": "Nursing",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Patient care tech, Saint Francis (part-time)",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Blue Hills",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7948,
+        "lng": -72.7004
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Sings in a gospel choir",
+        "category": "music"
+      },
+      {
+        "text": "Cooks Sunday dinner for one",
+        "category": "food_drink"
+      },
+      {
+        "text": "Wants a crew that goes out",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "live_music",
+      "jazz",
+      "dance",
+      "cooking",
+      "faith"
+    ],
+    "hobbies": [
+      "Afrobeats playlists",
+      "Sunday dinners",
+      "Gospel choir",
+      "Salsa"
+    ],
+    "lookingFor": [
+      "People to go to shows with",
+      "A dance class that is actually social"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "large",
+      "energy": "high"
+    },
+    "bio": "Grew up in Blue Hills and commutes to USJ. Her high school friends all left for college elsewhere and her nursing cohort is exhausted; she wants a crew that goes out."
+  },
+  {
+    "id": "p07",
+    "name": "Emma Sullivan",
+    "age": 22,
+    "avatar": "/avatars/p07.jpg",
+    "headline": "May grad, first-year teacher, will try any restaurant once",
+    "situation": "recent_grad",
+    "movedFrom": "Trinity College",
+    "monthsInCity": 52,
+    "school": "Trinity College",
+    "major": "Biology",
+    "classYear": 2026,
+    "studentStatus": "recent_grad",
+    "occupation": "Middle school science teacher, Hartford Public Schools",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Frog Hollow",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7583,
+        "lng": -72.6879
+      },
+      "radiusMiles": 5
+    },
+    "learned": [
+      {
+        "text": "Ranks every taco in Hartford",
+        "category": "food_drink"
+      },
+      {
+        "text": "Stayed after graduation",
+        "category": "community"
+      },
+      {
+        "text": "Nobody to eat with",
+        "category": "food_drink"
+      }
+    ],
+    "interests": [
+      "cooking",
+      "food_tours",
+      "craft_beer",
+      "trivia",
+      "volunteering"
+    ],
+    "hobbies": [
+      "Recipe testing",
+      "Taco rankings",
+      "Brewery passports",
+      "Tutoring"
+    ],
+    "lookingFor": [
+      "A regular dinner crew",
+      "Other grads who stayed in Hartford"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "high"
+    },
+    "bio": "Stayed in Hartford after Trinity while every classmate left for New York or Boston. Loves the city, has no one to eat with."
+  },
+  {
+    "id": "p08",
+    "name": "Lena Fischer",
+    "age": 21,
+    "avatar": "/avatars/p08.jpg",
+    "headline": "Exchange student from Berlin with a film camera and opinions about paper",
+    "situation": "international_student",
+    "movedFrom": "Berlin, Germany",
+    "homeCountry": "Germany",
+    "monthsInCity": 2,
+    "school": "Trinity College",
+    "major": "Studio Arts (exchange year)",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Exchange student",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Trinity campus",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7469,
+        "lng": -72.6915
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Shoots 35mm film",
+        "category": "arts"
+      },
+      {
+        "text": "Exchange year from Berlin",
+        "category": "community"
+      },
+      {
+        "text": "Looking for artists off campus",
+        "category": "arts"
+      }
+    ],
+    "interests": [
+      "visual_art",
+      "photography",
+      "crafts",
+      "film",
+      "international"
+    ],
+    "hobbies": [
+      "Risograph printing",
+      "35mm street photography",
+      "Repertory cinema",
+      "Bookbinding"
+    ],
+    "lookingFor": [
+      "An artist community off campus",
+      "People to go to weird films with"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "One year abroad at Trinity, two months in. Misses a city where you bump into other artists by accident and wants to find Hartford's version before the year is over."
+  },
+  {
+    "id": "p09",
+    "name": "Marcus Reed",
+    "age": 26,
+    "avatar": "/avatars/p09.jpg",
+    "headline": "Part-time MBA, full-time actuary, training for the marathon",
+    "situation": "student",
+    "movedFrom": "Philadelphia, PA",
+    "monthsInCity": 5,
+    "school": "UConn Hartford",
+    "major": "MBA (part-time)",
+    "classYear": 2028,
+    "studentStatus": "grad_student",
+    "occupation": "Actuarial analyst, Aetna",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Glastonbury",
+      "city": "Glastonbury",
+      "coords": {
+        "lat": 41.7126,
+        "lng": -72.6087
+      },
+      "radiusMiles": 12
+    },
+    "learned": [
+      {
+        "text": "Training for the marathon",
+        "category": "active"
+      },
+      {
+        "text": "Watches Eagles games alone",
+        "category": "social"
+      },
+      {
+        "text": "Classmates leave right after class",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "running",
+      "cycling",
+      "fitness",
+      "sports_fan",
+      "craft_beer"
+    ],
+    "hobbies": [
+      "Marathon training",
+      "Gravel rides",
+      "Eagles games",
+      "Sourdough"
+    ],
+    "lookingFor": [
+      "Long-run partners",
+      "People to watch the game with"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "active"
+    },
+    "bio": "Transferred to the Hartford office and started the evening MBA the same month. Classmates leave the minute class ends; he signed up for the marathon partly to force himself out."
+  },
+  {
+    "id": "p10",
+    "name": "Jamal Whitaker",
+    "age": 20,
+    "avatar": "/avatars/p10.jpg",
+    "headline": "CS sophomore, trivia ringer, pickup basketball regular",
+    "situation": "student",
+    "movedFrom": "Hartford (North End)",
+    "monthsInCity": 240,
+    "school": "Capital Community College",
+    "major": "Computer Science (transfer track)",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "IT help desk, Capital CC (work-study)",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "North End",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7862,
+        "lng": -72.6825
+      },
+      "radiusMiles": 5
+    },
+    "learned": [
+      {
+        "text": "Pickup basketball twice a week",
+        "category": "active"
+      },
+      {
+        "text": "Catan every night on Discord",
+        "category": "social"
+      },
+      {
+        "text": "Commutes in, then goes home",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "trivia",
+      "board_games",
+      "gaming",
+      "basketball",
+      "comedy"
+    ],
+    "hobbies": [
+      "Catan",
+      "Pickup hoops",
+      "Stand-up specials",
+      "Rocket League"
+    ],
+    "lookingFor": [
+      "A trivia team",
+      "Other CS students to build with"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "high"
+    },
+    "bio": "Born and raised in the North End, commuter student downtown. Community college means nobody sticks around after class; he wants the campus life without the campus."
+  },
+  {
+    "id": "p11",
+    "name": "Ethan Park",
+    "age": 23,
+    "avatar": "/avatars/p11.jpg",
+    "headline": "CS master's student from Seoul who talks about transformers at parties",
+    "situation": "international_student",
+    "movedFrom": "Seoul, South Korea",
+    "homeCountry": "South Korea",
+    "monthsInCity": 14,
+    "school": "University of Hartford",
+    "major": "MS Computer Science",
+    "classYear": 2027,
+    "studentStatus": "grad_student",
+    "occupation": "Teaching assistant, intro programming",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Bishops Corner",
+      "city": "West Hartford",
+      "coords": {
+        "lat": 41.7912,
+        "lng": -72.7456
+      },
+      "radiusMiles": 8
+    },
+    "learned": [
+      {
+        "text": "Boulders on weekends",
+        "category": "active"
+      },
+      {
+        "text": "Builds side projects at night",
+        "category": "learning"
+      },
+      {
+        "text": "Knows every Korean student, nobody else",
+        "category": "community"
+      }
+    ],
+    "interests": [
+      "ai",
+      "tech",
+      "startups",
+      "board_games",
+      "climbing",
+      "international"
+    ],
+    "hobbies": [
+      "Side projects",
+      "Bouldering",
+      "Strategy board games",
+      "Reading papers"
+    ],
+    "lookingFor": [
+      "Other engineers to talk shop with",
+      "A climbing partner"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Second year of a master's at UHart. Knows every Korean student on campus and almost nobody else; wants the builders in the city, wherever they are."
+  },
+  {
+    "id": "p12",
+    "name": "Chloe Martin",
+    "age": 22,
+    "avatar": "/avatars/p12.jpg",
+    "headline": "Communication senior, karaoke enthusiast, night owl",
+    "situation": "student",
+    "movedFrom": "Providence, RI",
+    "monthsInCity": 38,
+    "school": "University of Hartford",
+    "major": "Communication",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Social media intern, Hartford Athletic",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Elmwood",
+      "city": "West Hartford",
+      "coords": {
+        "lat": 41.7402,
+        "lng": -72.7312
+      },
+      "radiusMiles": 7
+    },
+    "learned": [
+      {
+        "text": "Karaoke on Thursdays",
+        "category": "social"
+      },
+      {
+        "text": "Done with frat basements",
+        "category": "social"
+      },
+      {
+        "text": "Wants the actual city",
+        "category": "music"
+      }
+    ],
+    "interests": [
+      "live_music",
+      "karaoke",
+      "cocktails",
+      "dance",
+      "comedy"
+    ],
+    "hobbies": [
+      "Karaoke",
+      "Concerts",
+      "Cocktail recipes",
+      "Reality TV recaps"
+    ],
+    "lookingFor": [
+      "A going-out crew that is not a frat basement",
+      "People who will sing in public"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "large",
+      "energy": "high"
+    },
+    "bio": "Senior who is done with campus parties and ready for the actual city. Great at making friends in a loud room, has not found the loud room yet."
+  },
+  {
+    "id": "p13",
+    "name": "Isabella Rossi",
+    "age": 23,
+    "avatar": "/avatars/p13.jpg",
+    "headline": "Culinary grad on the line, dreaming up a pasta company",
+    "situation": "recent_grad",
+    "movedFrom": "New Haven, CT",
+    "monthsInCity": 8,
+    "school": "Manchester Community College",
+    "major": "Culinary Arts",
+    "classYear": 2026,
+    "studentStatus": "recent_grad",
+    "occupation": "Line cook, Parkville Market",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Old Wethersfield",
+      "city": "Wethersfield",
+      "coords": {
+        "lat": 41.7143,
+        "lng": -72.6528
+      },
+      "radiusMiles": 8
+    },
+    "learned": [
+      {
+        "text": "Makes fresh pasta on days off",
+        "category": "food_drink"
+      },
+      {
+        "text": "Grows her own tomatoes",
+        "category": "community"
+      },
+      {
+        "text": "Kitchen friends work nights",
+        "category": "food_drink"
+      }
+    ],
+    "interests": [
+      "cooking",
+      "food_tours",
+      "wine",
+      "gardening",
+      "startups"
+    ],
+    "hobbies": [
+      "Fresh pasta",
+      "Natural wine",
+      "Backyard tomatoes",
+      "Farmers markets"
+    ],
+    "lookingFor": [
+      "Other people starting something",
+      "People who take food seriously"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Finished culinary school in May, cooks nights at the Market, and wants to launch a fresh pasta brand. Kitchen friends work the same hours she does, so her days off are empty."
+  },
+  {
+    "id": "p14",
+    "name": "Noah Lindqvist",
+    "age": 21,
+    "avatar": "/avatars/p14.jpg",
+    "headline": "Bio senior, trail runner, board game strategist",
+    "situation": "student",
+    "movedFrom": "Burlington, VT",
+    "monthsInCity": 38,
+    "school": "Central Connecticut State University",
+    "major": "Biology",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Lab assistant, CCSU",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "New Britain",
+      "city": "New Britain",
+      "coords": {
+        "lat": 41.6752,
+        "lng": -72.7796
+      },
+      "radiusMiles": 12
+    },
+    "learned": [
+      {
+        "text": "Trail runs before lab",
+        "category": "active"
+      },
+      {
+        "text": "Euro board games on Fridays",
+        "category": "social"
+      },
+      {
+        "text": "Friends graduating and leaving",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "hiking",
+      "climbing",
+      "science",
+      "running",
+      "board_games"
+    ],
+    "hobbies": [
+      "Trail running",
+      "Top-rope climbing",
+      "Euro board games",
+      "Birding"
+    ],
+    "lookingFor": [
+      "A weekend hiking crew",
+      "A nerdy game night"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "active"
+    },
+    "bio": "Senior at CCSU applying to grad school. His friends are graduating and scattering; he wants a Hartford crew that outlasts the semester."
+  },
+  {
+    "id": "p15",
+    "name": "Liam O'Connor",
+    "age": 24,
+    "avatar": "/avatars/p15.jpg",
+    "headline": "M.Arch student from Dublin obsessed with Hartford's old buildings",
+    "situation": "international_student",
+    "movedFrom": "Dublin, Ireland",
+    "homeCountry": "Ireland",
+    "monthsInCity": 14,
+    "school": "University of Hartford",
+    "major": "Master of Architecture",
+    "classYear": 2027,
+    "studentStatus": "grad_student",
+    "occupation": "Studio teaching assistant",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Parkville",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7521,
+        "lng": -72.7066
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Photographs old buildings",
+        "category": "arts"
+      },
+      {
+        "text": "Sketches on his commute",
+        "category": "arts"
+      },
+      {
+        "text": "Wants a regular pub",
+        "category": "food_drink"
+      }
+    ],
+    "interests": [
+      "visual_art",
+      "design",
+      "photography",
+      "history",
+      "craft_beer",
+      "international"
+    ],
+    "hobbies": [
+      "Architectural photography",
+      "Urban sketching",
+      "Pub quizzes",
+      "Brutalism"
+    ],
+    "lookingFor": [
+      "People who will walk around old neighborhoods",
+      "A regular pub"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Second year of an architecture master's. Knows more about the Colt Armory than anyone he has met and would love someone to tell."
+  },
+  {
+    "id": "p16",
+    "name": "Samuel Adeyemi",
+    "age": 20,
+    "avatar": "/avatars/p16.jpg",
+    "headline": "Public policy junior who plays pickup soccer and shows up",
+    "situation": "student",
+    "movedFrom": "Washington, DC",
+    "monthsInCity": 26,
+    "school": "Trinity College",
+    "major": "Public Policy & Law",
+    "classYear": 2028,
+    "studentStatus": "undergrad",
+    "occupation": "Intern, Hartford Foundation for Public Giving",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Trinity campus",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7488,
+        "lng": -72.6893
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Pickup soccer whenever he can",
+        "category": "active"
+      },
+      {
+        "text": "Church small group Wednesdays",
+        "category": "community"
+      },
+      {
+        "text": "Wants Hartford people, not just Trinity",
+        "category": "community"
+      }
+    ],
+    "interests": [
+      "volunteering",
+      "faith",
+      "gardening",
+      "soccer",
+      "basketball"
+    ],
+    "hobbies": [
+      "Pickup soccer",
+      "Community gardens",
+      "Church small group",
+      "Premier League"
+    ],
+    "lookingFor": [
+      "A soccer game that happens every week",
+      "Hartford people, not just Trinity people"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "large",
+      "energy": "active"
+    },
+    "bio": "Believes in Hartford more than most of his classmates, who never cross Broad Street. Wants to find the other people who do."
+  },
+  {
+    "id": "p17",
+    "name": "Grace Nakamura",
+    "age": 23,
+    "avatar": "/avatars/p17.jpg",
+    "headline": "1L who logged off Big Tech and wants a real network here",
+    "situation": "student",
+    "movedFrom": "San Francisco, CA",
+    "monthsInCity": 2,
+    "school": "UConn School of Law",
+    "major": "JD, 1L",
+    "classYear": 2029,
+    "studentStatus": "grad_student",
+    "occupation": "Law student",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Downtown",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7636,
+        "lng": -72.6762
+      },
+      "radiusMiles": 5
+    },
+    "learned": [
+      {
+        "text": "Runs 5Ks before class",
+        "category": "active"
+      },
+      {
+        "text": "Hot yoga on Sundays",
+        "category": "active"
+      },
+      {
+        "text": "Two months in, no visitors yet",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "running",
+      "yoga",
+      "fitness",
+      "coffee",
+      "career_networking"
+    ],
+    "hobbies": [
+      "5k PRs",
+      "Hot yoga",
+      "Matcha",
+      "Personal finance podcasts"
+    ],
+    "lookingFor": [
+      "Ambitious women her age",
+      "A morning workout crew"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "active"
+    },
+    "bio": "Left a tech job in San Francisco for law school in Hartford. Two months in, her section is competitive and her apartment has a river view and zero visitors."
+  },
+  {
+    "id": "p18",
+    "name": "Olivia Bennett",
+    "age": 22,
+    "avatar": "/avatars/p18.jpg",
+    "headline": "English grad, paralegal by day, book club dropout looking for a new one",
+    "situation": "recent_grad",
+    "movedFrom": "University of Hartford",
+    "monthsInCity": 52,
+    "school": "University of Hartford",
+    "major": "English",
+    "classYear": 2026,
+    "studentStatus": "recent_grad",
+    "occupation": "Paralegal, Robinson+Cole",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "West Hartford Center",
+      "city": "West Hartford",
+      "coords": {
+        "lat": 41.7631,
+        "lng": -72.7411
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Reads two books a week",
+        "category": "learning"
+      },
+      {
+        "text": "A24 movies, alone",
+        "category": "arts"
+      },
+      {
+        "text": "Nowhere to walk to with anyone",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "trivia",
+      "book_club",
+      "wine",
+      "film",
+      "theater"
+    ],
+    "hobbies": [
+      "Reading challenges",
+      "A24 movies",
+      "Community theater",
+      "Wine bars"
+    ],
+    "lookingFor": [
+      "A book club that actually reads the book",
+      "Trivia teammates"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Graduated in May and took the first job that would have her. Stayed in West Hartford because it looked walkable, and it is, she just has nowhere to walk to with anyone."
+  },
+  {
+    "id": "p19",
+    "name": "Ravi Patel",
+    "age": 25,
+    "avatar": "/avatars/p19.jpg",
+    "headline": "MBA student from Ahmedabad who took up pickleball to meet humans",
+    "situation": "international_student",
+    "movedFrom": "Ahmedabad, India",
+    "homeCountry": "India",
+    "monthsInCity": 14,
+    "school": "UConn Hartford",
+    "major": "MBA, Finance concentration",
+    "classYear": 2027,
+    "studentStatus": "grad_student",
+    "occupation": "Summer analyst, Travelers (returning)",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Downtown",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7671,
+        "lng": -72.6712
+      },
+      "radiusMiles": 8
+    },
+    "learned": [
+      {
+        "text": "Took up pickleball to meet people",
+        "category": "active"
+      },
+      {
+        "text": "Listens to founder podcasts",
+        "category": "learning"
+      },
+      {
+        "text": "Forty info sessions, zero meetups",
+        "category": "learning"
+      }
+    ],
+    "interests": [
+      "startups",
+      "finance",
+      "tech",
+      "career_networking",
+      "pickleball",
+      "international"
+    ],
+    "hobbies": [
+      "Pickleball",
+      "Angel investing podcasts",
+      "Cricket highlights",
+      "Espresso"
+    ],
+    "lookingFor": [
+      "Founders and operators, not just classmates",
+      "A pickleball ladder"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "active"
+    },
+    "bio": "Second-year MBA on a student visa, so the job hunt is on a clock. Has been to forty info sessions this year and zero in-person meetups."
+  },
+  {
+    "id": "p20",
+    "name": "Mateo Gonzalez",
+    "age": 23,
+    "avatar": "/avatars/p20.jpg",
+    "headline": "Jazz bassist from Bogota looking for a scene off campus",
+    "situation": "international_student",
+    "movedFrom": "Bogota, Colombia",
+    "homeCountry": "Colombia",
+    "monthsInCity": 3,
+    "school": "University of Hartford",
+    "major": "MM Jazz Studies, The Hartt School",
+    "classYear": 2028,
+    "studentStatus": "grad_student",
+    "occupation": "Gigging bassist, Hartt ensemble",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Frog Hollow",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7571,
+        "lng": -72.6894
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Plays upright bass",
+        "category": "music"
+      },
+      {
+        "text": "Salsa nights back in Bogota",
+        "category": "social"
+      },
+      {
+        "text": "Wants the Spanish to be fast",
+        "category": "learning"
+      }
+    ],
+    "interests": [
+      "live_music",
+      "jazz",
+      "dance",
+      "language_exchange",
+      "soccer",
+      "international"
+    ],
+    "hobbies": [
+      "Upright bass",
+      "Salsa nights",
+      "Pickup soccer",
+      "Vinyl"
+    ],
+    "lookingFor": [
+      "Musicians to jam with outside school",
+      "A Spanish-speaking crowd"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "high"
+    },
+    "bio": "First semester at Hartt, living in Frog Hollow because Park Street sounds like home. Wants a jam session, a soccer game, and a place where the Spanish is fast."
+  },
+  {
+    "id": "p21",
+    "name": "Ben Weiss",
+    "age": 22,
+    "avatar": "/avatars/p21.jpg",
+    "headline": "Engineering senior, amateur pitmaster, brewery completionist",
+    "situation": "student",
+    "movedFrom": "Boston, MA",
+    "monthsInCity": 38,
+    "school": "Trinity College",
+    "major": "Engineering",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Engineering intern, Pratt & Whitney (part-time)",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Trinity campus",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6888
+      },
+      "radiusMiles": 8
+    },
+    "learned": [
+      {
+        "text": "Smokes brisket on weekends",
+        "category": "food_drink"
+      },
+      {
+        "text": "Brewery passport, mostly solo",
+        "category": "food_drink"
+      },
+      {
+        "text": "Same two roommates every time",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "craft_beer",
+      "cooking",
+      "food_tours",
+      "sports_fan",
+      "trivia"
+    ],
+    "hobbies": [
+      "Smoking brisket",
+      "Brewery passports",
+      "Fantasy football",
+      "Bar trivia"
+    ],
+    "lookingFor": [
+      "A brewery crew that is 21",
+      "Somewhere to watch Sunday football with people"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "large",
+      "energy": "high"
+    },
+    "bio": "Just turned 22 and has decided Hartford's breweries are his senior thesis. Has been to every one in the county, mostly with the same two roommates."
+  },
+  {
+    "id": "p22",
+    "name": "Andre Thompson",
+    "age": 24,
+    "avatar": "/avatars/p22.jpg",
+    "headline": "DPT student who thinks everyone should be running",
+    "situation": "student",
+    "movedFrom": "Charlotte, NC",
+    "monthsInCity": 14,
+    "school": "University of Hartford",
+    "major": "Doctor of Physical Therapy",
+    "classYear": 2028,
+    "studentStatus": "grad_student",
+    "occupation": "Clinical rotation, Hartford HealthCare",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Manchester",
+      "city": "Manchester",
+      "coords": {
+        "lat": 41.7763,
+        "lng": -72.5218
+      },
+      "radiusMiles": 12
+    },
+    "learned": [
+      {
+        "text": "Tempo runs on the greenway, alone",
+        "category": "active"
+      },
+      {
+        "text": "Coaches youth basketball",
+        "category": "community"
+      },
+      {
+        "text": "Left forty running friends in Charlotte",
+        "category": "active"
+      }
+    ],
+    "interests": [
+      "running",
+      "cycling",
+      "fitness",
+      "basketball",
+      "volunteering"
+    ],
+    "hobbies": [
+      "Tempo runs",
+      "Group rides",
+      "Pickup basketball",
+      "Youth coaching"
+    ],
+    "lookingFor": [
+      "A fast run group",
+      "Ways to give back locally"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "large",
+      "energy": "active"
+    },
+    "bio": "Second year of PT school, on rotation in Manchester. Ran the Charlotte Marathon with forty friends two years ago; here he runs the Charter Oak Greenway alone."
+  },
+  {
+    "id": "p23",
+    "name": "Zoe Kim",
+    "age": 21,
+    "avatar": "/avatars/p23.jpg",
+    "headline": "Animation junior, film nerd, secret karaoke powerhouse",
+    "situation": "student",
+    "movedFrom": "Los Angeles, CA",
+    "monthsInCity": 26,
+    "school": "University of Hartford",
+    "major": "Illustration & Animation, Hartford Art School",
+    "classYear": 2028,
+    "studentStatus": "undergrad",
+    "occupation": "Motion design intern (remote)",
+    "workMode": "remote",
+    "location": {
+      "neighborhood": "Downtown",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.768,
+        "lng": -72.6752
+      },
+      "radiusMiles": 5
+    },
+    "learned": [
+      {
+        "text": "Criterion Channel every night",
+        "category": "arts"
+      },
+      {
+        "text": "Shoots disposable cameras",
+        "category": "arts"
+      },
+      {
+        "text": "Art school friends, same building",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "visual_art",
+      "film",
+      "design",
+      "photography",
+      "karaoke"
+    ],
+    "hobbies": [
+      "After Effects experiments",
+      "Criterion Channel",
+      "Disposable cameras",
+      "Karaoke"
+    ],
+    "lookingFor": [
+      "Creative people to collaborate with",
+      "Someone to go to screenings with"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Moved off campus to a downtown studio this fall. Her art school friends are great but they are all in the same building; she wants the city's creative people too."
+  },
+  {
+    "id": "p24",
+    "name": "Daniel Osei",
+    "age": 26,
+    "avatar": "/avatars/p24.jpg",
+    "headline": "Army veteran on the GI Bill, retraining in cybersecurity",
+    "situation": "student",
+    "movedFrom": "Fort Liberty, NC",
+    "monthsInCity": 6,
+    "school": "Capital Community College",
+    "major": "Cybersecurity",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "SOC intern, insurance (part-time)",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Newington",
+      "city": "Newington",
+      "coords": {
+        "lat": 41.6983,
+        "lng": -72.7241
+      },
+      "radiusMiles": 10
+    },
+    "learned": [
+      {
+        "text": "Lifts at 5am",
+        "category": "active"
+      },
+      {
+        "text": "Plays chess online",
+        "category": "social"
+      },
+      {
+        "text": "Five years older than his classmates",
+        "category": "community"
+      }
+    ],
+    "interests": [
+      "volunteering",
+      "tech",
+      "fitness",
+      "history",
+      "board_games"
+    ],
+    "hobbies": [
+      "Early morning lifting",
+      "Military history",
+      "Chess",
+      "Habitat builds"
+    ],
+    "lookingFor": [
+      "Other vets and older students",
+      "Structured ways to meet people"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "active"
+    },
+    "bio": "Got out of the Army and enrolled at Capital on the GI Bill. Five years older than his classmates and used to a unit around him; civilian life is quieter than he expected."
+  },
+  {
+    "id": "p25",
+    "name": "Nora Haddad",
+    "age": 23,
+    "avatar": "/avatars/p25.jpg",
+    "headline": "English grad, poet, grant writer, owner of one very energetic dog",
+    "situation": "recent_grad",
+    "movedFrom": "Detroit, MI",
+    "monthsInCity": 52,
+    "school": "Trinity College",
+    "major": "English & Creative Writing",
+    "classYear": 2025,
+    "studentStatus": "recent_grad",
+    "occupation": "Grant writer, Hartford nonprofit",
+    "workMode": "remote",
+    "location": {
+      "neighborhood": "West End",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7709,
+        "lng": -72.7089
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Walks the dog in Elizabeth Park",
+        "category": "social"
+      },
+      {
+        "text": "Writes poems nobody reads",
+        "category": "learning"
+      },
+      {
+        "text": "Friends who stayed have left",
+        "category": "community"
+      }
+    ],
+    "interests": [
+      "hiking",
+      "writing",
+      "book_club",
+      "poetry",
+      "gardening",
+      "dogs"
+    ],
+    "hobbies": [
+      "Poetry drafts",
+      "Long dog walks in Elizabeth Park",
+      "Houseplants",
+      "Essay collections"
+    ],
+    "lookingFor": [
+      "A writing group",
+      "People to hike with on Saturdays"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Graduated last year and stayed for a job she likes. The friends who stayed have since left; she writes alone all day and would like one thing a week that involves other people."
+  },
+  {
+    "id": "p26",
+    "name": "Tyler Brooks",
+    "age": 20,
+    "avatar": "/avatars/p26.jpg",
+    "headline": "Game design sophomore who is very good at Codenames",
+    "situation": "student",
+    "movedFrom": "Denver, CO",
+    "monthsInCity": 14,
+    "school": "Central Connecticut State University",
+    "major": "Computer Science, Game Design track",
+    "classYear": 2029,
+    "studentStatus": "undergrad",
+    "occupation": "Student",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "New Britain",
+      "city": "New Britain",
+      "coords": {
+        "lat": 41.6912,
+        "lng": -72.7669
+      },
+      "radiusMiles": 10
+    },
+    "learned": [
+      {
+        "text": "Builds games in Godot",
+        "category": "learning"
+      },
+      {
+        "text": "Dorm empties every weekend",
+        "category": "social"
+      },
+      {
+        "text": "Friends he has never met in person",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "gaming",
+      "board_games",
+      "trivia",
+      "comedy",
+      "climbing"
+    ],
+    "hobbies": [
+      "Godot projects",
+      "Board game nights",
+      "Improv shows",
+      "Bouldering"
+    ],
+    "lookingFor": [
+      "A regular game night",
+      "People who will go to comedy shows"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "chill"
+    },
+    "bio": "Picked CCSU for the game design program and lives in a dorm where everyone goes home on weekends. Spends most nights on a Discord server and wants friends whose faces he has seen."
+  },
+  {
+    "id": "p27",
+    "name": "Kevin Nguyen",
+    "age": 24,
+    "avatar": "/avatars/p27.jpg",
+    "headline": "New grad engineer with a startup itch and a camera bag",
+    "situation": "recent_grad",
+    "movedFrom": "Houston, TX",
+    "monthsInCity": 4,
+    "school": "UConn Hartford",
+    "major": "MS Business Analytics",
+    "classYear": 2026,
+    "studentStatus": "recent_grad",
+    "occupation": "Software engineer, insurtech",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Downtown",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7644,
+        "lng": -72.6707
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Hackathons on weekends",
+        "category": "learning"
+      },
+      {
+        "text": "Roasts his own coffee",
+        "category": "food_drink"
+      },
+      {
+        "text": "Was told Hartford has no builders",
+        "category": "learning"
+      }
+    ],
+    "interests": [
+      "ai",
+      "tech",
+      "startups",
+      "coffee",
+      "pickleball",
+      "photography"
+    ],
+    "hobbies": [
+      "Weekend hackathons",
+      "Street photography",
+      "Pickleball",
+      "Coffee roasting"
+    ],
+    "lookingFor": [
+      "A co-founder, eventually",
+      "Engineers who build things on weekends"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "active"
+    },
+    "bio": "Finished his master's in May and took a Hartford insurtech job instead of going back to Texas. Wants to find the builders in a city he was told had none."
+  },
+  {
+    "id": "p28",
+    "name": "Julian Moreau",
+    "age": 22,
+    "avatar": "/avatars/p28.jpg",
+    "headline": "Music production senior from Montreal who finds shows by night",
+    "situation": "international_student",
+    "movedFrom": "Montreal, QC",
+    "homeCountry": "Canada",
+    "monthsInCity": 38,
+    "school": "University of Hartford",
+    "major": "Music Production & Technology, The Hartt School",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Studio assistant, Hartt recording studios",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Asylum Hill",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7688,
+        "lng": -72.6935
+      },
+      "radiusMiles": 7
+    },
+    "learned": [
+      {
+        "text": "Modular synths in his room",
+        "category": "music"
+      },
+      {
+        "text": "Goes to shows alone",
+        "category": "music"
+      },
+      {
+        "text": "Wants the local scene, not just Hartt",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "live_music",
+      "jazz",
+      "film",
+      "cocktails",
+      "cycling",
+      "international"
+    ],
+    "hobbies": [
+      "Modular synths",
+      "Jazz records",
+      "Film scores",
+      "Fixed-gear bikes"
+    ],
+    "lookingFor": [
+      "A concert buddy",
+      "Musicians and producers outside Hartt"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Senior year at Hartt and has been to more Hartford shows alone than with people. Wants the local music scene, not just the school one."
+  },
+  {
+    "id": "p29",
+    "name": "Amara Diallo",
+    "age": 24,
+    "avatar": "/avatars/p29.jpg",
+    "headline": "MPH student from Dakar who cooks for a crowd she has not met yet",
+    "situation": "international_student",
+    "movedFrom": "Dakar, Senegal",
+    "homeCountry": "Senegal",
+    "monthsInCity": 14,
+    "school": "UConn Health",
+    "major": "Master of Public Health",
+    "classYear": 2027,
+    "studentStatus": "grad_student",
+    "occupation": "Practicum, CT Department of Public Health",
+    "workMode": "hybrid",
+    "location": {
+      "neighborhood": "Frog Hollow",
+      "city": "Hartford",
+      "coords": {
+        "lat": 41.7594,
+        "lng": -72.6861
+      },
+      "radiusMiles": 6
+    },
+    "learned": [
+      {
+        "text": "Cooks thieboudienne for eight",
+        "category": "food_drink"
+      },
+      {
+        "text": "Speaks French at home",
+        "category": "learning"
+      },
+      {
+        "text": "Eats it alone all week",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "cooking",
+      "food_tours",
+      "dance",
+      "volunteering",
+      "language_exchange",
+      "international"
+    ],
+    "hobbies": [
+      "West African cooking",
+      "Afrobeats dance",
+      "French conversation",
+      "Food rescue volunteering"
+    ],
+    "lookingFor": [
+      "A dinner club",
+      "Francophones and other internationals"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day",
+      "weekend_evening"
+    ],
+    "vibe": {
+      "groupSize": "medium",
+      "energy": "high"
+    },
+    "bio": "Second year of an MPH, living in Frog Hollow and commuting to Farmington. Cooks enough thieboudienne for eight every Sunday and eats it alone all week."
+  },
+  {
+    "id": "p30",
+    "name": "Fiona Walsh",
+    "age": 22,
+    "avatar": "/avatars/p30.jpg",
+    "headline": "Ceramics senior who is happiest covered in clay",
+    "situation": "student",
+    "movedFrom": "Stamford, CT",
+    "monthsInCity": 38,
+    "school": "University of Hartford",
+    "major": "Ceramics, Hartford Art School",
+    "classYear": 2027,
+    "studentStatus": "undergrad",
+    "occupation": "Studio monitor, Hartford Art School",
+    "workMode": "in_office",
+    "location": {
+      "neighborhood": "Bishops Corner",
+      "city": "West Hartford",
+      "coords": {
+        "lat": 41.7897,
+        "lng": -72.7503
+      },
+      "radiusMiles": 8
+    },
+    "learned": [
+      {
+        "text": "Throws pots every day",
+        "category": "arts"
+      },
+      {
+        "text": "Grows vegetables",
+        "category": "community"
+      },
+      {
+        "text": "Wondering what happens after May",
+        "category": "social"
+      }
+    ],
+    "interests": [
+      "crafts",
+      "visual_art",
+      "gardening",
+      "yoga",
+      "wine",
+      "dogs"
+    ],
+    "hobbies": [
+      "Wheel throwing",
+      "Vegetable garden",
+      "Yin yoga",
+      "Natural wine",
+      "Her greyhound"
+    ],
+    "lookingFor": [
+      "Makers outside the art school",
+      "Calm people who like slow evenings"
+    ],
+    "availability": [
+      "weekday_evening",
+      "weekend_day"
+    ],
+    "vibe": {
+      "groupSize": "small",
+      "energy": "chill"
+    },
+    "bio": "Senior in the ceramics studio wondering what happens after May. Wants to meet the working artists and makers in the city before she has to become one."
+  }
+]

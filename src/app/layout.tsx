@@ -13,18 +13,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rally",
+  title: "Rally: find your people in Hartford",
   description:
-    "Rally is a Next.js starting point with TypeScript, Tailwind, and shadcn/ui.",
+    "Rally matches young professionals who are new in town with the local events where they are most likely to find their people.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} dark h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col overflow-hidden">
+        {children}
+      </body>
     </html>
   );
 }
