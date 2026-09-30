@@ -84,9 +84,9 @@
 }
 
 .dark {
-  --background: oklch(0.145 0 0);
+  --background: oklch(0.12 0.015 265);
   --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
+  --card: oklch(0.19 0.02 265);
   --card-foreground: oklch(0.985 0 0);
   --popover: oklch(0.205 0 0);
   --popover-foreground: oklch(0.985 0 0);
@@ -127,4 +127,133 @@
   html {
     @apply font-sans;
   }
+}
+
+/* Demo stage animations */
+@keyframes rally-pop {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  35% {
+    transform: scale(1.3);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+}
+
+@keyframes rally-burst {
+  0% {
+    transform: scale(0.4);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+
+@keyframes rally-shard {
+  0% {
+    transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(var(--dx), var(--dy)) scale(0);
+    opacity: 0;
+  }
+}
+
+@keyframes rally-appear {
+  0% {
+    transform: scale(0.2);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes rally-glow {
+  0%,
+  100% {
+    box-shadow:
+      0 0 0 3px rgba(251, 191, 36, 0.9),
+      0 0 24px 6px rgba(251, 191, 36, 0.45);
+  }
+  50% {
+    box-shadow:
+      0 0 0 3px rgba(251, 191, 36, 1),
+      0 0 44px 14px rgba(251, 191, 36, 0.7);
+  }
+}
+
+/* Pop lifecycle is driven imperatively from the physics stage via these classes. */
+.rally-burst,
+.rally-shard {
+  opacity: 0;
+}
+.is-popping .rally-bubble-inner {
+  animation: rally-pop 420ms cubic-bezier(0.3, 0.9, 0.4, 1) forwards;
+}
+.is-popping .rally-burst {
+  animation: rally-burst 480ms ease-out forwards;
+}
+.is-popping .rally-shard {
+  animation: rally-shard 520ms cubic-bezier(0.2, 0.8, 0.3, 1) forwards;
+}
+.is-popping,
+.is-gone {
+  pointer-events: none;
+}
+.is-gone {
+  display: none;
+}
+.rally-appear .rally-bubble-inner {
+  animation: rally-appear 500ms cubic-bezier(0.2, 0.9, 0.3, 1.2) both;
+  animation-delay: var(--appear-delay, 0ms);
+}
+.rally-glow {
+  animation: rally-glow 1.6s ease-in-out infinite;
+}
+
+/* Student demo: message bubbles slide in */
+@keyframes rally-msg-in {
+  0% {
+    transform: translateY(10px) scale(0.96);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+.rally-msg-in {
+  animation: rally-msg-in 260ms cubic-bezier(0.2, 0.9, 0.3, 1) both;
+}
+
+.rally-bubble {
+  position: absolute;
+  left: 0;
+  top: 0;
+  will-change: transform;
+  touch-action: none;
+  user-select: none;
+}
+.rally-bubble-inner {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  transition:
+    width 550ms cubic-bezier(0.2, 0.9, 0.3, 1),
+    height 550ms cubic-bezier(0.2, 0.9, 0.3, 1),
+    border-radius 550ms cubic-bezier(0.2, 0.9, 0.3, 1),
+    scale 550ms cubic-bezier(0.2, 0.9, 0.3, 1),
+    opacity 400ms ease,
+    filter 400ms ease;
 }

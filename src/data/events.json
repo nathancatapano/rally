@@ -1,0 +1,6041 @@
+[
+  {
+    "id": "e001",
+    "title": "New to Hartford Happy Hour",
+    "description": "For people who moved here in the last year. Name tags, icebreakers, and a host who introduces you to three people before you leave.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "cocktails"
+    ],
+    "start": "2026-10-01T17:30:00-04:00",
+    "end": "2026-10-01T20:00:00-04:00",
+    "venue": {
+      "name": "Arch Street Tavern",
+      "address": "85 Arch St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7622,
+        "lng": -72.6733
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/new-to-hartford/"
+    }
+  },
+  {
+    "id": "e002",
+    "title": "Fleet Feet Thursday Fun Run",
+    "description": "Three or five miles through West Hartford Center, then pizza and beer at the store. Very beginner friendly.",
+    "category": "active",
+    "tags": [
+      "running",
+      "craft_beer"
+    ],
+    "start": "2026-10-01T18:30:00-04:00",
+    "end": "2026-10-01T20:00:00-04:00",
+    "venue": {
+      "name": "Fleet Feet West Hartford",
+      "address": "1003 Farmington Ave, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.762,
+        "lng": -72.74
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://fleetfeet.com/s/westhartford"
+    }
+  },
+  {
+    "id": "e003",
+    "title": "Open Blues Jam",
+    "description": "Bring an instrument and sign the list. House band backs anyone brave enough.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "jazz"
+    ],
+    "start": "2026-10-01T20:00:00-04:00",
+    "end": "2026-10-01T23:00:00-04:00",
+    "venue": {
+      "name": "Black-eyed Sally's",
+      "address": "350 Asylum St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7679,
+        "lng": -72.6778
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://blackeyedsallys.com"
+    }
+  },
+  {
+    "id": "e004",
+    "title": "Real Art Ways Film Club: 'Aftersun'",
+    "description": "Screening followed by a facilitated discussion over drinks in the cafe.",
+    "category": "arts",
+    "tags": [
+      "film",
+      "visual_art"
+    ],
+    "start": "2026-10-02T19:00:00-04:00",
+    "end": "2026-10-02T21:30:00-04:00",
+    "venue": {
+      "name": "Real Art Ways",
+      "address": "56 Arbor St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7573,
+        "lng": -72.7019
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 12
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://realartways.org"
+    }
+  },
+  {
+    "id": "e005",
+    "title": "Kandace Springs Trio",
+    "description": "Nashville jazz-soul pianist and vocalist in the intimate Front Street room.",
+    "category": "music",
+    "tags": [
+      "jazz",
+      "live_music"
+    ],
+    "start": "2026-10-02T20:00:00-04:00",
+    "end": "2026-10-02T22:00:00-04:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 38
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://infinityhall.com"
+    }
+  },
+  {
+    "id": "e006",
+    "title": "Salsa Social Fridays",
+    "description": "Beginner lesson at 8, social dancing until midnight. Partners rotate during the lesson.",
+    "category": "social",
+    "tags": [
+      "dance",
+      "language_exchange",
+      "cocktails"
+    ],
+    "start": "2026-10-02T20:00:00-04:00",
+    "end": "2026-10-03T00:00:00-04:00",
+    "venue": {
+      "name": "The Russian Lady",
+      "address": "191 Ann Uccello St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7689,
+        "lng": -72.6759
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "class",
+    "source": {
+      "name": "Facebook Events",
+      "url": "https://www.facebook.com/events/hartford-salsa-social"
+    }
+  },
+  {
+    "id": "e007",
+    "title": "Hands On Hartford Saturday Meal Prep",
+    "description": "Cook and pack 400 meals with a crew of twenty. The kitchen is social by design.",
+    "category": "community",
+    "tags": [
+      "volunteering",
+      "cooking"
+    ],
+    "start": "2026-10-03T09:00:00-04:00",
+    "end": "2026-10-03T12:00:00-04:00",
+    "venue": {
+      "name": "Hands On Hartford",
+      "address": "55 Bartholomew Ave, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7551,
+        "lng": -72.7034
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://handsonhartford.org"
+    }
+  },
+  {
+    "id": "e008",
+    "title": "Elizabeth Park Dog Walk Meetup",
+    "description": "Saturday loop around the park with twenty dogs and their people. Coffee at Tisane after.",
+    "category": "social",
+    "tags": [
+      "dogs",
+      "hiking"
+    ],
+    "start": "2026-10-03T09:00:00-04:00",
+    "end": "2026-10-03T10:00:00-04:00",
+    "venue": {
+      "name": "Elizabeth Park",
+      "address": "1561 Asylum Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7754,
+        "lng": -72.7186
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-dog-walkers/"
+    }
+  },
+  {
+    "id": "e009",
+    "title": "Colt Park Pickup Soccer",
+    "description": "Saturday pickup on the turf, 7v7 rotating squads. Mixed skill, half the game is in Spanish.",
+    "category": "active",
+    "tags": [
+      "soccer"
+    ],
+    "start": "2026-10-03T10:00:00-04:00",
+    "end": "2026-10-03T12:00:00-04:00",
+    "venue": {
+      "name": "Colt Park",
+      "address": "106 Wethersfield Ave, Hartford",
+      "neighborhood": "Sheldon-Charter Oak",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.6707
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-pickup-soccer/"
+    }
+  },
+  {
+    "id": "e010",
+    "title": "Riverfront Fall Paddle",
+    "description": "Guided kayak trip on the Connecticut River from the Riverfront dock. Boats and PFDs provided.",
+    "category": "active",
+    "tags": [
+      "kayaking",
+      "sustainability"
+    ],
+    "start": "2026-10-03T10:00:00-04:00",
+    "end": "2026-10-03T12:00:00-04:00",
+    "venue": {
+      "name": "Mortensen Riverfront Plaza",
+      "address": "300 Columbus Blvd, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7652,
+        "lng": -72.666
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Venue website",
+      "url": "https://riverfront.org"
+    }
+  },
+  {
+    "id": "e011",
+    "title": "Cupping Session",
+    "description": "Taste four single origins side by side with the roaster. Free, twelve spots.",
+    "category": "food_drink",
+    "tags": [
+      "coffee"
+    ],
+    "start": "2026-10-03T10:00:00-04:00",
+    "end": "2026-10-03T11:00:00-04:00",
+    "venue": {
+      "name": "Story and Soil Coffee",
+      "address": "387 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.763,
+        "lng": -72.6852
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://storyandsoil.com"
+    }
+  },
+  {
+    "id": "e012",
+    "title": "New Park Oktoberfest",
+    "description": "Festbier release, brass band, pretzels, communal picnic tables.",
+    "category": "food_drink",
+    "tags": [
+      "craft_beer",
+      "live_music",
+      "food_tours"
+    ],
+    "start": "2026-10-03T12:00:00-04:00",
+    "end": "2026-10-03T20:00:00-04:00",
+    "venue": {
+      "name": "New Park Brewing",
+      "address": "485 New Park Ave, West Hartford",
+      "neighborhood": "Elmwood",
+      "coords": {
+        "lat": 41.744,
+        "lng": -72.7255
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://newparkbrewing.com"
+    }
+  },
+  {
+    "id": "e013",
+    "title": "Pratt Street Oktoberfest",
+    "description": "Pratt Street closes to cars for steins, brats, an oompah band and a stein-holding contest. Free entry, pay as you go.",
+    "category": "food_drink",
+    "tags": [
+      "craft_beer",
+      "live_music",
+      "food_tours"
+    ],
+    "start": "2026-10-03T13:00:00-04:00",
+    "end": "2026-10-03T19:00:00-04:00",
+    "venue": {
+      "name": "Pratt Street",
+      "address": "Pratt St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7667,
+        "lng": -72.6747
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Hartford.com",
+      "url": "https://www.hartford.com/events/pratt-street-oktoberfest"
+    }
+  },
+  {
+    "id": "e014",
+    "title": "Hartford Athletic Home Match",
+    "description": "USL Championship soccer at Trinity Health Stadium. Sit in the supporters section, stand the whole time.",
+    "category": "social",
+    "tags": [
+      "soccer",
+      "sports_fan",
+      "craft_beer"
+    ],
+    "start": "2026-10-03T19:00:00-04:00",
+    "end": "2026-10-03T21:30:00-04:00",
+    "venue": {
+      "name": "Trinity Health Stadium",
+      "address": "240 Huyshope Ave, Hartford",
+      "neighborhood": "Coltsville",
+      "coords": {
+        "lat": 41.748,
+        "lng": -72.6655
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordathletic.com"
+    }
+  },
+  {
+    "id": "e015",
+    "title": "KNOX Garden Workday",
+    "description": "Put the community gardens to bed for winter. Tools, gloves and coffee provided.",
+    "category": "community",
+    "tags": [
+      "gardening",
+      "volunteering",
+      "sustainability"
+    ],
+    "start": "2026-10-04T09:00:00-04:00",
+    "end": "2026-10-04T12:00:00-04:00",
+    "venue": {
+      "name": "KNOX Hartford",
+      "address": "75 Laurel St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7598,
+        "lng": -72.6927
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://knoxhartford.org"
+    }
+  },
+  {
+    "id": "e016",
+    "title": "Yoga in Elizabeth Park",
+    "description": "Last outdoor sessions of the year on the rose garden lawn. Bring a mat and a layer.",
+    "category": "active",
+    "tags": [
+      "yoga"
+    ],
+    "start": "2026-10-04T09:30:00-04:00",
+    "end": "2026-10-04T10:30:00-04:00",
+    "venue": {
+      "name": "Elizabeth Park",
+      "address": "1561 Asylum Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7754,
+        "lng": -72.7186
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Facebook Events",
+      "url": "https://www.facebook.com/events/yoga-in-the-park-hartford"
+    }
+  },
+  {
+    "id": "e017",
+    "title": "Sunday Pickleball Open Play",
+    "description": "Paddle-stack rotation on eight courts. Loaner paddles for first-timers.",
+    "category": "active",
+    "tags": [
+      "pickleball"
+    ],
+    "start": "2026-10-04T10:00:00-04:00",
+    "end": "2026-10-04T12:00:00-04:00",
+    "venue": {
+      "name": "Wolcott Park Pickleball Courts",
+      "address": "47 Wolcott Rd, West Hartford",
+      "neighborhood": "West Hartford",
+      "coords": {
+        "lat": 41.7375,
+        "lng": -72.7425
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/west-hartford-pickleball/"
+    }
+  },
+  {
+    "id": "e018",
+    "title": "Apple Picking & Cider Donuts Meetup",
+    "description": "Group pick-your-own at Belltown Hill, then donuts on the hill. Carpool from Parkville.",
+    "category": "food_drink",
+    "tags": [
+      "food_tours",
+      "hiking",
+      "photography"
+    ],
+    "start": "2026-10-04T11:00:00-04:00",
+    "end": "2026-10-04T14:00:00-04:00",
+    "venue": {
+      "name": "Belltown Hill Orchards",
+      "address": "483 Matson Hill Rd, South Glastonbury",
+      "neighborhood": "South Glastonbury",
+      "coords": {
+        "lat": 41.6689,
+        "lng": -72.5925
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-social-club/"
+    }
+  },
+  {
+    "id": "e019",
+    "title": "Sunday Football Watch Party",
+    "description": "Every game on, wings specials, transplant fan sections for Eagles, Pats and Giants.",
+    "category": "social",
+    "tags": [
+      "sports_fan",
+      "craft_beer"
+    ],
+    "start": "2026-10-04T13:00:00-04:00",
+    "end": "2026-10-04T17:00:00-04:00",
+    "venue": {
+      "name": "Arch Street Tavern",
+      "address": "85 Arch St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7622,
+        "lng": -72.6733
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://archstreettavern.com"
+    }
+  },
+  {
+    "id": "e020",
+    "title": "Talcott Mountain Sunset Hike",
+    "description": "Up to Heublein Tower for sunset over the valley. Moderate, 2.5 miles, bring a headlamp for the way down.",
+    "category": "active",
+    "tags": [
+      "hiking",
+      "photography"
+    ],
+    "start": "2026-10-04T17:00:00-04:00",
+    "end": "2026-10-04T19:00:00-04:00",
+    "venue": {
+      "name": "Talcott Mountain State Park",
+      "address": "200 Summit Ridge Dr, Simsbury",
+      "neighborhood": "Simsbury",
+      "coords": {
+        "lat": 41.8393,
+        "lng": -72.7977
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-hiking-group/"
+    }
+  },
+  {
+    "id": "e021",
+    "title": "Monday Night Jazz",
+    "description": "House trio plus guests in the back room. Sit at the bar, you'll end up talking to someone.",
+    "category": "music",
+    "tags": [
+      "jazz",
+      "live_music",
+      "cocktails"
+    ],
+    "start": "2026-10-05T19:30:00-04:00",
+    "end": "2026-10-05T22:00:00-04:00",
+    "venue": {
+      "name": "Black-eyed Sally's",
+      "address": "350 Asylum St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7679,
+        "lng": -72.6778
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://blackeyedsallys.com"
+    }
+  },
+  {
+    "id": "e022",
+    "title": "Sea Tea Open Mic",
+    "description": "Monday stand-up open mic. Five minutes each, supportive room, most people just watch.",
+    "category": "arts",
+    "tags": [
+      "comedy"
+    ],
+    "start": "2026-10-05T19:30:00-04:00",
+    "end": "2026-10-05T21:30:00-04:00",
+    "venue": {
+      "name": "Sea Tea Comedy Theater",
+      "address": "15 Asylum St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7665,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://seateacomedy.com"
+    }
+  },
+  {
+    "id": "e023",
+    "title": "Hartford Track Club Tuesday Night Run",
+    "description": "Pace groups from 7:00 to 11:00 per mile, 3 to 6 miles around the park loop. Regulars go to Tisane after.",
+    "category": "active",
+    "tags": [
+      "running"
+    ],
+    "start": "2026-10-06T18:00:00-04:00",
+    "end": "2026-10-06T19:30:00-04:00",
+    "venue": {
+      "name": "Elizabeth Park",
+      "address": "1561 Asylum Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7754,
+        "lng": -72.7186
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Strava Club",
+      "url": "https://www.strava.com/clubs/hartford-track-club"
+    }
+  },
+  {
+    "id": "e024",
+    "title": "Central Rock Community Climb Night",
+    "description": "Partner-finding night: staff pair you up for belays, discounted day pass, pizza at 8.",
+    "category": "active",
+    "tags": [
+      "climbing"
+    ],
+    "start": "2026-10-06T18:30:00-04:00",
+    "end": "2026-10-06T21:00:00-04:00",
+    "venue": {
+      "name": "Central Rock Gym Glastonbury",
+      "address": "275 Oakwood Dr, Glastonbury",
+      "neighborhood": "Glastonbury",
+      "coords": {
+        "lat": 41.7002,
+        "lng": -72.6112
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 22,
+      "studentAmount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://centralrockgym.com/glastonbury"
+    }
+  },
+  {
+    "id": "e025",
+    "title": "Noah Webster Book Club: 'James'",
+    "description": "Percival Everett's 'James'. Twelve chairs, new members always welcome.",
+    "category": "learning",
+    "tags": [
+      "book_club",
+      "writing"
+    ],
+    "start": "2026-10-06T18:30:00-04:00",
+    "end": "2026-10-06T20:00:00-04:00",
+    "venue": {
+      "name": "Noah Webster Library",
+      "address": "20 S Main St, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7614,
+        "lng": -72.7426
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://westhartfordlibrary.org"
+    }
+  },
+  {
+    "id": "e026",
+    "title": "Open Gym Basketball",
+    "description": "Tuesday night open runs at Parker. Full court, winners stay.",
+    "category": "active",
+    "tags": [
+      "basketball"
+    ],
+    "start": "2026-10-06T19:00:00-04:00",
+    "end": "2026-10-06T21:00:00-04:00",
+    "venue": {
+      "name": "Parker Memorial Community Center",
+      "address": "2621 Main St, Hartford",
+      "neighborhood": "North End",
+      "coords": {
+        "lat": 41.7866,
+        "lng": -72.6819
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordct.gov/parker"
+    }
+  },
+  {
+    "id": "e027",
+    "title": "Queer Trivia at Chez Est",
+    "description": "First-Tuesday pop culture trivia. Friendly, chaotic, prizes are drink tickets.",
+    "category": "social",
+    "tags": [
+      "trivia",
+      "lgbtq",
+      "cocktails"
+    ],
+    "start": "2026-10-06T20:00:00-04:00",
+    "end": "2026-10-06T22:00:00-04:00",
+    "venue": {
+      "name": "Chez Est",
+      "address": "458 Wethersfield Ave, Hartford",
+      "neighborhood": "South End",
+      "coords": {
+        "lat": 41.7415,
+        "lng": -72.6712
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/chezesthartford/"
+    }
+  },
+  {
+    "id": "e028",
+    "title": "Hartford AI Builders",
+    "description": "Show what you built this month. Laptops open, twelve people, very hands-on.",
+    "category": "learning",
+    "tags": [
+      "ai",
+      "tech"
+    ],
+    "start": "2026-10-07T18:30:00-04:00",
+    "end": "2026-10-07T20:30:00-04:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Luma",
+      "url": "https://lu.ma/hartford-ai-builders"
+    }
+  },
+  {
+    "id": "e029",
+    "title": "Wine 101: Old World vs New World",
+    "description": "Six wines blind, no snobbery. Seated at one long table.",
+    "category": "food_drink",
+    "tags": [
+      "wine"
+    ],
+    "start": "2026-10-07T18:30:00-04:00",
+    "end": "2026-10-07T20:00:00-04:00",
+    "venue": {
+      "name": "Vinted Wine Bar",
+      "address": "5 Memorial Rd, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7607,
+        "lng": -72.7418
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 35
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://vintedwinebar.com"
+    }
+  },
+  {
+    "id": "e030",
+    "title": "Hog River Trivia Night",
+    "description": "Wednesday trivia, six rounds, teams up to six. Solo players get placed on a team by the host.",
+    "category": "social",
+    "tags": [
+      "trivia",
+      "craft_beer"
+    ],
+    "start": "2026-10-07T19:00:00-04:00",
+    "end": "2026-10-07T21:00:00-04:00",
+    "venue": {
+      "name": "Hog River Brewing",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7083
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hogriverbrewing.com"
+    }
+  },
+  {
+    "id": "e031",
+    "title": "Young Adults Group",
+    "description": "Twenties and thirties group: dinner, discussion, and planning the month's service project.",
+    "category": "community",
+    "tags": [
+      "faith",
+      "volunteering"
+    ],
+    "start": "2026-10-07T19:00:00-04:00",
+    "end": "2026-10-07T20:30:00-04:00",
+    "venue": {
+      "name": "Asylum Hill Congregational Church",
+      "address": "814 Asylum Ave, Hartford",
+      "neighborhood": "Asylum Hill",
+      "coords": {
+        "lat": 41.7691,
+        "lng": -72.6959
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://ahcc.org"
+    }
+  },
+  {
+    "id": "e032",
+    "title": "Billings Forge Farmers Market",
+    "description": "Thursday market in Frog Hollow with a cooking demo at noon.",
+    "category": "food_drink",
+    "tags": [
+      "cooking",
+      "gardening",
+      "sustainability"
+    ],
+    "start": "2026-10-08T11:00:00-04:00",
+    "end": "2026-10-08T14:00:00-04:00",
+    "venue": {
+      "name": "The Kitchen at Billings Forge",
+      "address": "559 Broad St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7595,
+        "lng": -72.6888
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://billingsforgeworks.org"
+    }
+  },
+  {
+    "id": "e033",
+    "title": "Wadsworth Art After Hours",
+    "description": "Galleries open late with a DJ, cash bar and pop-up tours. The best young crowd in the city.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "cocktails",
+      "live_music"
+    ],
+    "start": "2026-10-08T17:00:00-04:00",
+    "end": "2026-10-08T21:00:00-04:00",
+    "venue": {
+      "name": "Wadsworth Atheneum",
+      "address": "600 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7636,
+        "lng": -72.673
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15,
+      "studentAmount": 0
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://thewadsworth.org"
+    }
+  },
+  {
+    "id": "e034",
+    "title": "Yappy Hour",
+    "description": "Dogs in the taproom, treats at the bar, a rescue table by the door.",
+    "category": "social",
+    "tags": [
+      "dogs",
+      "craft_beer"
+    ],
+    "start": "2026-10-08T17:00:00-04:00",
+    "end": "2026-10-08T20:00:00-04:00",
+    "venue": {
+      "name": "New Park Brewing",
+      "address": "485 New Park Ave, West Hartford",
+      "neighborhood": "Elmwood",
+      "coords": {
+        "lat": 41.744,
+        "lng": -72.7255
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://newparkbrewing.com"
+    }
+  },
+  {
+    "id": "e035",
+    "title": "HYPE After Hours",
+    "description": "Hartford Young Professionals & Entrepreneurs monthly mixer. Six hundred members, very welcoming to new faces.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "cocktails"
+    ],
+    "start": "2026-10-08T17:30:00-04:00",
+    "end": "2026-10-08T20:00:00-04:00",
+    "venue": {
+      "name": "Bear's Smokehouse",
+      "address": "89 Arch St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7621,
+        "lng": -72.6725
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hypehartford.com"
+    }
+  },
+  {
+    "id": "e036",
+    "title": "Library Board Game Night",
+    "description": "Sixty-game library, hosts teach anything. Catan and Wingspan tables always fill first.",
+    "category": "social",
+    "tags": [
+      "board_games"
+    ],
+    "start": "2026-10-08T18:00:00-04:00",
+    "end": "2026-10-08T20:30:00-04:00",
+    "venue": {
+      "name": "Hartford Public Library",
+      "address": "500 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7643,
+        "lng": -72.6718
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hplct.org"
+    }
+  },
+  {
+    "id": "e037",
+    "title": "Gallery Opening: 'Parkville Now'",
+    "description": "Group show of neighborhood photographers and painters. Artists in the room.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "photography"
+    ],
+    "start": "2026-10-08T18:00:00-04:00",
+    "end": "2026-10-08T20:30:00-04:00",
+    "venue": {
+      "name": "Real Art Ways",
+      "address": "56 Arbor St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7573,
+        "lng": -72.7019
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://realartways.org"
+    }
+  },
+  {
+    "id": "e038",
+    "title": "Hanging Hills Run Club",
+    "description": "5k out and back along the river, then a pint for four dollars. Half the people walk it.",
+    "category": "active",
+    "tags": [
+      "running",
+      "craft_beer"
+    ],
+    "start": "2026-10-08T18:30:00-04:00",
+    "end": "2026-10-08T20:30:00-04:00",
+    "venue": {
+      "name": "Hanging Hills Brewing",
+      "address": "150 Ledyard St, Hartford",
+      "neighborhood": "South Meadows",
+      "coords": {
+        "lat": 41.7461,
+        "lng": -72.6726
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/hanginghillsbrewing/"
+    }
+  },
+  {
+    "id": "e039",
+    "title": "Cinestudio: 'Chungking Express' 35mm",
+    "description": "Wong Kar-wai on film in Trinity's gorgeous old theater. Regulars linger on the steps after.",
+    "category": "arts",
+    "tags": [
+      "film"
+    ],
+    "start": "2026-10-08T19:30:00-04:00",
+    "end": "2026-10-08T21:30:00-04:00",
+    "venue": {
+      "name": "Cinestudio",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6907
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10,
+      "studentAmount": 7
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://cinestudio.org"
+    }
+  },
+  {
+    "id": "e040",
+    "title": "Thursday Karaoke",
+    "description": "Downtown's most forgiving karaoke crowd. Group songs encouraged.",
+    "category": "social",
+    "tags": [
+      "karaoke",
+      "cocktails"
+    ],
+    "start": "2026-10-08T21:00:00-04:00",
+    "end": "2026-10-09T00:00:00-04:00",
+    "venue": {
+      "name": "Pig's Eye Pub",
+      "address": "356 Asylum St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7681,
+        "lng": -72.6781
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://pigseyepub.com"
+    }
+  },
+  {
+    "id": "e041",
+    "title": "Marathon Weekend Shakeout Run",
+    "description": "Easy three miles the morning before the marathon, open to anyone. Coffee and bagels after in the park.",
+    "category": "active",
+    "tags": [
+      "running",
+      "coffee"
+    ],
+    "start": "2026-10-09T07:30:00-04:00",
+    "end": "2026-10-09T09:00:00-04:00",
+    "venue": {
+      "name": "Bushnell Park",
+      "address": "99 Trinity St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7648,
+        "lng": -72.679
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Strava Club",
+      "url": "https://www.strava.com/clubs/hartford-track-club"
+    }
+  },
+  {
+    "id": "e042",
+    "title": "Wheel Throwing Taster",
+    "description": "Two hours on the wheel with an instructor. Pieces fired and ready in three weeks.",
+    "category": "arts",
+    "tags": [
+      "crafts",
+      "visual_art"
+    ],
+    "start": "2026-10-09T18:30:00-04:00",
+    "end": "2026-10-09T21:00:00-04:00",
+    "venue": {
+      "name": "Farmington Valley Arts Center",
+      "address": "25 Arts Center Ln, Avon",
+      "neighborhood": "Avon",
+      "coords": {
+        "lat": 41.8106,
+        "lng": -72.8304
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://artsfvac.org"
+    }
+  },
+  {
+    "id": "e043",
+    "title": "Latin Night at Parkville Market",
+    "description": "Live salsa band on the rooftop, dance floor opens at 8. No experience required, plenty of people will pull you in.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "dance",
+      "language_exchange"
+    ],
+    "start": "2026-10-09T19:00:00-04:00",
+    "end": "2026-10-09T23:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://parkvillemarket.com"
+    }
+  },
+  {
+    "id": "e044",
+    "title": "Hartford Stage: Opening Night, 'The Lehman Trilogy'",
+    "description": "Opening night with a lobby reception after the show.",
+    "category": "arts",
+    "tags": [
+      "theater",
+      "history"
+    ],
+    "start": "2026-10-09T19:30:00-04:00",
+    "end": "2026-10-09T22:45:00-04:00",
+    "venue": {
+      "name": "Hartford Stage",
+      "address": "50 Church St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7683,
+        "lng": -72.6739
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45,
+      "studentAmount": 20
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordstage.org"
+    }
+  },
+  {
+    "id": "e045",
+    "title": "Sea Tea Improv Showcase",
+    "description": "House teams and a guest troupe. BYOB, the bar next door after is half the show.",
+    "category": "arts",
+    "tags": [
+      "comedy"
+    ],
+    "start": "2026-10-09T20:00:00-04:00",
+    "end": "2026-10-09T21:30:00-04:00",
+    "venue": {
+      "name": "Sea Tea Comedy Theater",
+      "address": "15 Asylum St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7665,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://seateacomedy.com"
+    }
+  },
+  {
+    "id": "e046",
+    "title": "Brew HaHa Comedy Night",
+    "description": "Touring headliner plus locals in the brewery's basement club.",
+    "category": "arts",
+    "tags": [
+      "comedy",
+      "craft_beer"
+    ],
+    "start": "2026-10-09T20:00:00-04:00",
+    "end": "2026-10-09T22:00:00-04:00",
+    "venue": {
+      "name": "City Steam Brewery",
+      "address": "942 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7683,
+        "lng": -72.6725
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 12
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://citysteam.biz"
+    }
+  },
+  {
+    "id": "e047",
+    "title": "Eversource Hartford Marathon & Half",
+    "description": "Connecticut's biggest race day. 10,000 runners loop out of Bushnell Park and back through the West End. Cheer zones at Elizabeth Park and Capitol Ave.",
+    "category": "active",
+    "tags": [
+      "running",
+      "fitness"
+    ],
+    "start": "2026-10-10T08:00:00-04:00",
+    "end": "2026-10-10T13:00:00-04:00",
+    "venue": {
+      "name": "Bushnell Park",
+      "address": "99 Trinity St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7648,
+        "lng": -72.679
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 120,
+      "studentAmount": 85
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordmarathon.com"
+    }
+  },
+  {
+    "id": "e048",
+    "title": "Habitat Build Day",
+    "description": "Framing day on a North End build. No experience needed, lunch provided, you leave with sore arms and eight new names.",
+    "category": "community",
+    "tags": [
+      "volunteering",
+      "fitness"
+    ],
+    "start": "2026-10-10T08:00:00-04:00",
+    "end": "2026-10-10T15:00:00-04:00",
+    "venue": {
+      "name": "Hartford Area Habitat for Humanity",
+      "address": "20 Jennings Rd, Hartford",
+      "neighborhood": "North Meadows",
+      "coords": {
+        "lat": 41.7938,
+        "lng": -72.6784
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordhabitat.org"
+    }
+  },
+  {
+    "id": "e049",
+    "title": "Sanctuary Community Yoga",
+    "description": "Pay-what-you-can Saturday power flow. Coffee next door after is a tradition.",
+    "category": "active",
+    "tags": [
+      "yoga",
+      "fitness"
+    ],
+    "start": "2026-10-10T09:00:00-04:00",
+    "end": "2026-10-10T10:15:00-04:00",
+    "venue": {
+      "name": "Sanctuary Power Yoga",
+      "address": "66 LaSalle Rd, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7604,
+        "lng": -72.7437
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://sanctuarypoweryoga.com"
+    }
+  },
+  {
+    "id": "e050",
+    "title": "Colt Park Pickup Soccer",
+    "description": "Weekly Saturday pickup on the turf.",
+    "category": "active",
+    "tags": [
+      "soccer"
+    ],
+    "start": "2026-10-10T10:00:00-04:00",
+    "end": "2026-10-10T12:00:00-04:00",
+    "venue": {
+      "name": "Colt Park",
+      "address": "106 Wethersfield Ave, Hartford",
+      "neighborhood": "Sheldon-Charter Oak",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.6707
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-pickup-soccer/"
+    }
+  },
+  {
+    "id": "e051",
+    "title": "Park Street Latin Food Crawl",
+    "description": "Five stops along Park Street: pastelillos, mofongo, Peruvian rotisserie, Colombian bakery, Mexican paletas.",
+    "category": "food_drink",
+    "tags": [
+      "food_tours",
+      "language_exchange",
+      "cooking"
+    ],
+    "start": "2026-10-10T12:00:00-04:00",
+    "end": "2026-10-10T15:00:00-04:00",
+    "venue": {
+      "name": "Park Street",
+      "address": "Park St at Broad St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.758,
+        "lng": -72.695
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 25
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/park-street-food-crawl"
+    }
+  },
+  {
+    "id": "e052",
+    "title": "Hooker Oktoberfest",
+    "description": "Stein hoisting, keg bowling, live polka-rock, football on the big screen.",
+    "category": "food_drink",
+    "tags": [
+      "craft_beer",
+      "live_music",
+      "sports_fan"
+    ],
+    "start": "2026-10-10T13:00:00-04:00",
+    "end": "2026-10-10T20:00:00-04:00",
+    "venue": {
+      "name": "Thomas Hooker Brewery",
+      "address": "140 Huyshope Ave, Hartford",
+      "neighborhood": "Coltsville",
+      "coords": {
+        "lat": 41.7523,
+        "lng": -72.6663
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hookerbeer.com"
+    }
+  },
+  {
+    "id": "e053",
+    "title": "Afrobeats Dance Class",
+    "description": "High-energy choreography class, no experience needed. Ends with a cypher.",
+    "category": "social",
+    "tags": [
+      "dance",
+      "fitness"
+    ],
+    "start": "2026-10-10T14:00:00-04:00",
+    "end": "2026-10-10T15:30:00-04:00",
+    "venue": {
+      "name": "West Indian Social Club",
+      "address": "3340 Main St, Hartford",
+      "neighborhood": "North End",
+      "coords": {
+        "lat": 41.7942,
+        "lng": -72.6813
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/afrobeats-dance-class-hartford"
+    }
+  },
+  {
+    "id": "e054",
+    "title": "Funny Bone: Sam Morril",
+    "description": "Touring headliner, two-drink minimum, communal seating.",
+    "category": "arts",
+    "tags": [
+      "comedy"
+    ],
+    "start": "2026-10-10T19:30:00-04:00",
+    "end": "2026-10-10T21:00:00-04:00",
+    "venue": {
+      "name": "Funny Bone Comedy Club",
+      "address": "194 Buckland Hills Dr, Manchester",
+      "neighborhood": "Manchester",
+      "coords": {
+        "lat": 41.8062,
+        "lng": -72.5563
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 32
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartford.funnybone.com"
+    }
+  },
+  {
+    "id": "e055",
+    "title": "Wild Pink with Florry",
+    "description": "Indie rock double bill.",
+    "category": "music",
+    "tags": [
+      "live_music"
+    ],
+    "start": "2026-10-10T20:00:00-04:00",
+    "end": "2026-10-10T22:30:00-04:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 25
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://infinityhall.com"
+    }
+  },
+  {
+    "id": "e056",
+    "title": "Penwood Loop Hike",
+    "description": "Five-mile ridge loop with Lake Louise views. Leashed dogs welcome.",
+    "category": "active",
+    "tags": [
+      "hiking",
+      "dogs"
+    ],
+    "start": "2026-10-11T09:00:00-04:00",
+    "end": "2026-10-11T12:00:00-04:00",
+    "venue": {
+      "name": "Penwood State Park",
+      "address": "57 Gun Mill Rd, Bloomfield",
+      "neighborhood": "Bloomfield",
+      "coords": {
+        "lat": 41.8545,
+        "lng": -72.7669
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-hiking-group/"
+    }
+  },
+  {
+    "id": "e057",
+    "title": "Bike Walk CT Sunday Social Ride",
+    "description": "Fifteen easy miles on the Hartford riverfront trails and over the Founders Bridge. All bikes welcome.",
+    "category": "active",
+    "tags": [
+      "cycling"
+    ],
+    "start": "2026-10-11T10:00:00-04:00",
+    "end": "2026-10-11T12:30:00-04:00",
+    "venue": {
+      "name": "Bushnell Park",
+      "address": "99 Trinity St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7648,
+        "lng": -72.679
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/bike-walk-ct/"
+    }
+  },
+  {
+    "id": "e058",
+    "title": "Queer Hike & Cider",
+    "description": "LGBTQ+ and allies hike up Talcott, then cider at a nearby orchard.",
+    "category": "social",
+    "tags": [
+      "lgbtq",
+      "hiking",
+      "food_tours"
+    ],
+    "start": "2026-10-11T10:00:00-04:00",
+    "end": "2026-10-11T14:00:00-04:00",
+    "venue": {
+      "name": "Talcott Mountain State Park",
+      "address": "200 Summit Ridge Dr, Simsbury",
+      "neighborhood": "Simsbury",
+      "coords": {
+        "lat": 41.8393,
+        "lng": -72.7977
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/out-in-ct/"
+    }
+  },
+  {
+    "id": "e059",
+    "title": "Goat Yoga at Auerfarm",
+    "description": "Exactly what it sounds like. Proceeds support the farm's education programs.",
+    "category": "active",
+    "tags": [
+      "yoga",
+      "dogs"
+    ],
+    "start": "2026-10-11T10:30:00-04:00",
+    "end": "2026-10-11T11:45:00-04:00",
+    "venue": {
+      "name": "4-H Auerfarm",
+      "address": "158 Auer Farm Rd, Bloomfield",
+      "neighborhood": "Bloomfield",
+      "coords": {
+        "lat": 41.8383,
+        "lng": -72.7259
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 25
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/goat-yoga-auerfarm-october"
+    }
+  },
+  {
+    "id": "e060",
+    "title": "Houseplant Swap",
+    "description": "Bring a cutting, leave with three. Propagation demo at 1:30.",
+    "category": "community",
+    "tags": [
+      "gardening",
+      "sustainability",
+      "crafts"
+    ],
+    "start": "2026-10-11T13:00:00-04:00",
+    "end": "2026-10-11T15:00:00-04:00",
+    "venue": {
+      "name": "Noah Webster Library",
+      "address": "20 S Main St, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7614,
+        "lng": -72.7426
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://westhartfordlibrary.org"
+    }
+  },
+  {
+    "id": "e061",
+    "title": "Coltsville Walking Tour",
+    "description": "National Park ranger-led walk through the Colt Armory complex. Ends at the brewery.",
+    "category": "learning",
+    "tags": [
+      "history",
+      "photography",
+      "design"
+    ],
+    "start": "2026-10-11T13:00:00-04:00",
+    "end": "2026-10-11T15:00:00-04:00",
+    "venue": {
+      "name": "Thomas Hooker Brewery",
+      "address": "140 Huyshope Ave, Hartford",
+      "neighborhood": "Coltsville",
+      "coords": {
+        "lat": 41.7523,
+        "lng": -72.6663
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Venue website",
+      "url": "https://nps.gov/colt"
+    }
+  },
+  {
+    "id": "e062",
+    "title": "Fresh Pasta Workshop",
+    "description": "Hand-rolled tagliatelle and ravioli, then everyone eats together with wine.",
+    "category": "food_drink",
+    "tags": [
+      "cooking",
+      "wine"
+    ],
+    "start": "2026-10-11T15:00:00-04:00",
+    "end": "2026-10-11T17:30:00-04:00",
+    "venue": {
+      "name": "The Kitchen at Billings Forge",
+      "address": "559 Broad St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7595,
+        "lng": -72.6888
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 55
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/fresh-pasta-workshop-billings-forge"
+    }
+  },
+  {
+    "id": "e063",
+    "title": "Hartford Writers Group",
+    "description": "Bring ten pages or nothing. Workshop format, kind but honest.",
+    "category": "learning",
+    "tags": [
+      "writing",
+      "poetry",
+      "book_club"
+    ],
+    "start": "2026-10-12T18:30:00-04:00",
+    "end": "2026-10-12T20:30:00-04:00",
+    "venue": {
+      "name": "Story and Soil Coffee",
+      "address": "387 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.763,
+        "lng": -72.6852
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-writers-group/"
+    }
+  },
+  {
+    "id": "e064",
+    "title": "Hartford Songwriters Circle",
+    "description": "Eight people, one song each, kind feedback. Instruments provided if you don't bring one.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "writing"
+    ],
+    "start": "2026-10-12T19:00:00-04:00",
+    "end": "2026-10-12T21:00:00-04:00",
+    "venue": {
+      "name": "Story and Soil Coffee",
+      "address": "387 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.763,
+        "lng": -72.6852
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-songwriters/"
+    }
+  },
+  {
+    "id": "e065",
+    "title": "Charter Oak Greenway Tempo Tuesday",
+    "description": "Manchester-side workout group: warm up, four by one mile, cool down. Faster crowd.",
+    "category": "active",
+    "tags": [
+      "running",
+      "cycling"
+    ],
+    "start": "2026-10-13T17:45:00-04:00",
+    "end": "2026-10-13T19:15:00-04:00",
+    "venue": {
+      "name": "Charter Oak Greenway",
+      "address": "Wickham Park entrance, Manchester",
+      "neighborhood": "Manchester",
+      "coords": {
+        "lat": 41.78,
+        "lng": -72.555
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Strava Club",
+      "url": "https://www.strava.com/clubs/manchester-running-company"
+    }
+  },
+  {
+    "id": "e066",
+    "title": "Hartford Track Club Tuesday Night Run",
+    "description": "Weekly group run with pace groups. Headlamps recommended as the sun sets earlier.",
+    "category": "active",
+    "tags": [
+      "running"
+    ],
+    "start": "2026-10-13T18:00:00-04:00",
+    "end": "2026-10-13T19:30:00-04:00",
+    "venue": {
+      "name": "Elizabeth Park",
+      "address": "1561 Asylum Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7754,
+        "lng": -72.7186
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Strava Club",
+      "url": "https://www.strava.com/clubs/hartford-track-club"
+    }
+  },
+  {
+    "id": "e067",
+    "title": "Hartford Tech Meetup: Applied AI Night",
+    "description": "Three lightning talks on shipping LLM features in insurance, then pizza and a long hallway track.",
+    "category": "learning",
+    "tags": [
+      "ai",
+      "tech",
+      "startups"
+    ],
+    "start": "2026-10-13T18:00:00-04:00",
+    "end": "2026-10-13T20:30:00-04:00",
+    "venue": {
+      "name": "Upward Hartford",
+      "address": "20 Church St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7679,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-tech/"
+    }
+  },
+  {
+    "id": "e068",
+    "title": "Spanish-English Intercambio",
+    "description": "Half hour in Spanish, half hour in English, tables of four. Every level.",
+    "category": "learning",
+    "tags": [
+      "language_exchange",
+      "coffee"
+    ],
+    "start": "2026-10-13T18:30:00-04:00",
+    "end": "2026-10-13T20:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-intercambio/"
+    }
+  },
+  {
+    "id": "e069",
+    "title": "Bouldering League Kickoff",
+    "description": "Six-week casual bouldering league. Teams of three, drafted on the night so you meet people.",
+    "category": "active",
+    "tags": [
+      "climbing",
+      "fitness"
+    ],
+    "start": "2026-10-13T19:00:00-04:00",
+    "end": "2026-10-13T21:00:00-04:00",
+    "venue": {
+      "name": "Central Rock Gym Glastonbury",
+      "address": "275 Oakwood Dr, Glastonbury",
+      "neighborhood": "Glastonbury",
+      "coords": {
+        "lat": 41.7002,
+        "lng": -72.6112
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30,
+      "studentAmount": 20
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://centralrockgym.com/glastonbury"
+    }
+  },
+  {
+    "id": "e070",
+    "title": "Hartford Swing Dance",
+    "description": "Lindy hop lesson followed by a live-band social. Rotating partners in the lesson.",
+    "category": "social",
+    "tags": [
+      "dance",
+      "jazz"
+    ],
+    "start": "2026-10-13T19:00:00-04:00",
+    "end": "2026-10-13T22:00:00-04:00",
+    "venue": {
+      "name": "Elmwood Community Center",
+      "address": "1106 New Britain Ave, West Hartford",
+      "neighborhood": "Elmwood",
+      "coords": {
+        "lat": 41.7398,
+        "lng": -72.7268
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 12
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordswing.org"
+    }
+  },
+  {
+    "id": "e071",
+    "title": "reSET Founders Happy Hour",
+    "description": "Casual drinks for anyone building something. Half founders, half people thinking about it.",
+    "category": "learning",
+    "tags": [
+      "startups",
+      "career_networking"
+    ],
+    "start": "2026-10-14T17:30:00-04:00",
+    "end": "2026-10-14T19:30:00-04:00",
+    "venue": {
+      "name": "reSET Social Enterprise Trust",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7081
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Luma",
+      "url": "https://lu.ma/reset-founders"
+    }
+  },
+  {
+    "id": "e072",
+    "title": "Knit Night",
+    "description": "Bring any project. Someone will teach you to cast on.",
+    "category": "arts",
+    "tags": [
+      "crafts",
+      "book_club"
+    ],
+    "start": "2026-10-14T18:00:00-04:00",
+    "end": "2026-10-14T20:00:00-04:00",
+    "venue": {
+      "name": "Noah Webster Library",
+      "address": "20 S Main St, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7614,
+        "lng": -72.7426
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://westhartfordlibrary.org"
+    }
+  },
+  {
+    "id": "e073",
+    "title": "Improv 101 Drop-In Class",
+    "description": "Two-hour taster class. The fastest way to be laughing with twelve strangers.",
+    "category": "arts",
+    "tags": [
+      "comedy",
+      "career_networking"
+    ],
+    "start": "2026-10-14T18:30:00-04:00",
+    "end": "2026-10-14T20:30:00-04:00",
+    "venue": {
+      "name": "Sea Tea Comedy Theater",
+      "address": "15 Asylum St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7665,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://seateacomedy.com"
+    }
+  },
+  {
+    "id": "e074",
+    "title": "Cocktail Class: Fall Sours",
+    "description": "Make three drinks behind the bar with the bartenders. Twelve seats.",
+    "category": "food_drink",
+    "tags": [
+      "cocktails",
+      "cooking"
+    ],
+    "start": "2026-10-14T18:30:00-04:00",
+    "end": "2026-10-14T20:30:00-04:00",
+    "venue": {
+      "name": "Little River Restoratives",
+      "address": "405 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7628,
+        "lng": -72.6857
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/little-river-cocktail-class-october"
+    }
+  },
+  {
+    "id": "e075",
+    "title": "Hog River Trivia Night",
+    "description": "Weekly Wednesday trivia. Solo players welcome.",
+    "category": "social",
+    "tags": [
+      "trivia",
+      "craft_beer"
+    ],
+    "start": "2026-10-14T19:00:00-04:00",
+    "end": "2026-10-14T21:00:00-04:00",
+    "venue": {
+      "name": "Hog River Brewing",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7083
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hogriverbrewing.com"
+    }
+  },
+  {
+    "id": "e076",
+    "title": "Young Lawyers Happy Hour",
+    "description": "Hartford County Bar young lawyers section. Not just lawyers, plus-ones encouraged.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "cocktails",
+      "trivia"
+    ],
+    "start": "2026-10-15T17:30:00-04:00",
+    "end": "2026-10-15T19:30:00-04:00",
+    "venue": {
+      "name": "Arch Street Tavern",
+      "address": "85 Arch St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7622,
+        "lng": -72.6733
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Facebook Events",
+      "url": "https://www.facebook.com/events/hartford-young-lawyers"
+    }
+  },
+  {
+    "id": "e077",
+    "title": "History Happy Hour",
+    "description": "Curator talk and cocktails in the galleries. This month: Hartford's lost buildings.",
+    "category": "learning",
+    "tags": [
+      "history",
+      "cocktails"
+    ],
+    "start": "2026-10-15T17:30:00-04:00",
+    "end": "2026-10-15T19:30:00-04:00",
+    "venue": {
+      "name": "Connecticut Museum of Culture and History",
+      "address": "1 Elizabeth St, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7745,
+        "lng": -72.7159
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 12
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://ctmuseum.org"
+    }
+  },
+  {
+    "id": "e078",
+    "title": "Real Art Ways Creative Cocktail Hour",
+    "description": "Third-Thursday gallery opening party. Hartford's artists, designers and architects all show up.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "cocktails",
+      "design"
+    ],
+    "start": "2026-10-15T18:00:00-04:00",
+    "end": "2026-10-15T21:00:00-04:00",
+    "venue": {
+      "name": "Real Art Ways",
+      "address": "56 Arbor St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7573,
+        "lng": -72.7019
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://realartways.org"
+    }
+  },
+  {
+    "id": "e079",
+    "title": "Knife Skills & Weeknight Cooking",
+    "description": "Hands-on class for people who cook alone and want to cook better. Shared dinner after.",
+    "category": "food_drink",
+    "tags": [
+      "cooking"
+    ],
+    "start": "2026-10-15T18:00:00-04:00",
+    "end": "2026-10-15T20:30:00-04:00",
+    "venue": {
+      "name": "The Kitchen at Billings Forge",
+      "address": "559 Broad St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7595,
+        "lng": -72.6888
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/knife-skills-billings-forge"
+    }
+  },
+  {
+    "id": "e080",
+    "title": "Rooftop Game Night",
+    "description": "Parkville Market's rooftop bar puts out fifty games. Casual, loud, easy to join a table.",
+    "category": "social",
+    "tags": [
+      "board_games",
+      "trivia",
+      "cocktails"
+    ],
+    "start": "2026-10-15T18:30:00-04:00",
+    "end": "2026-10-15T21:30:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://parkvillemarket.com"
+    }
+  },
+  {
+    "id": "e081",
+    "title": "Firkin Friday",
+    "description": "One cask, one night, tapped at five. Regulars stand around the bar and argue about it.",
+    "category": "food_drink",
+    "tags": [
+      "craft_beer"
+    ],
+    "start": "2026-10-16T17:00:00-04:00",
+    "end": "2026-10-16T21:00:00-04:00",
+    "venue": {
+      "name": "Hog River Brewing",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7083
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hogriverbrewing.com"
+    }
+  },
+  {
+    "id": "e082",
+    "title": "TheaterWorks: 'Primary Trust'",
+    "description": "Pulitzer winner in the intimate Pearl Street space.",
+    "category": "arts",
+    "tags": [
+      "theater"
+    ],
+    "start": "2026-10-16T19:30:00-04:00",
+    "end": "2026-10-16T21:15:00-04:00",
+    "venue": {
+      "name": "TheaterWorks Hartford",
+      "address": "233 Pearl St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7657,
+        "lng": -72.6773
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30,
+      "studentAmount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://twhartford.org"
+    }
+  },
+  {
+    "id": "e083",
+    "title": "Star Party at Talcott",
+    "description": "Telescopes on the ridge with the Science Center astronomers. Dress warm.",
+    "category": "learning",
+    "tags": [
+      "science",
+      "hiking",
+      "photography"
+    ],
+    "start": "2026-10-16T19:30:00-04:00",
+    "end": "2026-10-16T22:00:00-04:00",
+    "venue": {
+      "name": "Talcott Mountain Science Center",
+      "address": "324 Montevideo Rd, Avon",
+      "neighborhood": "Avon",
+      "coords": {
+        "lat": 41.8378,
+        "lng": -72.7893
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Venue website",
+      "url": "https://tmsc.org"
+    }
+  },
+  {
+    "id": "e084",
+    "title": "Hartford Poetry Slam",
+    "description": "Monthly slam, open sign-up list, featured poet at the half.",
+    "category": "arts",
+    "tags": [
+      "poetry",
+      "writing",
+      "live_music"
+    ],
+    "start": "2026-10-16T19:30:00-04:00",
+    "end": "2026-10-16T22:00:00-04:00",
+    "venue": {
+      "name": "Real Art Ways",
+      "address": "56 Arbor St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7573,
+        "lng": -72.7019
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 8
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://realartways.org"
+    }
+  },
+  {
+    "id": "e085",
+    "title": "Mark Twain House Graveyard Shift Tour",
+    "description": "Lantern-lit night tour of the house with the spooky stories. Groups of twelve.",
+    "category": "learning",
+    "tags": [
+      "history",
+      "writing"
+    ],
+    "start": "2026-10-16T20:00:00-04:00",
+    "end": "2026-10-16T21:30:00-04:00",
+    "venue": {
+      "name": "Mark Twain House & Museum",
+      "address": "351 Farmington Ave, Hartford",
+      "neighborhood": "Asylum Hill",
+      "coords": {
+        "lat": 41.767,
+        "lng": -72.7011
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 28
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://marktwainhouse.org"
+    }
+  },
+  {
+    "id": "e086",
+    "title": "Wethersfield Cove Sunrise Paddle",
+    "description": "Mist on the cove, herons, coffee on the dock after. Rentals available.",
+    "category": "active",
+    "tags": [
+      "kayaking",
+      "photography"
+    ],
+    "start": "2026-10-17T07:00:00-04:00",
+    "end": "2026-10-17T09:00:00-04:00",
+    "venue": {
+      "name": "Wethersfield Cove",
+      "address": "Cove Park, Wethersfield",
+      "neighborhood": "Old Wethersfield",
+      "coords": {
+        "lat": 41.7206,
+        "lng": -72.6488
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 25
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/wethersfield-cove-sunrise-paddle"
+    }
+  },
+  {
+    "id": "e087",
+    "title": "Weekend Hackathon: Civic Data Hartford",
+    "description": "One-day build on open city data. Teams form at 9am; designers and non-coders wanted.",
+    "category": "learning",
+    "tags": [
+      "tech",
+      "ai",
+      "volunteering",
+      "design"
+    ],
+    "start": "2026-10-17T09:00:00-04:00",
+    "end": "2026-10-17T18:00:00-04:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Luma",
+      "url": "https://lu.ma/civic-data-hartford"
+    }
+  },
+  {
+    "id": "e088",
+    "title": "West Hartford Farmers Market",
+    "description": "Saturday market on LaSalle Road. Live acoustic music and a lot of dogs.",
+    "category": "food_drink",
+    "tags": [
+      "cooking",
+      "gardening",
+      "coffee"
+    ],
+    "start": "2026-10-17T09:00:00-04:00",
+    "end": "2026-10-17T12:00:00-04:00",
+    "venue": {
+      "name": "West Hartford Farmers Market",
+      "address": "LaSalle Rd, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7604,
+        "lng": -72.7437
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://westhartfordfarmersmarket.com"
+    }
+  },
+  {
+    "id": "e089",
+    "title": "Glastonbury Apple Harvest Festival",
+    "description": "Apple fritters, carnival rides, a craft fair and live music on the Glastonbury green.",
+    "category": "community",
+    "tags": [
+      "food_tours",
+      "live_music",
+      "crafts"
+    ],
+    "start": "2026-10-17T10:00:00-04:00",
+    "end": "2026-10-17T18:00:00-04:00",
+    "venue": {
+      "name": "Glastonbury Town Center",
+      "address": "2155 Main St, Glastonbury",
+      "neighborhood": "Glastonbury",
+      "coords": {
+        "lat": 41.7123,
+        "lng": -72.6082
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://glastonburyapplefest.com"
+    }
+  },
+  {
+    "id": "e090",
+    "title": "Scarecrows Along Main Street",
+    "description": "Old Wethersfield lines its colonial Main Street with dozens of homemade scarecrows. Walk it with cider from the Comstock Ferre store.",
+    "category": "community",
+    "tags": [
+      "crafts",
+      "photography",
+      "history"
+    ],
+    "start": "2026-10-17T10:00:00-04:00",
+    "end": "2026-10-17T16:00:00-04:00",
+    "venue": {
+      "name": "Old Wethersfield Main Street",
+      "address": "Main St, Wethersfield",
+      "neighborhood": "Old Wethersfield",
+      "coords": {
+        "lat": 41.7143,
+        "lng": -72.6528
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://wethersfieldct.gov"
+    }
+  },
+  {
+    "id": "e091",
+    "title": "Brewery Bike Crawl",
+    "description": "Slow ride from Hog River to New Park to Hanging Hills to Hooker. Ten flat miles, four pints, all pace.",
+    "category": "food_drink",
+    "tags": [
+      "cycling",
+      "craft_beer"
+    ],
+    "start": "2026-10-17T13:00:00-04:00",
+    "end": "2026-10-17T17:00:00-04:00",
+    "venue": {
+      "name": "Hog River Brewing",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7083
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Facebook Events",
+      "url": "https://www.facebook.com/events/hartford-brewery-bike-crawl"
+    }
+  },
+  {
+    "id": "e092",
+    "title": "Hartford Photo Walk: Riverfront",
+    "description": "Golden-hour walk from the plaza across the Founders Bridge. All cameras, phones included.",
+    "category": "arts",
+    "tags": [
+      "photography",
+      "cycling"
+    ],
+    "start": "2026-10-17T16:00:00-04:00",
+    "end": "2026-10-17T18:00:00-04:00",
+    "venue": {
+      "name": "Mortensen Riverfront Plaza",
+      "address": "300 Columbus Blvd, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7652,
+        "lng": -72.666
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-photo-walks/"
+    }
+  },
+  {
+    "id": "e093",
+    "title": "Latte Art Throwdown",
+    "description": "Baristas from every shop in the city, bracket-style, DJ, beer. Rowdy for a coffee event.",
+    "category": "food_drink",
+    "tags": [
+      "coffee",
+      "live_music"
+    ],
+    "start": "2026-10-17T19:00:00-04:00",
+    "end": "2026-10-17T22:00:00-04:00",
+    "venue": {
+      "name": "Story and Soil Coffee",
+      "address": "387 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.763,
+        "lng": -72.6852
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/storyandsoilcoffee/"
+    }
+  },
+  {
+    "id": "e094",
+    "title": "Hartford Wolf Pack vs. Providence Bruins",
+    "description": "AHL hockey, home opener weekend. Cheap seats, loud crowd.",
+    "category": "social",
+    "tags": [
+      "sports_fan"
+    ],
+    "start": "2026-10-17T19:00:00-04:00",
+    "end": "2026-10-17T21:30:00-04:00",
+    "venue": {
+      "name": "XL Center",
+      "address": "1 Civic Center Plaza, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7676,
+        "lng": -72.676
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 22,
+      "studentAmount": 12
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordwolfpack.com"
+    }
+  },
+  {
+    "id": "e095",
+    "title": "Molly Tuttle & Golden Highway",
+    "description": "Grammy-winning bluegrass guitarist. Standing room sells out.",
+    "category": "music",
+    "tags": [
+      "live_music"
+    ],
+    "start": "2026-10-17T20:00:00-04:00",
+    "end": "2026-10-17T22:30:00-04:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://infinityhall.com"
+    }
+  },
+  {
+    "id": "e096",
+    "title": "Reservoir 6 Trail Run",
+    "description": "Six rolling miles on the MDC trails at conversational pace. Nobody gets dropped.",
+    "category": "active",
+    "tags": [
+      "running",
+      "hiking"
+    ],
+    "start": "2026-10-18T08:30:00-04:00",
+    "end": "2026-10-18T10:30:00-04:00",
+    "venue": {
+      "name": "West Hartford Reservoir 6",
+      "address": "1420 Farmington Ave, West Hartford",
+      "neighborhood": "West Hartford",
+      "coords": {
+        "lat": 41.777,
+        "lng": -72.769
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-trail-runners/"
+    }
+  },
+  {
+    "id": "e097",
+    "title": "Glastonbury Gravel Grinder",
+    "description": "Thirty miles of dirt roads and orchards in South Glastonbury. Regroup at every turn, cider donuts at Belltown.",
+    "category": "active",
+    "tags": [
+      "cycling",
+      "fitness"
+    ],
+    "start": "2026-10-18T09:00:00-04:00",
+    "end": "2026-10-18T12:30:00-04:00",
+    "venue": {
+      "name": "Glastonbury Boathouse",
+      "address": "252 Welles St, Glastonbury",
+      "neighborhood": "Glastonbury",
+      "coords": {
+        "lat": 41.7145,
+        "lng": -72.6203
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Strava Club",
+      "url": "https://www.strava.com/clubs/ct-gravel"
+    }
+  },
+  {
+    "id": "e098",
+    "title": "Yoga & Pints",
+    "description": "Hour of flow in the taproom followed by a pint. Everybody stays and talks.",
+    "category": "active",
+    "tags": [
+      "yoga",
+      "craft_beer"
+    ],
+    "start": "2026-10-18T11:00:00-04:00",
+    "end": "2026-10-18T12:30:00-04:00",
+    "venue": {
+      "name": "New Park Brewing",
+      "address": "485 New Park Ave, West Hartford",
+      "neighborhood": "Elmwood",
+      "coords": {
+        "lat": 41.744,
+        "lng": -72.7255
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://newparkbrewing.com"
+    }
+  },
+  {
+    "id": "e099",
+    "title": "Fall Clothing Swap",
+    "description": "Bring five, take five. Mimosas and a DJ on the rooftop.",
+    "category": "community",
+    "tags": [
+      "sustainability",
+      "design"
+    ],
+    "start": "2026-10-18T12:00:00-04:00",
+    "end": "2026-10-18T15:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/hartfordswap/"
+    }
+  },
+  {
+    "id": "e100",
+    "title": "Strategy Game Sunday",
+    "description": "Heavier euros and long campaigns. Twilight Imperium table needs two more.",
+    "category": "social",
+    "tags": [
+      "board_games",
+      "gaming"
+    ],
+    "start": "2026-10-18T13:00:00-04:00",
+    "end": "2026-10-18T17:00:00-04:00",
+    "venue": {
+      "name": "Tisane Euro-Asian Cafe",
+      "address": "537 Farmington Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7686,
+        "lng": -72.7048
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-area-boardgamers/"
+    }
+  },
+  {
+    "id": "e101",
+    "title": "Gospel Night at West Indian Social Club",
+    "description": "Four choirs, a potluck after. Everyone is welcome and everyone is fed.",
+    "category": "music",
+    "tags": [
+      "faith",
+      "live_music"
+    ],
+    "start": "2026-10-18T17:00:00-04:00",
+    "end": "2026-10-18T20:00:00-04:00",
+    "venue": {
+      "name": "West Indian Social Club",
+      "address": "3340 Main St, Hartford",
+      "neighborhood": "North End",
+      "coords": {
+        "lat": 41.7942,
+        "lng": -72.6813
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Facebook Events",
+      "url": "https://www.facebook.com/events/wisc-gospel-night"
+    }
+  },
+  {
+    "id": "e102",
+    "title": "InsurTech Hartford After Hours",
+    "description": "The insurance and fintech crowd. Carriers, startups, investors, and people who want to switch.",
+    "category": "learning",
+    "tags": [
+      "tech",
+      "finance",
+      "career_networking",
+      "startups"
+    ],
+    "start": "2026-10-20T17:30:00-04:00",
+    "end": "2026-10-20T20:00:00-04:00",
+    "venue": {
+      "name": "City Steam Brewery",
+      "address": "942 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7683,
+        "lng": -72.6725
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Luma",
+      "url": "https://lu.ma/insurtech-hartford"
+    }
+  },
+  {
+    "id": "e103",
+    "title": "French Conversation Hour",
+    "description": "Francophones and learners over tea. Intermediate and up.",
+    "category": "learning",
+    "tags": [
+      "language_exchange",
+      "coffee"
+    ],
+    "start": "2026-10-20T18:00:00-04:00",
+    "end": "2026-10-20T19:30:00-04:00",
+    "venue": {
+      "name": "Tisane Euro-Asian Cafe",
+      "address": "537 Farmington Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7686,
+        "lng": -72.7048
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-francophones/"
+    }
+  },
+  {
+    "id": "e104",
+    "title": "Central Rock Community Climb Night",
+    "description": "Biweekly partner-finding night, all levels.",
+    "category": "active",
+    "tags": [
+      "climbing"
+    ],
+    "start": "2026-10-20T18:30:00-04:00",
+    "end": "2026-10-20T21:00:00-04:00",
+    "venue": {
+      "name": "Central Rock Gym Glastonbury",
+      "address": "275 Oakwood Dr, Glastonbury",
+      "neighborhood": "Glastonbury",
+      "coords": {
+        "lat": 41.7002,
+        "lng": -72.6112
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 22,
+      "studentAmount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://centralrockgym.com/glastonbury"
+    }
+  },
+  {
+    "id": "e105",
+    "title": "Drink & Draw",
+    "description": "Sketching night in the taproom with a costumed model. Paper and pencils provided.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "craft_beer",
+      "design"
+    ],
+    "start": "2026-10-20T18:30:00-04:00",
+    "end": "2026-10-20T21:00:00-04:00",
+    "venue": {
+      "name": "Hog River Brewing",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7083
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drinkanddrawhfd/"
+    }
+  },
+  {
+    "id": "e106",
+    "title": "Books & Brews Book Club",
+    "description": "Low-pressure book club in the taproom. This month: 'Tomorrow, and Tomorrow, and Tomorrow'.",
+    "category": "learning",
+    "tags": [
+      "book_club",
+      "craft_beer"
+    ],
+    "start": "2026-10-20T19:00:00-04:00",
+    "end": "2026-10-20T20:30:00-04:00",
+    "venue": {
+      "name": "New Park Brewing",
+      "address": "485 New Park Ave, West Hartford",
+      "neighborhood": "Elmwood",
+      "coords": {
+        "lat": 41.744,
+        "lng": -72.7255
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-books-and-brews/"
+    }
+  },
+  {
+    "id": "e107",
+    "title": "Women in Business Evening",
+    "description": "Panel on negotiating, then wine and small-group conversations by industry.",
+    "category": "learning",
+    "tags": [
+      "career_networking",
+      "finance",
+      "wine"
+    ],
+    "start": "2026-10-21T17:30:00-04:00",
+    "end": "2026-10-21T20:00:00-04:00",
+    "venue": {
+      "name": "Vinted Wine Bar",
+      "address": "5 Memorial Rd, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7607,
+        "lng": -72.7418
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/hartford-women-in-business-october"
+    }
+  },
+  {
+    "id": "e108",
+    "title": "Stowe Salon: Writing About Place",
+    "description": "Author talk and discussion in the Stowe parlor. Wine after.",
+    "category": "learning",
+    "tags": [
+      "writing",
+      "history",
+      "book_club"
+    ],
+    "start": "2026-10-21T18:00:00-04:00",
+    "end": "2026-10-21T19:30:00-04:00",
+    "venue": {
+      "name": "Harriet Beecher Stowe Center",
+      "address": "77 Forest St, Hartford",
+      "neighborhood": "Asylum Hill",
+      "coords": {
+        "lat": 41.7661,
+        "lng": -72.7004
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://harrietbeecherstowecenter.org"
+    }
+  },
+  {
+    "id": "e109",
+    "title": "Natural Wine Night",
+    "description": "Pop-up natural wine list and a visiting importer. Small room, everyone talks.",
+    "category": "food_drink",
+    "tags": [
+      "wine",
+      "cocktails"
+    ],
+    "start": "2026-10-21T18:00:00-04:00",
+    "end": "2026-10-21T21:00:00-04:00",
+    "venue": {
+      "name": "Little River Restoratives",
+      "address": "405 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7628,
+        "lng": -72.6857
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/littleriverrestoratives/"
+    }
+  },
+  {
+    "id": "e110",
+    "title": "Hartford Design Meetup",
+    "description": "Two short talks and portfolio walk-arounds. Designers from Travelers, Aetna and the studios.",
+    "category": "learning",
+    "tags": [
+      "design",
+      "tech",
+      "visual_art"
+    ],
+    "start": "2026-10-21T18:30:00-04:00",
+    "end": "2026-10-21T20:30:00-04:00",
+    "venue": {
+      "name": "Upward Hartford",
+      "address": "20 Church St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7679,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-design/"
+    }
+  },
+  {
+    "id": "e111",
+    "title": "Beer & Cheese Pairing Class",
+    "description": "Six beers, six cheeses, one cheesemonger. Seated at communal tables.",
+    "category": "food_drink",
+    "tags": [
+      "craft_beer",
+      "cooking"
+    ],
+    "start": "2026-10-21T18:30:00-04:00",
+    "end": "2026-10-21T20:00:00-04:00",
+    "venue": {
+      "name": "Thomas Hooker Brewery",
+      "address": "140 Huyshope Ave, Hartford",
+      "neighborhood": "Coltsville",
+      "coords": {
+        "lat": 41.7523,
+        "lng": -72.6663
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 25
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/beer-cheese-pairing-hooker"
+    }
+  },
+  {
+    "id": "e112",
+    "title": "CT Green Drinks",
+    "description": "Monthly drinks for people who work in or care about sustainability. Very talkative crowd.",
+    "category": "community",
+    "tags": [
+      "sustainability",
+      "craft_beer",
+      "career_networking"
+    ],
+    "start": "2026-10-22T17:30:00-04:00",
+    "end": "2026-10-22T20:00:00-04:00",
+    "venue": {
+      "name": "Hog River Brewing",
+      "address": "1429 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7535,
+        "lng": -72.7083
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/ct-green-drinks/"
+    }
+  },
+  {
+    "id": "e113",
+    "title": "Library Board Game Night",
+    "description": "Biweekly game night at the downtown library.",
+    "category": "social",
+    "tags": [
+      "board_games"
+    ],
+    "start": "2026-10-22T18:00:00-04:00",
+    "end": "2026-10-22T20:30:00-04:00",
+    "venue": {
+      "name": "Hartford Public Library",
+      "address": "500 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7643,
+        "lng": -72.6718
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hplct.org"
+    }
+  },
+  {
+    "id": "e114",
+    "title": "Hartford Stage: Young Professionals Night",
+    "description": "Pre-show mixer with wine, discounted ticket, cast talkback after. Built for meeting people under 40.",
+    "category": "arts",
+    "tags": [
+      "theater",
+      "career_networking",
+      "wine"
+    ],
+    "start": "2026-10-22T18:00:00-04:00",
+    "end": "2026-10-22T22:00:00-04:00",
+    "venue": {
+      "name": "Hartford Stage",
+      "address": "50 Church St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7683,
+        "lng": -72.6739
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30,
+      "studentAmount": 20
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordstage.org"
+    }
+  },
+  {
+    "id": "e115",
+    "title": "Liquid Lounge: Adults-Only Night",
+    "description": "The Science Center after dark, 21+. Cocktails, all the exhibits, a planetarium show.",
+    "category": "learning",
+    "tags": [
+      "science",
+      "cocktails",
+      "tech"
+    ],
+    "start": "2026-10-22T18:00:00-04:00",
+    "end": "2026-10-22T21:00:00-04:00",
+    "venue": {
+      "name": "Connecticut Science Center",
+      "address": "250 Columbus Blvd, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7648,
+        "lng": -72.6668
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20,
+      "studentAmount": 12
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://ctsciencecenter.org"
+    }
+  },
+  {
+    "id": "e116",
+    "title": "Cinestudio: 'Suspiria' Halloween Screening",
+    "description": "Argento's 1977 original with a short intro talk.",
+    "category": "arts",
+    "tags": [
+      "film"
+    ],
+    "start": "2026-10-22T19:30:00-04:00",
+    "end": "2026-10-22T21:30:00-04:00",
+    "venue": {
+      "name": "Cinestudio",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6907
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10,
+      "studentAmount": 7
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://cinestudio.org"
+    }
+  },
+  {
+    "id": "e117",
+    "title": "Latin Night at Parkville Market",
+    "description": "Biweekly live salsa and bachata on the rooftop.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "dance",
+      "language_exchange"
+    ],
+    "start": "2026-10-23T19:00:00-04:00",
+    "end": "2026-10-23T23:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://parkvillemarket.com"
+    }
+  },
+  {
+    "id": "e118",
+    "title": "Riverfront Fall Cleanup",
+    "description": "Shoreline cleanup with Riverfront Recapture. Some crews go out by kayak.",
+    "category": "community",
+    "tags": [
+      "volunteering",
+      "sustainability",
+      "kayaking"
+    ],
+    "start": "2026-10-24T09:00:00-04:00",
+    "end": "2026-10-24T12:00:00-04:00",
+    "venue": {
+      "name": "Mortensen Riverfront Plaza",
+      "address": "300 Columbus Blvd, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7652,
+        "lng": -72.666
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://riverfront.org"
+    }
+  },
+  {
+    "id": "e119",
+    "title": "Heublein Tower Foliage Hike",
+    "description": "Peak-foliage weekend. Big group, slow pace, lots of stopping for photos.",
+    "category": "active",
+    "tags": [
+      "hiking",
+      "photography",
+      "sustainability"
+    ],
+    "start": "2026-10-24T10:00:00-04:00",
+    "end": "2026-10-24T13:00:00-04:00",
+    "venue": {
+      "name": "Talcott Mountain State Park",
+      "address": "200 Summit Ridge Dr, Simsbury",
+      "neighborhood": "Simsbury",
+      "coords": {
+        "lat": 41.8393,
+        "lng": -72.7977
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-hiking-group/"
+    }
+  },
+  {
+    "id": "e120",
+    "title": "Franklin Avenue Little Italy Walk",
+    "description": "Guided tasting tour of the South End's Italian bakeries, delis and Mozzicato's.",
+    "category": "food_drink",
+    "tags": [
+      "food_tours",
+      "history",
+      "cooking"
+    ],
+    "start": "2026-10-24T11:00:00-04:00",
+    "end": "2026-10-24T14:00:00-04:00",
+    "venue": {
+      "name": "Franklin Avenue (Little Italy)",
+      "address": "Franklin Ave, Hartford",
+      "neighborhood": "South End",
+      "coords": {
+        "lat": 41.7395,
+        "lng": -72.6775
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/franklin-avenue-food-tour"
+    }
+  },
+  {
+    "id": "e121",
+    "title": "Pumpkins on Pratt",
+    "description": "Hartford's downtown fall street fair: pumpkin carving stations, local vendors, food trucks, a small stage.",
+    "category": "community",
+    "tags": [
+      "crafts",
+      "live_music"
+    ],
+    "start": "2026-10-24T12:00:00-04:00",
+    "end": "2026-10-24T17:00:00-04:00",
+    "venue": {
+      "name": "Pratt Street",
+      "address": "Pratt St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7667,
+        "lng": -72.6747
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Hartford.com",
+      "url": "https://www.hartford.com/events/pumpkins-on-pratt"
+    }
+  },
+  {
+    "id": "e122",
+    "title": "Pickleball Round Robin & Pints",
+    "description": "Organized round robin with brackets by level, then a group walk to New Park Brewing.",
+    "category": "active",
+    "tags": [
+      "pickleball",
+      "craft_beer"
+    ],
+    "start": "2026-10-24T13:00:00-04:00",
+    "end": "2026-10-24T16:00:00-04:00",
+    "venue": {
+      "name": "Wolcott Park Pickleball Courts",
+      "address": "47 Wolcott Rd, West Hartford",
+      "neighborhood": "West Hartford",
+      "coords": {
+        "lat": 41.7375,
+        "lng": -72.7425
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/pickleball-round-robin-west-hartford"
+    }
+  },
+  {
+    "id": "e123",
+    "title": "Hartford Photo Walk: Elizabeth Park Foliage",
+    "description": "Peak color in the park, ends with prints at Tisane.",
+    "category": "arts",
+    "tags": [
+      "photography",
+      "hiking"
+    ],
+    "start": "2026-10-24T15:30:00-04:00",
+    "end": "2026-10-24T17:30:00-04:00",
+    "venue": {
+      "name": "Elizabeth Park",
+      "address": "1561 Asylum Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7754,
+        "lng": -72.7186
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-photo-walks/"
+    }
+  },
+  {
+    "id": "e124",
+    "title": "Cedar Hill Cemetery Twilight Tour",
+    "description": "Katharine Hepburn, Sam Colt, and the best sunset in the South End.",
+    "category": "learning",
+    "tags": [
+      "history",
+      "photography"
+    ],
+    "start": "2026-10-24T17:00:00-04:00",
+    "end": "2026-10-24T18:30:00-04:00",
+    "venue": {
+      "name": "Cedar Hill Cemetery",
+      "address": "453 Fairfield Ave, Hartford",
+      "neighborhood": "South End",
+      "coords": {
+        "lat": 41.7365,
+        "lng": -72.6893
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Venue website",
+      "url": "https://cedarhillfoundation.org"
+    }
+  },
+  {
+    "id": "e125",
+    "title": "MakerspaceCT LAN Party",
+    "description": "Bring a laptop or a console. Rocket League and Smash brackets, retro corner, pizza.",
+    "category": "social",
+    "tags": [
+      "gaming",
+      "tech"
+    ],
+    "start": "2026-10-24T18:00:00-04:00",
+    "end": "2026-10-24T23:00:00-04:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://makerspacect.com"
+    }
+  },
+  {
+    "id": "e126",
+    "title": "Durand Jones & The Indications",
+    "description": "Soul revival band that turns the floor into a dance party.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "dance"
+    ],
+    "start": "2026-10-24T20:00:00-04:00",
+    "end": "2026-10-24T22:30:00-04:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 40
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://infinityhall.com"
+    }
+  },
+  {
+    "id": "e127",
+    "title": "Rose Garden Fall Pruning",
+    "description": "Help the Conservancy put 15,000 rose bushes to bed. Training provided.",
+    "category": "community",
+    "tags": [
+      "gardening",
+      "volunteering"
+    ],
+    "start": "2026-10-25T09:00:00-04:00",
+    "end": "2026-10-25T12:00:00-04:00",
+    "venue": {
+      "name": "Elizabeth Park",
+      "address": "1561 Asylum Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7754,
+        "lng": -72.7186
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://elizabethparkct.org"
+    }
+  },
+  {
+    "id": "e128",
+    "title": "Drag Brunch",
+    "description": "Rooftop drag brunch with a bottomless option. Communal tables.",
+    "category": "social",
+    "tags": [
+      "lgbtq",
+      "cocktails",
+      "comedy"
+    ],
+    "start": "2026-10-25T12:00:00-04:00",
+    "end": "2026-10-25T14:30:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 25
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://parkvillemarket.com"
+    }
+  },
+  {
+    "id": "e129",
+    "title": "Bookbinding Workshop",
+    "description": "Coptic-stitch journal from scratch. Take home two.",
+    "category": "arts",
+    "tags": [
+      "crafts",
+      "writing",
+      "design"
+    ],
+    "start": "2026-10-25T13:00:00-04:00",
+    "end": "2026-10-25T16:00:00-04:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 35
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://makerspacect.com"
+    }
+  },
+  {
+    "id": "e130",
+    "title": "West African Supper Club",
+    "description": "Communal table for sixteen, jollof and thieboudienne, hosted by a local cook. Seating is assigned so you meet people.",
+    "category": "food_drink",
+    "tags": [
+      "cooking",
+      "food_tours",
+      "language_exchange"
+    ],
+    "start": "2026-10-25T17:00:00-04:00",
+    "end": "2026-10-25T20:00:00-04:00",
+    "venue": {
+      "name": "Hands On Hartford",
+      "address": "55 Bartholomew Ave, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7551,
+        "lng": -72.7034
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/hartfordsupperclub/"
+    }
+  },
+  {
+    "id": "e131",
+    "title": "Bachata Sundays",
+    "description": "Beginner bachata on the Market rooftop, then open dancing.",
+    "category": "social",
+    "tags": [
+      "dance",
+      "language_exchange"
+    ],
+    "start": "2026-10-25T18:00:00-04:00",
+    "end": "2026-10-25T21:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 8
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/bachatahartford/"
+    }
+  },
+  {
+    "id": "e132",
+    "title": "Community Jam Session",
+    "description": "Monthly open jam in the Real Art Ways lobby. Standards and originals, all instruments.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "jazz"
+    ],
+    "start": "2026-10-26T19:00:00-04:00",
+    "end": "2026-10-26T21:30:00-04:00",
+    "venue": {
+      "name": "Real Art Ways",
+      "address": "56 Arbor St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7573,
+        "lng": -72.7019
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://realartways.org"
+    }
+  },
+  {
+    "id": "e133",
+    "title": "Hartford Tech Meetup",
+    "description": "Monthly talks plus networking. This month: platform engineering at a Hartford insurer.",
+    "category": "learning",
+    "tags": [
+      "tech",
+      "ai",
+      "career_networking"
+    ],
+    "start": "2026-10-27T18:00:00-04:00",
+    "end": "2026-10-27T20:30:00-04:00",
+    "venue": {
+      "name": "Upward Hartford",
+      "address": "20 Church St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7679,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-tech/"
+    }
+  },
+  {
+    "id": "e134",
+    "title": "Spanish-English Intercambio",
+    "description": "Biweekly language exchange.",
+    "category": "learning",
+    "tags": [
+      "language_exchange",
+      "coffee"
+    ],
+    "start": "2026-10-27T18:30:00-04:00",
+    "end": "2026-10-27T20:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-intercambio/"
+    }
+  },
+  {
+    "id": "e135",
+    "title": "Startup Grind Hartford: Fireside Chat",
+    "description": "Interview with a Hartford-founded company's CEO, then structured networking.",
+    "category": "learning",
+    "tags": [
+      "startups",
+      "finance",
+      "tech"
+    ],
+    "start": "2026-10-28T18:00:00-04:00",
+    "end": "2026-10-28T20:00:00-04:00",
+    "venue": {
+      "name": "Upward Hartford",
+      "address": "20 Church St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7679,
+        "lng": -72.674
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/startup-grind-hartford-october"
+    }
+  },
+  {
+    "id": "e136",
+    "title": "Karaoke Battle: Halloween Edition",
+    "description": "Bracket-style karaoke with judges and a costume round. Sign up solo and get paired for the duet round.",
+    "category": "social",
+    "tags": [
+      "karaoke",
+      "comedy",
+      "cocktails"
+    ],
+    "start": "2026-10-29T20:00:00-04:00",
+    "end": "2026-10-29T23:00:00-04:00",
+    "venue": {
+      "name": "The Russian Lady",
+      "address": "191 Ann Uccello St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7689,
+        "lng": -72.6759
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/karaoke-battle-halloween-hartford"
+    }
+  },
+  {
+    "id": "e137",
+    "title": "Horror Shorts Night",
+    "description": "Local and regional horror shorts with filmmakers in attendance.",
+    "category": "arts",
+    "tags": [
+      "film",
+      "comedy"
+    ],
+    "start": "2026-10-29T20:00:00-04:00",
+    "end": "2026-10-29T22:00:00-04:00",
+    "venue": {
+      "name": "Real Art Ways",
+      "address": "56 Arbor St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.7573,
+        "lng": -72.7019
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://realartways.org"
+    }
+  },
+  {
+    "id": "e138",
+    "title": "Hartford Halloween Bar Crawl",
+    "description": "Six bars, one wristband, a costume contest at the end. Loud, silly, and the easiest place in the city to talk to strangers.",
+    "category": "social",
+    "tags": [
+      "cocktails",
+      "karaoke",
+      "dance"
+    ],
+    "start": "2026-10-31T16:00:00-04:00",
+    "end": "2026-10-31T23:00:00-04:00",
+    "venue": {
+      "name": "Pratt Street",
+      "address": "Pratt St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7667,
+        "lng": -72.6747
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com/e/hartford-halloween-bar-crawl-2026"
+    }
+  },
+  {
+    "id": "e139",
+    "title": "Halloween Funk Night",
+    "description": "Costume ball with a ten-piece funk band. Best costume wins a year of free tickets.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "dance",
+      "karaoke"
+    ],
+    "start": "2026-10-31T21:00:00-04:00",
+    "end": "2026-11-01T00:00:00-05:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://infinityhall.com"
+    }
+  },
+  {
+    "id": "e140",
+    "title": "Harvest Moon 5K",
+    "description": "Flat and fast community 5K through Glastonbury center with a pancake breakfast after.",
+    "category": "active",
+    "tags": [
+      "running",
+      "fitness"
+    ],
+    "start": "2026-11-01T09:00:00-05:00",
+    "end": "2026-11-01T11:00:00-05:00",
+    "venue": {
+      "name": "Glastonbury Town Center",
+      "address": "2155 Main St, Glastonbury",
+      "neighborhood": "Glastonbury",
+      "coords": {
+        "lat": 41.7123,
+        "lng": -72.6082
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 35
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordmarathon.com/harvest-moon"
+    }
+  },
+  {
+    "id": "e141",
+    "title": "Case Mountain Ramble",
+    "description": "Manchester's best-kept secret. Four miles to the summit lookout and back.",
+    "category": "active",
+    "tags": [
+      "hiking",
+      "running"
+    ],
+    "start": "2026-11-01T09:30:00-05:00",
+    "end": "2026-11-01T12:30:00-05:00",
+    "venue": {
+      "name": "Case Mountain",
+      "address": "Birch Mountain Rd, Manchester",
+      "neighborhood": "Manchester",
+      "coords": {
+        "lat": 41.7607,
+        "lng": -72.4917
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/manchester-outdoors/"
+    }
+  },
+  {
+    "id": "e142",
+    "title": "Coffee & Sketch Sunday",
+    "description": "Urban sketchers meet at Tisane, draw the West End for an hour, compare over coffee.",
+    "category": "arts",
+    "tags": [
+      "coffee",
+      "visual_art",
+      "design"
+    ],
+    "start": "2026-11-01T10:00:00-05:00",
+    "end": "2026-11-01T12:00:00-05:00",
+    "venue": {
+      "name": "Tisane Euro-Asian Cafe",
+      "address": "537 Farmington Ave, Hartford",
+      "neighborhood": "West End",
+      "coords": {
+        "lat": 41.7686,
+        "lng": -72.7048
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-urban-sketchers/"
+    }
+  },
+  {
+    "id": "e143",
+    "title": "Life Drawing Session",
+    "description": "Uninstructed figure drawing with short and long poses.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "design"
+    ],
+    "start": "2026-11-03T18:30:00-05:00",
+    "end": "2026-11-03T21:00:00-05:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://makerspacect.com"
+    }
+  },
+  {
+    "id": "e144",
+    "title": "Noah Webster Book Club: 'Orbital'",
+    "description": "Samantha Harvey's Booker winner.",
+    "category": "learning",
+    "tags": [
+      "book_club",
+      "science"
+    ],
+    "start": "2026-11-03T18:30:00-05:00",
+    "end": "2026-11-03T20:00:00-05:00",
+    "venue": {
+      "name": "Noah Webster Library",
+      "address": "20 S Main St, West Hartford",
+      "neighborhood": "West Hartford Center",
+      "coords": {
+        "lat": 41.7614,
+        "lng": -72.7426
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://westhartfordlibrary.org"
+    }
+  },
+  {
+    "id": "e145",
+    "title": "Cinestudio: 'Paris, Texas'",
+    "description": "Wenders on the big screen.",
+    "category": "arts",
+    "tags": [
+      "film",
+      "photography"
+    ],
+    "start": "2026-11-05T19:30:00-05:00",
+    "end": "2026-11-05T22:00:00-05:00",
+    "venue": {
+      "name": "Cinestudio",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6907
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10,
+      "studentAmount": 7
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://cinestudio.org"
+    }
+  },
+  {
+    "id": "e146",
+    "title": "Open Studio Hartford Weekend",
+    "description": "Two hundred artists across the city open their studios. Parkville is the densest cluster; start at the Market and walk.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "crafts",
+      "photography",
+      "design"
+    ],
+    "start": "2026-11-07T11:00:00-05:00",
+    "end": "2026-11-07T17:00:00-05:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://openstudiohartford.com"
+    }
+  },
+  {
+    "id": "e147",
+    "title": "Hartford Wolf Pack: Young Professionals Night",
+    "description": "Group ticket block with a pregame reception in the club. Built for meeting people.",
+    "category": "social",
+    "tags": [
+      "sports_fan",
+      "career_networking",
+      "craft_beer"
+    ],
+    "start": "2026-11-07T19:00:00-05:00",
+    "end": "2026-11-07T21:30:00-05:00",
+    "venue": {
+      "name": "XL Center",
+      "address": "1 Civic Center Plaza, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7676,
+        "lng": -72.676
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 30,
+      "studentAmount": 18
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordwolfpack.com"
+    }
+  },
+  {
+    "id": "e148",
+    "title": "Funny Bone: Taylor Tomlinson",
+    "description": "Touring headliner. Sells out; buy early.",
+    "category": "arts",
+    "tags": [
+      "comedy"
+    ],
+    "start": "2026-11-07T19:30:00-05:00",
+    "end": "2026-11-07T21:00:00-05:00",
+    "venue": {
+      "name": "Funny Bone Comedy Club",
+      "address": "194 Buckland Hills Dr, Manchester",
+      "neighborhood": "Manchester",
+      "coords": {
+        "lat": 41.8062,
+        "lng": -72.5563
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartford.funnybone.com"
+    }
+  },
+  {
+    "id": "e149",
+    "title": "Lizzy McAlpine Solo Acoustic",
+    "description": "Singer-songwriter, seated show.",
+    "category": "music",
+    "tags": [
+      "live_music"
+    ],
+    "start": "2026-11-07T20:00:00-05:00",
+    "end": "2026-11-07T22:00:00-05:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 42
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://infinityhall.com"
+    }
+  },
+  {
+    "id": "e150",
+    "title": "Ragged Mountain Traverse",
+    "description": "Six miles of traprock cliffs. Some hands-on scrambling, spectacular views. Experienced hikers.",
+    "category": "active",
+    "tags": [
+      "hiking",
+      "climbing"
+    ],
+    "start": "2026-11-08T09:00:00-05:00",
+    "end": "2026-11-08T13:00:00-05:00",
+    "venue": {
+      "name": "Ragged Mountain Preserve",
+      "address": "West Ln, Berlin",
+      "neighborhood": "Berlin",
+      "coords": {
+        "lat": 41.6337,
+        "lng": -72.7969
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "outdoor",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/ct-scramblers/"
+    }
+  },
+  {
+    "id": "e151",
+    "title": "Keney Park Trail Day",
+    "description": "Trail maintenance in the city's biggest park with the Sustainability Project crew.",
+    "category": "community",
+    "tags": [
+      "volunteering",
+      "hiking",
+      "cycling"
+    ],
+    "start": "2026-11-08T09:00:00-05:00",
+    "end": "2026-11-08T12:00:00-05:00",
+    "venue": {
+      "name": "Keney Park",
+      "address": "280 Edgewood St, Hartford",
+      "neighborhood": "Blue Hills",
+      "coords": {
+        "lat": 41.793,
+        "lng": -72.69
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://keneyparksustainabilityproject.org"
+    }
+  },
+  {
+    "id": "e152",
+    "title": "Silent Book Club",
+    "description": "Read whatever you want next to other people for an hour, then chat for thirty minutes. Introvert heaven.",
+    "category": "learning",
+    "tags": [
+      "book_club",
+      "coffee"
+    ],
+    "start": "2026-11-08T10:00:00-05:00",
+    "end": "2026-11-08T12:00:00-05:00",
+    "venue": {
+      "name": "Story and Soil Coffee",
+      "address": "387 Capitol Ave, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.763,
+        "lng": -72.6852
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/silent-book-club-hartford/"
+    }
+  },
+  {
+    "id": "e153",
+    "title": "Open Studio Hartford: Coltsville & Downtown Day",
+    "description": "Day two of Open Studio, focused on the Colt Armory studios and downtown lofts. Free shuttle between clusters.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "history",
+      "photography"
+    ],
+    "start": "2026-11-08T11:00:00-05:00",
+    "end": "2026-11-08T17:00:00-05:00",
+    "venue": {
+      "name": "Thomas Hooker Brewery",
+      "address": "140 Huyshope Ave, Hartford",
+      "neighborhood": "Coltsville",
+      "coords": {
+        "lat": 41.7523,
+        "lng": -72.6663
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://openstudiohartford.com"
+    }
+  },
+  {
+    "id": "e154",
+    "title": "Hartford Veterans Day Parade",
+    "description": "The state's largest Veterans Day parade steps off from Bushnell Park. Volunteer marshals still needed.",
+    "category": "community",
+    "tags": [
+      "history",
+      "volunteering"
+    ],
+    "start": "2026-11-08T12:30:00-05:00",
+    "end": "2026-11-08T14:30:00-05:00",
+    "venue": {
+      "name": "Bushnell Park",
+      "address": "99 Trinity St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7648,
+        "lng": -72.679
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Hartford.com",
+      "url": "https://www.hartford.com/events/veterans-day-parade"
+    }
+  },
+  {
+    "id": "e155",
+    "title": "Repair Cafe",
+    "description": "Bring a broken lamp, toaster or jacket. Volunteer fixers teach you to fix it.",
+    "category": "community",
+    "tags": [
+      "sustainability",
+      "tech",
+      "crafts"
+    ],
+    "start": "2026-11-08T13:00:00-05:00",
+    "end": "2026-11-08T16:00:00-05:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Venue website",
+      "url": "https://makerspacect.com"
+    }
+  },
+  {
+    "id": "e156",
+    "title": "Modular Synth Meetup",
+    "description": "Bring your rig or just listen. Patch-sharing and a short live set at the end.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "tech"
+    ],
+    "start": "2026-11-09T18:30:00-05:00",
+    "end": "2026-11-09T21:00:00-05:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/ct-synth-collective/"
+    }
+  },
+  {
+    "id": "e157",
+    "title": "Darkroom Night",
+    "description": "Develop and print your own black-and-white rolls. Chemistry and paper included.",
+    "category": "arts",
+    "tags": [
+      "photography",
+      "film"
+    ],
+    "start": "2026-11-10T18:00:00-05:00",
+    "end": "2026-11-10T21:00:00-05:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://makerspacect.com"
+    }
+  },
+  {
+    "id": "e158",
+    "title": "Nerd Nite Hartford",
+    "description": "Three twenty-minute talks by enthusiasts, in a bar. Topics: bog bodies, fusion, the history of pinball.",
+    "category": "learning",
+    "tags": [
+      "science",
+      "trivia",
+      "craft_beer"
+    ],
+    "start": "2026-11-10T19:00:00-05:00",
+    "end": "2026-11-10T21:30:00-05:00",
+    "venue": {
+      "name": "City Steam Brewery",
+      "address": "942 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7683,
+        "lng": -72.6725
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartford.nerdnite.com"
+    }
+  },
+  {
+    "id": "e159",
+    "title": "Homebrew Club Meeting",
+    "description": "Bring a bottle to share, get feedback. Newcomers welcome, no equipment needed.",
+    "category": "food_drink",
+    "tags": [
+      "craft_beer",
+      "science"
+    ],
+    "start": "2026-11-11T19:00:00-05:00",
+    "end": "2026-11-11T21:00:00-05:00",
+    "venue": {
+      "name": "Hanging Hills Brewing",
+      "address": "150 Ledyard St, Hartford",
+      "neighborhood": "South Meadows",
+      "coords": {
+        "lat": 41.7461,
+        "lng": -72.6726
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/hartford-homebrewers/"
+    }
+  },
+  {
+    "id": "e160",
+    "title": "UConn Men's Basketball at the XL Center",
+    "description": "First Hartford home game of the season.",
+    "category": "social",
+    "tags": [
+      "sports_fan",
+      "basketball"
+    ],
+    "start": "2026-11-11T19:00:00-05:00",
+    "end": "2026-11-11T21:30:00-05:00",
+    "venue": {
+      "name": "XL Center",
+      "address": "1 Civic Center Plaza, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7676,
+        "lng": -72.676
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 45,
+      "studentAmount": 25
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://uconnhuskies.com"
+    }
+  },
+  {
+    "id": "e161",
+    "title": "Community Cooking Night",
+    "description": "Cook a big batch meal for the neighborhood pantry together, eat some of it together.",
+    "category": "food_drink",
+    "tags": [
+      "cooking",
+      "volunteering",
+      "sustainability"
+    ],
+    "start": "2026-11-12T18:00:00-05:00",
+    "end": "2026-11-12T20:30:00-05:00",
+    "venue": {
+      "name": "The Kitchen at Billings Forge",
+      "address": "559 Broad St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7595,
+        "lng": -72.6888
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "Venue website",
+      "url": "https://billingsforgeworks.org"
+    }
+  },
+  {
+    "id": "e162",
+    "title": "Broadway at The Bushnell: 'Kimberly Akimbo'",
+    "description": "Tony-winning musical on tour.",
+    "category": "arts",
+    "tags": [
+      "theater",
+      "live_music"
+    ],
+    "start": "2026-11-12T19:30:00-05:00",
+    "end": "2026-11-12T22:00:00-05:00",
+    "venue": {
+      "name": "The Bushnell",
+      "address": "166 Capitol Ave, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7625,
+        "lng": -72.6797
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 55
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://bushnell.org"
+    }
+  },
+  {
+    "id": "e163",
+    "title": "TheaterWorks: Pay-What-You-Can Night",
+    "description": "Pay-what-you-can performance with a post-show conversation with the director.",
+    "category": "arts",
+    "tags": [
+      "theater",
+      "book_club"
+    ],
+    "start": "2026-11-13T19:30:00-05:00",
+    "end": "2026-11-13T21:15:00-05:00",
+    "venue": {
+      "name": "TheaterWorks Hartford",
+      "address": "233 Pearl St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7657,
+        "lng": -72.6773
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5
+    },
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://twhartford.org"
+    }
+  },
+  {
+    "id": "e164",
+    "title": "Letterpress Open Studio",
+    "description": "Set type and print a poster on the Vandercook.",
+    "category": "arts",
+    "tags": [
+      "crafts",
+      "design",
+      "visual_art"
+    ],
+    "start": "2026-11-14T12:00:00-05:00",
+    "end": "2026-11-14T16:00:00-05:00",
+    "venue": {
+      "name": "MakerspaceCT",
+      "address": "960 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.769,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 20
+    },
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "Venue website",
+      "url": "https://makerspacect.com"
+    }
+  },
+  {
+    "id": "e165",
+    "title": "Hartford Jazz Society: Emmet Cohen Trio",
+    "description": "Piano trio straight from Harlem. The Jazz Society crowd is friendly and knows everyone.",
+    "category": "music",
+    "tags": [
+      "jazz",
+      "live_music"
+    ],
+    "start": "2026-11-14T19:30:00-05:00",
+    "end": "2026-11-14T21:30:00-05:00",
+    "venue": {
+      "name": "Infinity Hall Hartford",
+      "address": "32 Front St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.764,
+        "lng": -72.6689
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 35,
+      "studentAmount": 15
+    },
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Venue website",
+      "url": "https://hartfordjazzsociety.com"
+    }
+  },
+  {
+    "id": "e166",
+    "title": "Trinity International Students Welcome Mixer",
+    "description": "Open to international students and friends from every Hartford campus. Food from six countries, a flag-pin map, and a host who introduces you to three people.",
+    "category": "social",
+    "tags": [
+      "international",
+      "language_exchange",
+      "career_networking"
+    ],
+    "start": "2026-10-02T18:00:00-04:00",
+    "end": "2026-10-02T20:00:00-04:00",
+    "venue": {
+      "name": "Trinity College, Mather Hall",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Trinity campus",
+      "coords": {
+        "lat": 41.7476,
+        "lng": -72.6906
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Trinity OISS",
+      "url": "https://www.trincoll.edu/oiss"
+    }
+  },
+  {
+    "id": "e167",
+    "title": "UConn Hartford International Coffee Hour",
+    "description": "Weekly coffee and pastries for international students and anyone who wants to meet them. Half the room is grad students, the other half is curious locals.",
+    "category": "social",
+    "tags": [
+      "international",
+      "coffee",
+      "language_exchange"
+    ],
+    "start": "2026-10-07T16:30:00-04:00",
+    "end": "2026-10-07T18:00:00-04:00",
+    "venue": {
+      "name": "UConn Hartford, Hartford Times Building",
+      "address": "10 Prospect St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7645,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "UConn Global Affairs",
+      "url": "https://global.uconn.edu/hartford"
+    }
+  },
+  {
+    "id": "e168",
+    "title": "UConn Hartford International Coffee Hour",
+    "description": "Weekly international coffee hour. This week: Diwali sweets.",
+    "category": "social",
+    "tags": [
+      "international",
+      "coffee",
+      "language_exchange"
+    ],
+    "start": "2026-10-21T16:30:00-04:00",
+    "end": "2026-10-21T18:00:00-04:00",
+    "venue": {
+      "name": "UConn Hartford, Hartford Times Building",
+      "address": "10 Prospect St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7645,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "UConn Global Affairs",
+      "url": "https://global.uconn.edu/hartford"
+    }
+  },
+  {
+    "id": "e169",
+    "title": "Lunar Lantern Night",
+    "description": "Lantern making, mooncakes, and a night market on the Gengras lawn. Hosted by the Chinese and Vietnamese student associations, open to all.",
+    "category": "community",
+    "tags": [
+      "international",
+      "crafts",
+      "food_tours"
+    ],
+    "start": "2026-10-03T18:30:00-04:00",
+    "end": "2026-10-03T21:30:00-04:00",
+    "venue": {
+      "name": "University of Hartford, Gengras Student Union",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.7996,
+        "lng": -72.714
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "UHart International Student Association",
+      "url": "https://www.hartford.edu/isa"
+    }
+  },
+  {
+    "id": "e170",
+    "title": "Diwali Night",
+    "description": "Dance performances, a full Indian dinner, and an open dance floor after. Students from every Hartford campus come; free with any student ID.",
+    "category": "community",
+    "tags": [
+      "international",
+      "dance",
+      "food_tours",
+      "live_music"
+    ],
+    "start": "2026-10-24T18:00:00-04:00",
+    "end": "2026-10-24T22:00:00-04:00",
+    "venue": {
+      "name": "University of Hartford, Gengras Student Union",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.7996,
+        "lng": -72.714
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5,
+      "studentAmount": 0
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "UHart South Asian Student Association",
+      "url": "https://www.hartford.edu/sasa"
+    }
+  },
+  {
+    "id": "e171",
+    "title": "Intercultural Cooking Night",
+    "description": "Four students each teach a dish from home; everyone cooks, everyone eats. Sign-up capped at twenty.",
+    "category": "food_drink",
+    "tags": [
+      "cooking",
+      "international",
+      "language_exchange"
+    ],
+    "start": "2026-10-28T18:00:00-04:00",
+    "end": "2026-10-28T20:30:00-04:00",
+    "venue": {
+      "name": "UConn Hartford, Hartford Times Building",
+      "address": "10 Prospect St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7645,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "small",
+    "socialFormat": "class",
+    "source": {
+      "name": "UConn Global Affairs",
+      "url": "https://global.uconn.edu/hartford"
+    }
+  },
+  {
+    "id": "e172",
+    "title": "Early Friendsgiving for International Students",
+    "description": "A full Thanksgiving dinner explained and served for students who will not be going home. Local host families and students from all campuses.",
+    "category": "food_drink",
+    "tags": [
+      "international",
+      "cooking",
+      "faith"
+    ],
+    "start": "2026-11-14T17:00:00-05:00",
+    "end": "2026-11-14T20:00:00-05:00",
+    "venue": {
+      "name": "University of Hartford, Gengras Student Union",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.7996,
+        "lng": -72.714
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "UHart International Center",
+      "url": "https://www.hartford.edu/international"
+    }
+  },
+  {
+    "id": "e173",
+    "title": "Trinity Fall Fest on the Quad",
+    "description": "Student bands, food trucks, pumpkin painting, and a cider bar (21+). Open to the public; neighbors and other schools welcome.",
+    "category": "social",
+    "tags": [
+      "live_music",
+      "food_tours",
+      "crafts"
+    ],
+    "start": "2026-10-10T14:00:00-04:00",
+    "end": "2026-10-10T19:00:00-04:00",
+    "venue": {
+      "name": "Trinity College Main Quad",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Trinity campus",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6912
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Trinity Student Activities",
+      "url": "https://www.trincoll.edu/studentactivities"
+    }
+  },
+  {
+    "id": "e174",
+    "title": "Trinity Homecoming: Bantams Football",
+    "description": "Homecoming game against Amherst with a tailgate on the Jessee Field lawn. Free for students, ten dollars for everyone else.",
+    "category": "social",
+    "tags": [
+      "sports_fan",
+      "craft_beer"
+    ],
+    "start": "2026-10-24T13:00:00-04:00",
+    "end": "2026-10-24T16:30:00-04:00",
+    "venue": {
+      "name": "Jessee/Miller Field, Trinity College",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Trinity campus",
+      "coords": {
+        "lat": 41.7449,
+        "lng": -72.6882
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10,
+      "studentAmount": 0
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Trinity Athletics",
+      "url": "https://bantamsports.com"
+    }
+  },
+  {
+    "id": "e175",
+    "title": "Study Break Yoga on the Quad",
+    "description": "Free outdoor flow before the sun goes, mats provided. Open to students from any school.",
+    "category": "active",
+    "tags": [
+      "yoga",
+      "fitness"
+    ],
+    "start": "2026-10-06T17:30:00-04:00",
+    "end": "2026-10-06T18:30:00-04:00",
+    "venue": {
+      "name": "Trinity College Main Quad",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Trinity campus",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6912
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "medium",
+    "socialFormat": "class",
+    "source": {
+      "name": "Trinity Wellness",
+      "url": "https://www.trincoll.edu/wellness"
+    }
+  },
+  {
+    "id": "e176",
+    "title": "Trinity Intramural Futsal Open Night",
+    "description": "Open futsal in the Ferris field house; teams drafted on the night. Non-Trinity students welcome with an ID.",
+    "category": "active",
+    "tags": [
+      "soccer",
+      "fitness"
+    ],
+    "start": "2026-10-14T20:00:00-04:00",
+    "end": "2026-10-14T22:00:00-04:00",
+    "venue": {
+      "name": "Jessee/Miller Field, Trinity College",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Trinity campus",
+      "coords": {
+        "lat": 41.7449,
+        "lng": -72.6882
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Trinity Rec",
+      "url": "https://www.trincoll.edu/rec"
+    }
+  },
+  {
+    "id": "e177",
+    "title": "Cinestudio Student Film Night",
+    "description": "Shorts from Trinity, Hartford Art School, and Hartt students on the big screen, with the filmmakers on stage after.",
+    "category": "arts",
+    "tags": [
+      "film",
+      "visual_art"
+    ],
+    "start": "2026-11-12T19:30:00-05:00",
+    "end": "2026-11-12T21:30:00-05:00",
+    "venue": {
+      "name": "Cinestudio",
+      "address": "300 Summit St, Hartford",
+      "neighborhood": "Frog Hollow",
+      "coords": {
+        "lat": 41.7472,
+        "lng": -72.6907
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Cinestudio",
+      "url": "https://cinestudio.org"
+    }
+  },
+  {
+    "id": "e178",
+    "title": "UHart Climbing Wall Open Night",
+    "description": "Open climb with belay staff and rental shoes. Free for UHart students, five dollars for other students.",
+    "category": "active",
+    "tags": [
+      "climbing",
+      "fitness"
+    ],
+    "start": "2026-10-08T19:00:00-04:00",
+    "end": "2026-10-08T21:00:00-04:00",
+    "venue": {
+      "name": "Sports Center Climbing Wall, University of Hartford",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.801,
+        "lng": -72.713
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5,
+      "studentAmount": 0
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "UHart Campus Rec",
+      "url": "https://www.hartford.edu/rec"
+    }
+  },
+  {
+    "id": "e179",
+    "title": "UHart Climbing Wall Open Night",
+    "description": "Open climb, Halloween route-setting theme.",
+    "category": "active",
+    "tags": [
+      "climbing",
+      "fitness"
+    ],
+    "start": "2026-10-29T19:00:00-04:00",
+    "end": "2026-10-29T21:00:00-04:00",
+    "venue": {
+      "name": "Sports Center Climbing Wall, University of Hartford",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.801,
+        "lng": -72.713
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 5,
+      "studentAmount": 0
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "UHart Campus Rec",
+      "url": "https://www.hartford.edu/rec"
+    }
+  },
+  {
+    "id": "e180",
+    "title": "Hartt Jazz Ensemble: Fall Concert",
+    "description": "The Jackie McLean Institute big band with guest soloists. Free for students; the hang in the lobby afterward is where the musicians meet.",
+    "category": "music",
+    "tags": [
+      "jazz",
+      "live_music"
+    ],
+    "start": "2026-10-15T19:30:00-04:00",
+    "end": "2026-10-15T21:30:00-04:00",
+    "venue": {
+      "name": "Millard Auditorium, The Hartt School",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.799,
+        "lng": -72.7152
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 10,
+      "studentAmount": 0
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "The Hartt School",
+      "url": "https://www.hartford.edu/hartt"
+    }
+  },
+  {
+    "id": "e181",
+    "title": "Hartt Student Composers Showcase",
+    "description": "New works by Hartt composition and production students, including film score premieres.",
+    "category": "music",
+    "tags": [
+      "live_music",
+      "jazz",
+      "film"
+    ],
+    "start": "2026-11-10T19:30:00-05:00",
+    "end": "2026-11-10T21:00:00-05:00",
+    "venue": {
+      "name": "Millard Auditorium, The Hartt School",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.799,
+        "lng": -72.7152
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "medium",
+    "socialFormat": "performance",
+    "source": {
+      "name": "The Hartt School",
+      "url": "https://www.hartford.edu/hartt"
+    }
+  },
+  {
+    "id": "e182",
+    "title": "UHart Hawks Basketball: Season Opener",
+    "description": "First home game of the season at Chase Arena with a student section giveaway.",
+    "category": "social",
+    "tags": [
+      "basketball",
+      "sports_fan"
+    ],
+    "start": "2026-11-06T19:00:00-05:00",
+    "end": "2026-11-06T21:30:00-05:00",
+    "venue": {
+      "name": "Chase Family Arena, University of Hartford",
+      "address": "200 Bloomfield Ave, West Hartford",
+      "neighborhood": "UHart campus",
+      "coords": {
+        "lat": 41.8006,
+        "lng": -72.7126
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 12,
+      "studentAmount": 0
+    },
+    "campus": "University of Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "performance",
+    "source": {
+      "name": "Hartford Hawks",
+      "url": "https://hartfordhawks.com"
+    }
+  },
+  {
+    "id": "e183",
+    "title": "Capital CC Club Fair & Welcome BBQ",
+    "description": "Every club on campus with a table, plus a free lunch on the plaza. The gaming club and the cyber club are recruiting.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "food_tours",
+      "gaming"
+    ],
+    "start": "2026-10-01T12:00:00-04:00",
+    "end": "2026-10-01T15:00:00-04:00",
+    "venue": {
+      "name": "Capital Community College, Centinel Hill Hall",
+      "address": "950 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7684,
+        "lng": -72.6727
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Capital Community College",
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Capital CC Student Life",
+      "url": "https://capitalcc.edu/student-life"
+    }
+  },
+  {
+    "id": "e184",
+    "title": "Capital CC Board Game Cafe Night",
+    "description": "Library of games in the student lounge, snacks, and a Smash setup in the corner. Open to any student.",
+    "category": "social",
+    "tags": [
+      "board_games",
+      "gaming",
+      "trivia"
+    ],
+    "start": "2026-10-20T17:30:00-04:00",
+    "end": "2026-10-20T20:00:00-04:00",
+    "venue": {
+      "name": "Capital Community College, Centinel Hill Hall",
+      "address": "950 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7684,
+        "lng": -72.6727
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Capital Community College",
+    "expectedAttendance": "medium",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Capital CC Student Life",
+      "url": "https://capitalcc.edu/student-life"
+    }
+  },
+  {
+    "id": "e185",
+    "title": "UConn Law Student Bar Association Happy Hour",
+    "description": "Monthly SBA happy hour with a first drink on the tab. Friends and other grad students explicitly invited.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "cocktails",
+      "trivia"
+    ],
+    "start": "2026-10-16T17:30:00-04:00",
+    "end": "2026-10-16T20:00:00-04:00",
+    "venue": {
+      "name": "Arch Street Tavern",
+      "address": "85 Arch St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7622,
+        "lng": -72.6733
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn School of Law",
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "UConn Law SBA",
+      "url": "https://law.uconn.edu/sba"
+    }
+  },
+  {
+    "id": "e186",
+    "title": "Hartford Grad Student Mixer",
+    "description": "Grad students from UConn Hartford, UConn Law, UConn Health, UHart, and USJ on the Market rooftop. Color-coded wristbands by program so you can find your field or avoid it.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "cocktails",
+      "international"
+    ],
+    "start": "2026-10-09T18:00:00-04:00",
+    "end": "2026-10-09T21:00:00-04:00",
+    "venue": {
+      "name": "Parkville Market",
+      "address": "1400 Park St, Hartford",
+      "neighborhood": "Parkville",
+      "coords": {
+        "lat": 41.753,
+        "lng": -72.7078
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Hartford Graduate Student Council",
+      "url": "https://www.instagram.com/hartfordgrads"
+    }
+  },
+  {
+    "id": "e187",
+    "title": "Hartford Young Alumni Night",
+    "description": "Classes of 2021 to 2026 from Trinity, UHart, UConn, and CCSU. Trivia by school at 8.",
+    "category": "social",
+    "tags": [
+      "career_networking",
+      "cocktails",
+      "trivia"
+    ],
+    "start": "2026-10-29T18:00:00-04:00",
+    "end": "2026-10-29T21:00:00-04:00",
+    "venue": {
+      "name": "City Steam Brewery",
+      "address": "942 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7683,
+        "lng": -72.6725
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Trinity College",
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Trinity Alumni Office",
+      "url": "https://www.trincoll.edu/alumni"
+    }
+  },
+  {
+    "id": "e188",
+    "title": "College Night at the Wadsworth",
+    "description": "Free admission with any college ID, student DJ, sketching stations in the galleries, and a cash bar for 21+.",
+    "category": "arts",
+    "tags": [
+      "visual_art",
+      "live_music",
+      "cocktails"
+    ],
+    "start": "2026-10-15T18:00:00-04:00",
+    "end": "2026-10-15T21:00:00-04:00",
+    "venue": {
+      "name": "Wadsworth Atheneum",
+      "address": "600 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7636,
+        "lng": -72.673
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "Wadsworth Atheneum",
+      "url": "https://thewadsworth.org"
+    }
+  },
+  {
+    "id": "e189",
+    "title": "HartfordHacks: Intercollegiate Hackathon",
+    "description": "Students from every Hartford campus, twelve hours, sponsor prizes from the insurers. Teams form at the opening ceremony; designers and first-timers wanted.",
+    "category": "learning",
+    "tags": [
+      "tech",
+      "ai",
+      "design",
+      "startups"
+    ],
+    "start": "2026-11-07T09:00:00-05:00",
+    "end": "2026-11-07T21:00:00-05:00",
+    "venue": {
+      "name": "UConn Hartford, Hartford Times Building",
+      "address": "10 Prospect St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7645,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "HartfordHacks",
+      "url": "https://hartfordhacks.org"
+    }
+  },
+  {
+    "id": "e190",
+    "title": "UConn Hartford Career & Internship Fair",
+    "description": "Eighty employers, heavy on insurance and fintech. Open to students from all Connecticut schools with an ID.",
+    "category": "learning",
+    "tags": [
+      "career_networking",
+      "finance",
+      "tech"
+    ],
+    "start": "2026-10-22T13:00:00-04:00",
+    "end": "2026-10-22T16:00:00-04:00",
+    "venue": {
+      "name": "UConn Hartford, Hartford Times Building",
+      "address": "10 Prospect St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7645,
+        "lng": -72.672
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Hartford",
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "UConn Center for Career Development",
+      "url": "https://career.uconn.edu"
+    }
+  },
+  {
+    "id": "e191",
+    "title": "College Night: Resume Review & Coffee",
+    "description": "Volunteer recruiters review resumes over coffee, then a low-key mixer. Aimed at students and recent grads.",
+    "category": "learning",
+    "tags": [
+      "career_networking",
+      "coffee"
+    ],
+    "start": "2026-10-27T17:30:00-04:00",
+    "end": "2026-10-27T19:30:00-04:00",
+    "venue": {
+      "name": "Hartford Public Library",
+      "address": "500 Main St, Hartford",
+      "neighborhood": "Downtown",
+      "coords": {
+        "lat": 41.7643,
+        "lng": -72.6718
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Capital Community College",
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "Hartford Public Library",
+      "url": "https://hplct.org"
+    }
+  },
+  {
+    "id": "e192",
+    "title": "USJ Day of Service",
+    "description": "Two hundred volunteers across ten Hartford sites, then lunch back on campus. Students from other schools can sign up.",
+    "category": "community",
+    "tags": [
+      "volunteering",
+      "gardening",
+      "faith"
+    ],
+    "start": "2026-10-10T09:00:00-04:00",
+    "end": "2026-10-10T13:00:00-04:00",
+    "venue": {
+      "name": "University of Saint Joseph, McGovern Hall",
+      "address": "1678 Asylum Ave, West Hartford",
+      "neighborhood": "West Hartford",
+      "coords": {
+        "lat": 41.777,
+        "lng": -72.73
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "University of Saint Joseph",
+    "expectedAttendance": "large",
+    "socialFormat": "volunteer",
+    "source": {
+      "name": "USJ Campus Ministry",
+      "url": "https://www.usj.edu/service"
+    }
+  },
+  {
+    "id": "e193",
+    "title": "CCSU Homecoming Tailgate & Game",
+    "description": "Tailgate lot opens at 11, kickoff at 1. Free for students, fifteen dollars otherwise.",
+    "category": "social",
+    "tags": [
+      "sports_fan",
+      "live_music",
+      "craft_beer"
+    ],
+    "start": "2026-10-17T11:00:00-04:00",
+    "end": "2026-10-17T16:00:00-04:00",
+    "venue": {
+      "name": "Arute Field, CCSU",
+      "address": "1615 Stanley St, New Britain",
+      "neighborhood": "New Britain",
+      "coords": {
+        "lat": 41.6905,
+        "lng": -72.7745
+      }
+    },
+    "price": {
+      "type": "paid",
+      "amount": 15,
+      "studentAmount": 0
+    },
+    "campus": "Central Connecticut State University",
+    "expectedAttendance": "large",
+    "socialFormat": "drop_in",
+    "source": {
+      "name": "CCSU Athletics",
+      "url": "https://ccsubluedevils.com"
+    }
+  },
+  {
+    "id": "e194",
+    "title": "CCSU Game Design Club Playtest Night",
+    "description": "Bring a prototype or just play. Digital and tabletop, students from other schools welcome.",
+    "category": "social",
+    "tags": [
+      "gaming",
+      "board_games",
+      "design"
+    ],
+    "start": "2026-10-13T18:00:00-04:00",
+    "end": "2026-10-13T21:00:00-04:00",
+    "venue": {
+      "name": "CCSU Student Center",
+      "address": "1615 Stanley St, New Britain",
+      "neighborhood": "New Britain",
+      "coords": {
+        "lat": 41.689,
+        "lng": -72.7717
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "Central Connecticut State University",
+    "expectedAttendance": "small",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "CCSU Game Design Club",
+      "url": "https://ccsu.edu/clubs"
+    }
+  },
+  {
+    "id": "e195",
+    "title": "UConn Health Grad Student Trivia",
+    "description": "Science-heavy trivia in the rotunda with pizza. PhD, MD, DMD, and MPH students, teams mixed on purpose.",
+    "category": "social",
+    "tags": [
+      "trivia",
+      "science",
+      "craft_beer"
+    ],
+    "start": "2026-10-23T18:30:00-04:00",
+    "end": "2026-10-23T20:30:00-04:00",
+    "venue": {
+      "name": "UConn Health, Academic Rotunda",
+      "address": "263 Farmington Ave, Farmington",
+      "neighborhood": "Farmington",
+      "coords": {
+        "lat": 41.7256,
+        "lng": -72.7947
+      }
+    },
+    "price": {
+      "type": "free"
+    },
+    "campus": "UConn Health",
+    "expectedAttendance": "medium",
+    "socialFormat": "structured_meetup",
+    "source": {
+      "name": "UConn Health GSO",
+      "url": "https://health.uconn.edu/graduate-school"
+    }
+  }
+]

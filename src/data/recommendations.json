@@ -1,0 +1,4898 @@
+[
+  {
+    "personId": "p01",
+    "eventId": "e152",
+    "score": 80,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: coffee and book club",
+      "1.1 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e038",
+    "score": 82,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "A run club that ends at a bar is your 'run then coffee' crew, just later in the day",
+      "Easy 5k pace, so you can actually talk to people, and none of them are Trinity students",
+      "Three other runners in this group are going, from UConn Hartford, UConn Law, and UHart"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p01",
+    "eventId": "e011",
+    "score": 68,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around coffee, one of your interests",
+      "1.1 mi from Trinity campus, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e103",
+    "score": 68,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around coffee, one of your interests",
+      "1.6 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e142",
+    "score": 68,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around coffee, one of your interests",
+      "1.6 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e175",
+    "score": 68,
+    "meetPeopleScore": 93,
+    "reasons": [
+      "Built around yoga, one of your interests",
+      "On your campus at Trinity, no travel and a familiar crowd",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e191",
+    "score": 68,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Built around coffee, one of your interests",
+      "Student crowd from Capital CC, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e023",
+    "score": 65,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "2.4 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e066",
+    "score": 65,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "2.4 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e174",
+    "score": 65,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hosted by Trinity, so the room is already half familiar",
+      "Student crowd from Trinity, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e002",
+    "score": 64,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "2.8 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e068",
+    "score": 64,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around coffee, one of your interests",
+      "Under a mile from you in Trinity campus",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e134",
+    "score": 64,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around coffee, one of your interests",
+      "Under a mile from you in Trinity campus",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p01",
+    "eventId": "e041",
+    "score": 62,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and coffee",
+      "1.3 mi from Trinity campus, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e123",
+    "score": 77,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: hiking and photography",
+      "2.3 mi from Downtown, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e178",
+    "score": 74,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student crowd from UHart, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e179",
+    "score": 74,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student crowd from UHart, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e171",
+    "score": 72,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Built around international community, one of your interests",
+      "On your campus at UConn Hartford, no travel and a familiar crowd",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e083",
+    "score": 71,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: hiking and photography",
+      "7.7 mi from Downtown, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e001",
+    "score": 70,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Made for people who moved here in the last year, like you",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e018",
+    "score": 70,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: hiking and photography",
+      "8.0 mi from Downtown, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e020",
+    "score": 70,
+    "meetPeopleScore": 70,
+    "reasons": [
+      "Hits two of your interests: hiking and photography",
+      "8 mi away, a bit of a trek but worth it",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e024",
+    "score": 79,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Staff pair you with a belay partner, which solves your Tuesday problem in one night",
+      "Climbing is your top interest and the student rate makes it a fifteen-dollar habit",
+      "Three other climbers here are going, one of them also an international grad student"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p02",
+    "eventId": "e069",
+    "score": 67,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student price, $20",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e104",
+    "score": 67,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student price, $15",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e150",
+    "score": 65,
+    "meetPeopleScore": 66,
+    "reasons": [
+      "Hits two of your interests: climbing and hiking",
+      "11 mi away, a bit of a trek but worth it",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e119",
+    "score": 64,
+    "meetPeopleScore": 66,
+    "reasons": [
+      "Hits two of your interests: hiking and photography",
+      "8 mi away, a bit of a trek but worth it",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p02",
+    "eventId": "e028",
+    "score": 62,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e184",
+    "score": 98,
+    "meetPeopleScore": 77,
+    "reasons": [
+      "Hits two of your interests: trivia and board games",
+      "Student crowd from Capital CC, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e080",
+    "score": 90,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: trivia and board games",
+      "1.3 mi from West End, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e114",
+    "score": 80,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: wine and theater",
+      "Student price, $20",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e185",
+    "score": 80,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "On your campus at UConn Law, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e163",
+    "score": 78,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: theater and book club",
+      "1.7 mi from West End, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e187",
+    "score": 78,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e030",
+    "score": 99,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Solo players get placed on a team by the host, so you walk out with teammates",
+      "Trivia is your number one and nobody at this table is in your section",
+      "Four other trivia people in this group are going, that is a standing team waiting to happen"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p03",
+    "eventId": "e075",
+    "score": 74,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "1.3 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e076",
+    "score": 74,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "2.0 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e027",
+    "score": 73,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "2.9 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e195",
+    "score": 73,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "Student crowd from UConn Health, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e158",
+    "score": 71,
+    "meetPeopleScore": 45,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "2.0 mi from West End, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e036",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "2.0 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p03",
+    "eventId": "e025",
+    "score": 61,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "1.8 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e142",
+    "score": 94,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits design, visual art and coffee",
+      "1.0 mi from Parkville, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e087",
+    "score": 93,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits design, tech and ai",
+      "2.0 mi from Parkville, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e110",
+    "score": 93,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits design, tech and visual art",
+      "1.8 mi from Parkville, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e143",
+    "score": 91,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: design and visual art",
+      "2.0 mi from Parkville, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e164",
+    "score": 91,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: design and visual art",
+      "2.0 mi from Parkville, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e189",
+    "score": 96,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Teams form at the opening ceremony and they explicitly want designers",
+      "Twelve hours of building beats twelve happy hours for meeting people who make things",
+      "Five engineers and builders from this group are going and none of them have a designer"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p04",
+    "eventId": "e028",
+    "score": 87,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: tech and ai",
+      "2.0 mi from Parkville, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e105",
+    "score": 87,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: design and visual art",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e078",
+    "score": 81,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: design and visual art",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e146",
+    "score": 81,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: design and visual art",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e067",
+    "score": 77,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: tech and ai",
+      "1.8 mi from Parkville, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e133",
+    "score": 77,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: tech and ai",
+      "1.8 mi from Parkville, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e194",
+    "score": 74,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around design, one of your interests",
+      "Student crowd from CCSU, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p04",
+    "eventId": "e061",
+    "score": 71,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around design, one of your interests",
+      "2.0 mi from Parkville, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e008",
+    "score": 86,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: hiking and dogs",
+      "7.0 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e150",
+    "score": 86,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: hiking and climbing",
+      "6.2 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e056",
+    "score": 88,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Weekend hike with a regular group, leashed dogs welcome",
+      "Five miles on a ridge is your kind of Saturday, and it is twenty minutes from Farmington",
+      "Two other hikers here are going, including a CCSU senior who climbs"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p05",
+    "eventId": "e119",
+    "score": 81,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: hiking and sustainability",
+      "8.4 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e123",
+    "score": 70,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "7.0 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e020",
+    "score": 69,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "8.4 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e058",
+    "score": 69,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "8.4 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e151",
+    "score": 69,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "8.9 mi from Farmington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e118",
+    "score": 68,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Hits two of your interests: kayaking and sustainability",
+      "9.1 mi from Farmington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e096",
+    "score": 67,
+    "meetPeopleScore": 70,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "5.1 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e010",
+    "score": 66,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: kayaking and sustainability",
+      "9.1 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p05",
+    "eventId": "e018",
+    "score": 66,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "12.8 mi from Farmington, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e170",
+    "score": 100,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "Student crowd from UHart, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e180",
+    "score": 100,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Student crowd from UHart, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e181",
+    "score": 97,
+    "meetPeopleScore": 57,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Student crowd from UHart, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e165",
+    "score": 96,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Student price, $15",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e101",
+    "score": 94,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and faith",
+      "Under a mile from you in Blue Hills",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e003",
+    "score": 89,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "2.2 mi from Blue Hills, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e021",
+    "score": 89,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "2.2 mi from Blue Hills, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e043",
+    "score": 99,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Live band plus a dance floor where strangers pull you in, exactly your energy",
+      "Big loud room, which is where you make friends fastest, and it is free",
+      "Four people from this group are going, including a Hartt bassist and two salsa regulars"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p06",
+    "eventId": "e117",
+    "score": 89,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "2.9 mi from Blue Hills, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e132",
+    "score": 89,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "2.6 mi from Blue Hills, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e139",
+    "score": 89,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "2.7 mi from Blue Hills, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e005",
+    "score": 87,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "2.7 mi from Blue Hills, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e126",
+    "score": 83,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "2.7 mi from Blue Hills, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p06",
+    "eventId": "e172",
+    "score": 82,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: cooking and faith",
+      "Student crowd from UHart, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e051",
+    "score": 94,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cooking and food",
+      "Under a mile from you in Frog Hollow",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e120",
+    "score": 94,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cooking and food",
+      "1.4 mi from Frog Hollow, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e007",
+    "score": 91,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: cooking and volunteering",
+      "Under a mile from you in Frog Hollow",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e161",
+    "score": 91,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: cooking and volunteering",
+      "Under a mile from you in Frog Hollow",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e130",
+    "score": 96,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Sixteen seats, assigned seating, communal food: this is the dinner crew you are looking for",
+      "You will try a cuisine you have not ranked yet",
+      "Three other food people in this group booked seats, one of them cooks this food at home"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p07",
+    "eventId": "e111",
+    "score": 87,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: cooking and craft beer",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e013",
+    "score": 83,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: food and craft beer",
+      "Under a mile from you in Frog Hollow",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e012",
+    "score": 79,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: food and craft beer",
+      "2.2 mi from Frog Hollow, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e158",
+    "score": 77,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: craft beer and trivia",
+      "1.1 mi from Frog Hollow, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e173",
+    "score": 77,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around food, one of your interests",
+      "On your campus at Trinity, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e030",
+    "score": 74,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: craft beer and trivia",
+      "1.1 mi from Frog Hollow, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e075",
+    "score": 74,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: craft beer and trivia",
+      "1.1 mi from Frog Hollow, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e062",
+    "score": 71,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "Under a mile from you in Frog Hollow",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p07",
+    "eventId": "e074",
+    "score": 71,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "Under a mile from you in Frog Hollow",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e177",
+    "score": 97,
+    "meetPeopleScore": 57,
+    "reasons": [
+      "Hits two of your interests: visual art and film",
+      "On your campus at Trinity, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e004",
+    "score": 99,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Screening plus a facilitated discussion, so the film is the icebreaker",
+      "Real Art Ways is where Hartford's artists actually hang out, ten minutes from campus",
+      "Four other visual people here are going, three of them from the art school across town"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p08",
+    "eventId": "e164",
+    "score": 91,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: visual art and crafts",
+      "1.8 mi from Trinity campus, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e037",
+    "score": 90,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: visual art and photography",
+      "Under a mile from you in Trinity campus",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e146",
+    "score": 84,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits visual art, photography and crafts",
+      "Under a mile from you in Trinity campus",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e153",
+    "score": 84,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: visual art and photography",
+      "1.4 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e157",
+    "score": 84,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: photography and film",
+      "1.8 mi from Trinity campus, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e145",
+    "score": 83,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: photography and film",
+      "Student price, $7",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e142",
+    "score": 75,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "1.6 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e143",
+    "score": 75,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "1.8 mi from Trinity campus, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e110",
+    "score": 74,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "1.7 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e001",
+    "score": 73,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Made for people who moved here in the last year, like you",
+      "1.4 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e105",
+    "score": 71,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "Under a mile from you in Trinity campus",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p08",
+    "eventId": "e166",
+    "score": 71,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Built around international community, one of your interests",
+      "On your campus at Trinity, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e038",
+    "score": 89,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "A run club with a taproom attached covers two of your top interests at once",
+      "Great shakeout before marathon weekend, and the regulars will know the course",
+      "Three other runners in this group are going, one is a Trinity senior who does long runs"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p09",
+    "eventId": "e065",
+    "score": 85,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: running and cycling",
+      "5.4 mi from Glastonbury, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e002",
+    "score": 84,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: running and craft beer",
+      "7.6 mi from Glastonbury, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e097",
+    "score": 84,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cycling and fitness",
+      "Under a mile from you in Glastonbury",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e140",
+    "score": 81,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and fitness",
+      "Under a mile from you in Glastonbury",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e091",
+    "score": 80,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cycling and craft beer",
+      "5.9 mi from Glastonbury, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e174",
+    "score": 77,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: sports fan and craft beer",
+      "Student crowd from Trinity, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e047",
+    "score": 74,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and fitness",
+      "Student price, $85",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e193",
+    "score": 74,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: sports fan and craft beer",
+      "Student crowd from CCSU, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e001",
+    "score": 72,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Made for people who moved here in the last year, like you",
+      "4.8 mi from Glastonbury, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e052",
+    "score": 71,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: sports fan and craft beer",
+      "4.0 mi from Glastonbury, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e019",
+    "score": 70,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: sports fan and craft beer",
+      "4.8 mi from Glastonbury, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e023",
+    "score": 69,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "7.1 mi from Glastonbury, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p09",
+    "eventId": "e066",
+    "score": 69,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "7.1 mi from Glastonbury, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e184",
+    "score": 100,
+    "meetPeopleScore": 77,
+    "reasons": [
+      "Hits trivia, board games and gaming",
+      "On your campus at Capital CC, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e080",
+    "score": 88,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: trivia and board games",
+      "2.6 mi from North End, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e076",
+    "score": 75,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "1.7 mi from North End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e185",
+    "score": 75,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "Student crowd from UConn Law, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e187",
+    "score": 75,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e158",
+    "score": 74,
+    "meetPeopleScore": 45,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "1.3 mi from North End, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e100",
+    "score": 71,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: board games and gaming",
+      "1.7 mi from North End, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e027",
+    "score": 69,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "3.1 mi from North End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e036",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "1.6 mi from North End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e113",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "1.6 mi from North End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e182",
+    "score": 68,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Built around basketball, one of your interests",
+      "Student crowd from UHart, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e030",
+    "score": 99,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Trivia is your top interest and this is the biggest game in the city",
+      "Solo players get put on a team, which is how a weekly team starts",
+      "Four other trivia people here are going, you would be the ringer"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p10",
+    "eventId": "e075",
+    "score": 66,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "2.6 mi from North End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p10",
+    "eventId": "e022",
+    "score": 65,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around comedy, one of your interests",
+      "1.4 mi from North End, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e028",
+    "score": 94,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Twelve people with laptops open showing what they built, the ML crowd you assumed did not exist here",
+      "Small room, hands-on, no small talk required",
+      "Four other engineers and founders from this group are going, including another UHart student"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p11",
+    "eventId": "e087",
+    "score": 88,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: ai and tech",
+      "4.1 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e189",
+    "score": 86,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits ai, tech and startups",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e067",
+    "score": 82,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits ai, tech and startups",
+      "4.0 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e133",
+    "score": 82,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: ai and tech",
+      "4.0 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e135",
+    "score": 78,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: tech and startups",
+      "4.0 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e102",
+    "score": 72,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: tech and startups",
+      "4.1 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e178",
+    "score": 71,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e179",
+    "score": 71,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e156",
+    "score": 66,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "4.1 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e182",
+    "score": 65,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hosted by UHart, so the room is already half familiar",
+      "Student crowd from UHart, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e110",
+    "score": 62,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "4.0 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p11",
+    "eventId": "e024",
+    "score": 46,
+    "meetPeopleScore": 88,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student price, $15",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e170",
+    "score": 100,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e043",
+    "score": 99,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Live band, dance floor, rooftop, this is the loud room you have been looking for",
+      "Free, Friday, and fifteen minutes from Elmwood",
+      "Four people from this group are going, including two who will absolutely dance with you"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p12",
+    "eventId": "e117",
+    "score": 94,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "1.5 mi from Elmwood, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e188",
+    "score": 93,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and cocktails",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e033",
+    "score": 92,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: live music and cocktails",
+      "Free with your student ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e139",
+    "score": 92,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits live music, karaoke and dance",
+      "3.6 mi from Elmwood, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e136",
+    "score": 89,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits karaoke, cocktails and comedy",
+      "3.5 mi from Elmwood, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e021",
+    "score": 85,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and cocktails",
+      "3.4 mi from Elmwood, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e180",
+    "score": 85,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Built around live music, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e040",
+    "score": 83,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: karaoke and cocktails",
+      "3.3 mi from Elmwood, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e126",
+    "score": 83,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "3.6 mi from Elmwood, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e138",
+    "score": 80,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits karaoke, cocktails and dance",
+      "3.4 mi from Elmwood, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e181",
+    "score": 78,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Built around live music, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p12",
+    "eventId": "e165",
+    "score": 76,
+    "meetPeopleScore": 45,
+    "reasons": [
+      "Built around live music, one of your interests",
+      "Student price, $15",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e120",
+    "score": 87,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cooking and food",
+      "2.2 mi from Old Wethersfield, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e062",
+    "score": 86,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: cooking and wine",
+      "3.6 mi from Old Wethersfield, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e051",
+    "score": 85,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cooking and food",
+      "3.7 mi from Old Wethersfield, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e130",
+    "score": 89,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Small communal table hosted by a cook who takes food as seriously as you do",
+      "Assigned seating means you meet all sixteen people, not just your side of the table",
+      "Three other serious eaters in this group booked seats, one is an MPH student who cooks this"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p13",
+    "eventId": "e088",
+    "score": 74,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: cooking and gardening",
+      "5.7 mi from Old Wethersfield, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e111",
+    "score": 71,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "2.7 mi from Old Wethersfield, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e074",
+    "score": 70,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "3.8 mi from Old Wethersfield, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e079",
+    "score": 70,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "3.6 mi from Old Wethersfield, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e171",
+    "score": 70,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "3.6 mi from Old Wethersfield, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e001",
+    "score": 69,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Made for people who moved here in the last year, like you",
+      "3.5 mi from Old Wethersfield, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e007",
+    "score": 66,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "3.8 mi from Old Wethersfield, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p13",
+    "eventId": "e161",
+    "score": 66,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around cooking, one of your interests",
+      "3.6 mi from Old Wethersfield, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e150",
+    "score": 93,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Traprock cliffs with hands-on scrambling, hiking and climbing in one trip",
+      "Small experienced group, your pace, your age",
+      "Two other climbers in this group are going, one is a grad student near your campus"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p14",
+    "eventId": "e096",
+    "score": 85,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: hiking and running",
+      "7.1 mi from New Britain, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e083",
+    "score": 77,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: hiking and science",
+      "11.2 mi from New Britain, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e194",
+    "score": 72,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "On your campus at CCSU, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e193",
+    "score": 65,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hosted by CCSU, so the room is already half familiar",
+      "Student crowd from CCSU, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e008",
+    "score": 64,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "7.6 mi from New Britain, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e123",
+    "score": 64,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "7.6 mi from New Britain, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e178",
+    "score": 64,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student crowd from UHart, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e179",
+    "score": 64,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student crowd from UHart, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e018",
+    "score": 63,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "9.7 mi from New Britain, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e151",
+    "score": 63,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "9.4 mi from New Britain, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e024",
+    "score": 60,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student price, $15",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p14",
+    "eventId": "e056",
+    "score": 58,
+    "meetPeopleScore": 66,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "12 mi away, a bit of a trek but worth it",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e142",
+    "score": 94,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "1.1 mi from Parkville, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e105",
+    "score": 90,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits visual art, design and craft beer",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e110",
+    "score": 96,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Working designers from the studios and the insurers in one room, with portfolio walk-arounds",
+      "Two blocks from the buildings you photograph, and the crowd will want to hear about them",
+      "Six other designers and makers in this group are going, four of them from your own school"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p15",
+    "eventId": "e143",
+    "score": 90,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "2.1 mi from Parkville, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e164",
+    "score": 90,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "2.1 mi from Parkville, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e037",
+    "score": 87,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: visual art and photography",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e061",
+    "score": 87,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits design, photography and history",
+      "2.1 mi from Parkville, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e078",
+    "score": 84,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e146",
+    "score": 84,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits visual art, design and photography",
+      "Under a mile from you in Parkville",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e153",
+    "score": 81,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits visual art, photography and history",
+      "2.1 mi from Parkville, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e004",
+    "score": 78,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "Under a mile from you in Parkville",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e177",
+    "score": 75,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e124",
+    "score": 74,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: photography and history",
+      "1.4 mi from Parkville, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p15",
+    "eventId": "e188",
+    "score": 69,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e192",
+    "score": 93,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits volunteering, faith and gardening",
+      "Student crowd from USJ, open to you with an ID",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e031",
+    "score": 90,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: volunteering and faith",
+      "1.4 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e015",
+    "score": 95,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Community gardens across Broad Street, literally your interest list turned into a Saturday morning",
+      "Working side by side is how volunteers become friends",
+      "Two other volunteers from this group signed up, both from other schools"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p16",
+    "eventId": "e127",
+    "score": 83,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: volunteering and gardening",
+      "2.4 mi from Trinity campus, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e118",
+    "score": 75,
+    "meetPeopleScore": 82,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "1.7 mi from Trinity campus, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e154",
+    "score": 75,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "1.2 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e174",
+    "score": 75,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hosted by Trinity, so the room is already half familiar",
+      "Student crowd from Trinity, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e173",
+    "score": 72,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hosted by Trinity, so the room is already half familiar",
+      "Student crowd from Trinity, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e187",
+    "score": 72,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hosted by Trinity, so the room is already half familiar",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e007",
+    "score": 71,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "Under a mile from you in Trinity campus",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e087",
+    "score": 71,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "1.7 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e161",
+    "score": 71,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "Under a mile from you in Trinity campus",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e176",
+    "score": 68,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around soccer, one of your interests",
+      "On your campus at Trinity, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p16",
+    "eventId": "e048",
+    "score": 66,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "3.2 mi from Trinity campus, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e175",
+    "score": 88,
+    "meetPeopleScore": 97,
+    "reasons": [
+      "Hits two of your interests: yoga and fitness",
+      "Student crowd from Trinity, open to you with an ID",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e191",
+    "score": 82,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: coffee and networking",
+      "Student crowd from Capital CC, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e047",
+    "score": 78,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and fitness",
+      "Student price, $85",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e049",
+    "score": 77,
+    "meetPeopleScore": 93,
+    "reasons": [
+      "Hits two of your interests: yoga and fitness",
+      "3.5 mi from Downtown, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e001",
+    "score": 76,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around networking, one of your interests",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e038",
+    "score": 75,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "1.2 mi from Downtown, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e140",
+    "score": 71,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and fitness",
+      "5.0 mi from Downtown, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e023",
+    "score": 90,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Pace groups from 7:00 to 11:00, so you find your speed and your people at once",
+      "Regulars go to Tisane after, which is the network you actually want",
+      "Three other runners in this group are going, none of them law students"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p17",
+    "eventId": "e066",
+    "score": 70,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "2.3 mi from Downtown, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e002",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "3.3 mi from Downtown, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e185",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around networking, one of your interests",
+      "On your campus at UConn Law, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e166",
+    "score": 66,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Built around networking, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e176",
+    "score": 66,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around fitness, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p17",
+    "eventId": "e041",
+    "score": 65,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and coffee",
+      "Under a mile from you in Downtown",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e163",
+    "score": 75,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: book club and theater",
+      "3.3 mi from West Hartford Center, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e025",
+    "score": 77,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Twelve chairs, everyone read the book, a five-minute walk from your apartment",
+      "A monthly fixed date is the fastest route to a real friend group",
+      "Two other readers in this group are going, one of them also does trivia"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p18",
+    "eventId": "e106",
+    "score": 71,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "1.5 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e144",
+    "score": 71,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "Under a mile from you in West Hartford Center",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e030",
+    "score": 68,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "1.8 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e072",
+    "score": 68,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "Under a mile from you in West Hartford Center",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e075",
+    "score": 68,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "1.8 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e076",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "3.5 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e108",
+    "score": 68,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "2.1 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e027",
+    "score": 67,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "3.9 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e063",
+    "score": 67,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "2.9 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e195",
+    "score": 67,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "3.8 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e080",
+    "score": 65,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "1.9 mi from West Hartford Center, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p18",
+    "eventId": "e114",
+    "score": 65,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: wine and theater",
+      "3.5 mi from West Hartford Center, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e189",
+    "score": 97,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: startups and tech",
+      "On your campus at UConn Hartford, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e135",
+    "score": 99,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Founder CEO interview then structured networking, the operators you want in one room",
+      "Ten dollars and ten minutes from your apartment",
+      "Three other founders and engineers in this group are going, one of them from your program"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p19",
+    "eventId": "e102",
+    "score": 90,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits startups, finance, tech and networking",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e071",
+    "score": 88,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: startups and networking",
+      "2.1 mi from Downtown, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e067",
+    "score": 87,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: startups and tech",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e166",
+    "score": 82,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: networking and international community",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e186",
+    "score": 81,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: networking and international community",
+      "On your campus at UConn Hartford, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e107",
+    "score": 80,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: finance and networking",
+      "3.7 mi from Downtown, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e190",
+    "score": 78,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits finance, tech and networking",
+      "On your campus at UConn Hartford, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e133",
+    "score": 74,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: tech and networking",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e171",
+    "score": 68,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Built around international community, one of your interests",
+      "On your campus at UConn Hartford, no travel and a familiar crowd",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e191",
+    "score": 66,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Built around networking, one of your interests",
+      "Student crowd from Capital CC, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e076",
+    "score": 62,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around networking, one of your interests",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p19",
+    "eventId": "e087",
+    "score": 62,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e170",
+    "score": 100,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits live music, dance and international community",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e180",
+    "score": 100,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e181",
+    "score": 100,
+    "meetPeopleScore": 57,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e003",
+    "score": 99,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Sign the list and play; bassists are always needed, so you will get called up",
+      "The house band knows every musician in Hartford who is not at Hartt",
+      "Two other music people in this group are going, one is a Hartt producer looking for players"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p20",
+    "eventId": "e021",
+    "score": 97,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Under a mile from you in Frog Hollow",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e132",
+    "score": 97,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Under a mile from you in Frog Hollow",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e165",
+    "score": 96,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Student price, $15",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e043",
+    "score": 93,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits live music, dance and languages",
+      "Under a mile from you in Frog Hollow",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e117",
+    "score": 93,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits live music, dance and languages",
+      "Under a mile from you in Frog Hollow",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e139",
+    "score": 90,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e005",
+    "score": 87,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e126",
+    "score": 84,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and dance",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e166",
+    "score": 82,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: languages and international community",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p20",
+    "eventId": "e009",
+    "score": 49,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around soccer, one of your interests",
+      "1.0 mi from Frog Hollow, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e174",
+    "score": 100,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: craft beer and sports fan",
+      "On your campus at Trinity, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e012",
+    "score": 94,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: craft beer and food",
+      "1.9 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e013",
+    "score": 94,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: craft beer and food",
+      "1.5 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e014",
+    "score": 94,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: craft beer and sports fan",
+      "1.2 mi from Trinity campus, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e019",
+    "score": 94,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: craft beer and sports fan",
+      "1.3 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e052",
+    "score": 94,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: craft beer and sports fan",
+      "1.2 mi from Trinity campus, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e147",
+    "score": 94,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: craft beer and sports fan",
+      "Student price, $18",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e158",
+    "score": 94,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: craft beer and trivia",
+      "1.7 mi from Trinity campus, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e193",
+    "score": 93,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: craft beer and sports fan",
+      "Student crowd from CCSU, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e030",
+    "score": 99,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Trivia in a brewery you already love, but this time with a team",
+      "Solo players get placed on a team by the host",
+      "Four other trivia people in this group are going, none of them your roommates"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p21",
+    "eventId": "e075",
+    "score": 91,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: craft beer and trivia",
+      "1.1 mi from Trinity campus, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e111",
+    "score": 90,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: craft beer and cooking",
+      "1.2 mi from Trinity campus, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e195",
+    "score": 84,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: craft beer and trivia",
+      "Student crowd from UConn Health, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p21",
+    "eventId": "e051",
+    "score": 80,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cooking and food",
+      "Under a mile from you in Trinity campus",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e065",
+    "score": 90,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: running and cycling",
+      "1.7 mi from Manchester, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e140",
+    "score": 80,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and fitness",
+      "6.3 mi from Manchester, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e047",
+    "score": 75,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Hits two of your interests: running and fitness",
+      "Student price, $85",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e097",
+    "score": 75,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cycling and fitness",
+      "6.6 mi from Manchester, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e151",
+    "score": 73,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: cycling and volunteering",
+      "8.7 mi from Manchester, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e141",
+    "score": 71,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around running, one of your interests",
+      "1.9 mi from Manchester, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e048",
+    "score": 67,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: fitness and volunteering",
+      "8.2 mi from Manchester, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e182",
+    "score": 67,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Built around basketball, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e038",
+    "score": 64,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "8.0 mi from Manchester, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e178",
+    "score": 63,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around fitness, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e179",
+    "score": 63,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around fitness, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p22",
+    "eventId": "e023",
+    "score": 92,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Real pace groups, so a fast run is on the table",
+      "The biggest weekly run in the city is how you replace forty Charlotte friends",
+      "Three other runners from this group are going"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p22",
+    "eventId": "e066",
+    "score": 62,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around running, one of your interests",
+      "10.1 mi from Manchester, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e004",
+    "score": 99,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Screening and discussion in Hartford's art hub, a ten-minute ride from downtown",
+      "Small room with a facilitator, easy for a new person",
+      "Four other visual and film people in this group are going, including an exchange student from Berlin"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p23",
+    "eventId": "e177",
+    "score": 94,
+    "meetPeopleScore": 57,
+    "reasons": [
+      "Hits two of your interests: visual art and film",
+      "Student crowd from Trinity, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e143",
+    "score": 91,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "Under a mile from you in Downtown",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e110",
+    "score": 90,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e037",
+    "score": 87,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: visual art and photography",
+      "1.6 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e105",
+    "score": 87,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "2.0 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e157",
+    "score": 84,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: film and photography",
+      "Under a mile from you in Downtown",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e145",
+    "score": 83,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: film and photography",
+      "Student price, $7",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e078",
+    "score": 81,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "1.6 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e142",
+    "score": 79,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "1.5 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e164",
+    "score": 79,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: visual art and design",
+      "Under a mile from you in Downtown",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e146",
+    "score": 72,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits visual art, design and photography",
+      "2.0 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e153",
+    "score": 69,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: visual art and photography",
+      "1.2 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p23",
+    "eventId": "e188",
+    "score": 69,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e087",
+    "score": 88,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: volunteering and tech",
+      "5.6 mi from Newington, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e048",
+    "score": 90,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Structured, physical, mission-driven: a unit for a day",
+      "Volunteer crews skew toward vets and people your age, not nineteen-year-olds",
+      "Two other volunteers in this group are going, one is also new in town"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p24",
+    "eventId": "e154",
+    "score": 82,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: volunteering and history",
+      "5.1 mi from Newington, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e001",
+    "score": 71,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Made for people who moved here in the last year, like you",
+      "5.1 mi from Newington, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e007",
+    "score": 71,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "4.1 mi from Newington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e015",
+    "score": 70,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "4.5 mi from Newington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e031",
+    "score": 70,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "5.1 mi from Newington, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e161",
+    "score": 70,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "4.6 mi from Newington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e127",
+    "score": 69,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "5.3 mi from Newington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e192",
+    "score": 69,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "Student crowd from USJ, open to you with an ID",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e151",
+    "score": 68,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "6.8 mi from Newington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e184",
+    "score": 66,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "On your campus at Capital CC, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e118",
+    "score": 65,
+    "meetPeopleScore": 82,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "5.5 mi from Newington, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p24",
+    "eventId": "e110",
+    "score": 63,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "5.5 mi from Newington, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e063",
+    "score": 97,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits writing, book club and poetry",
+      "1.3 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e008",
+    "score": 99,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Twenty dogs, twenty people, one loop of your own park, coffee after",
+      "Dog people talk to strangers by default",
+      "Three other dog and hiking people in this group are going"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p25",
+    "eventId": "e025",
+    "score": 87,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: writing and book club",
+      "1.9 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e108",
+    "score": 87,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: writing and book club",
+      "Under a mile from you in West End",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e084",
+    "score": 80,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: writing and poetry",
+      "1.0 mi from West End, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e056",
+    "score": 74,
+    "meetPeopleScore": 70,
+    "reasons": [
+      "Hits two of your interests: hiking and dogs",
+      "7 mi away, a bit of a trek but worth it",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e064",
+    "score": 71,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around writing, one of your interests",
+      "1.3 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e123",
+    "score": 71,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "Under a mile from you in West End",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e151",
+    "score": 71,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "1.8 mi from West End, inside your range",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e096",
+    "score": 70,
+    "meetPeopleScore": 70,
+    "reasons": [
+      "Built around hiking, one of your interests",
+      "3.1 mi from West End, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e085",
+    "score": 68,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around writing, one of your interests",
+      "Under a mile from you in West End",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e129",
+    "score": 68,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around writing, one of your interests",
+      "1.9 mi from West End, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e144",
+    "score": 65,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around book club, one of your interests",
+      "1.9 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p25",
+    "eventId": "e187",
+    "score": 65,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Hosted by Trinity, so the room is already half familiar",
+      "1.9 mi from West End, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e194",
+    "score": 100,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: gaming and board games",
+      "On your campus at CCSU, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e184",
+    "score": 99,
+    "meetPeopleScore": 77,
+    "reasons": [
+      "A student game night downtown that is not on your campus, so nobody goes home at nine",
+      "Free, a library of games, and a Smash setup in the corner",
+      "Two other board game people in this group are going, one of them runs the club"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p26",
+    "eventId": "e080",
+    "score": 75,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: board games and trivia",
+      "5.2 mi from New Britain, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e100",
+    "score": 72,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: gaming and board games",
+      "6.2 mi from New Britain, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e125",
+    "score": 71,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around gaming, one of your interests",
+      "7.3 mi from New Britain, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e195",
+    "score": 66,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Built around trivia, one of your interests",
+      "Student crowd from UConn Health, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e036",
+    "score": 64,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "7.0 mi from New Britain, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e113",
+    "score": 64,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around board games, one of your interests",
+      "7.0 mi from New Britain, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p26",
+    "eventId": "e024",
+    "score": 60,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around climbing, one of your interests",
+      "Student price, $15",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e189",
+    "score": 100,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits ai, tech and startups",
+      "On your campus at UConn Hartford, no travel and a familiar crowd",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e087",
+    "score": 94,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: ai and tech",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e028",
+    "score": 90,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: ai and tech",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e067",
+    "score": 99,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Talks on shipping LLM features in insurance, which is your day job and your side project",
+      "The long hallway track is where co-founders get found",
+      "Three other AI and startup people in this group are going, including two grad students"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p27",
+    "eventId": "e133",
+    "score": 90,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: ai and tech",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e135",
+    "score": 84,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: tech and startups",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e102",
+    "score": 80,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Hits two of your interests: tech and startups",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e001",
+    "score": 76,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Made for people who moved here in the last year, like you",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e110",
+    "score": 68,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e155",
+    "score": 68,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "Under a mile from you in Downtown",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e115",
+    "score": 64,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "Under a mile from you in Downtown",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e156",
+    "score": 64,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around tech, one of your interests",
+      "Under a mile from you in Downtown",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e037",
+    "score": 62,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around photography, one of your interests",
+      "1.7 mi from Downtown, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p27",
+    "eventId": "e061",
+    "score": 62,
+    "meetPeopleScore": 74,
+    "reasons": [
+      "Built around photography, one of your interests",
+      "Under a mile from you in Downtown",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e181",
+    "score": 97,
+    "meetPeopleScore": 57,
+    "reasons": [
+      "Hits live music, jazz and film",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e180",
+    "score": 94,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e003",
+    "score": 90,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Under a mile from you in Asylum Hill",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e021",
+    "score": 99,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "A weekly jazz room with a bar you can sit at, your kind of night, and not a Hartt recital",
+      "The house trio and the regulars know every musician in the city",
+      "Three other music people in this group are going, including a bassist from your school"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p28",
+    "eventId": "e132",
+    "score": 90,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Under a mile from you in Asylum Hill",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e170",
+    "score": 90,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits two of your interests: live music and international community",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e165",
+    "score": 87,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "Student price, $15",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e188",
+    "score": 85,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: live music and cocktails",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e033",
+    "score": 84,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: live music and cocktails",
+      "Free with your student ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e005",
+    "score": 78,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: live music and jazz",
+      "1.3 mi from Asylum Hill, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e064",
+    "score": 78,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around live music, one of your interests",
+      "Under a mile from you in Asylum Hill",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e156",
+    "score": 78,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around live music, one of your interests",
+      "1.1 mi from Asylum Hill, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e186",
+    "score": 75,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: cocktails and international community",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p28",
+    "eventId": "e084",
+    "score": 71,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Built around live music, one of your interests",
+      "Under a mile from you in Asylum Hill",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e170",
+    "score": 95,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Hits food, dance and international community",
+      "Student crowd from UHart, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e051",
+    "score": 94,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits cooking, food and languages",
+      "Under a mile from you in Frog Hollow",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e171",
+    "score": 94,
+    "meetPeopleScore": 93,
+    "reasons": [
+      "Hits cooking, languages and international community",
+      "Student crowd from UConn Hartford, open to you with an ID",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e007",
+    "score": 91,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: cooking and volunteering",
+      "Under a mile from you in Frog Hollow",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e161",
+    "score": 91,
+    "meetPeopleScore": 90,
+    "reasons": [
+      "Hits two of your interests: cooking and volunteering",
+      "Under a mile from you in Frog Hollow",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e120",
+    "score": 88,
+    "meetPeopleScore": 78,
+    "reasons": [
+      "Hits two of your interests: cooking and food",
+      "1.4 mi from Frog Hollow, inside your range",
+      "Outdoors and moving, conversation comes naturally"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e172",
+    "score": 86,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: cooking and international community",
+      "Student crowd from UHart, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e130",
+    "score": 97,
+    "meetPeopleScore": 96,
+    "reasons": [
+      "Thieboudienne at a communal table for sixteen, cooked by someone else for once",
+      "Assigned seating so you meet everyone, and the host runs a food rescue program",
+      "Three other food people from this group booked seats"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p29",
+    "eventId": "e166",
+    "score": 82,
+    "meetPeopleScore": 100,
+    "reasons": [
+      "Hits two of your interests: languages and international community",
+      "Student crowd from Trinity, open to you with an ID",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e169",
+    "score": 82,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: food and international community",
+      "Student crowd from UHart, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e131",
+    "score": 78,
+    "meetPeopleScore": 93,
+    "reasons": [
+      "Hits two of your interests: dance and languages",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e043",
+    "score": 77,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: dance and languages",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e117",
+    "score": 77,
+    "meetPeopleScore": 49,
+    "reasons": [
+      "Hits two of your interests: dance and languages",
+      "1.2 mi from Frog Hollow, inside your range",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p29",
+    "eventId": "e015",
+    "score": 62,
+    "meetPeopleScore": 86,
+    "reasons": [
+      "Built around volunteering, one of your interests",
+      "Under a mile from you in Frog Hollow",
+      "Working side by side is the easiest way to talk to strangers"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e164",
+    "score": 91,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Four hours making something with your hands next to makers who are not students",
+      "Small class, calm pace, a Saturday afternoon",
+      "Four other artists and designers in this group are going"
+    ],
+    "isBestBet": true
+  },
+  {
+    "personId": "p30",
+    "eventId": "e060",
+    "score": 87,
+    "meetPeopleScore": 73,
+    "reasons": [
+      "Hits two of your interests: crafts and gardening",
+      "2.0 mi from Bishops Corner, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e146",
+    "score": 80,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Hits two of your interests: crafts and visual art",
+      "3.4 mi from Bishops Corner, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e042",
+    "score": 77,
+    "meetPeopleScore": 89,
+    "reasons": [
+      "Hits two of your interests: crafts and visual art",
+      "4.4 mi from Bishops Corner, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e072",
+    "score": 75,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around crafts, one of your interests",
+      "2.0 mi from Bishops Corner, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e059",
+    "score": 70,
+    "meetPeopleScore": 93,
+    "reasons": [
+      "Hits two of your interests: yoga and dogs",
+      "3.6 mi from Bishops Corner, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e004",
+    "score": 67,
+    "meetPeopleScore": 92,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "3.4 mi from Bishops Corner, inside your range",
+      "Hosted format, so you will not be standing alone"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e142",
+    "score": 65,
+    "meetPeopleScore": 65,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "2.8 mi from Bishops Corner, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e155",
+    "score": 65,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around crafts, one of your interests",
+      "4.3 mi from Bishops Corner, inside your range",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e173",
+    "score": 64,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around crafts, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e129",
+    "score": 63,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around crafts, one of your interests",
+      "4.3 mi from Bishops Corner, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e143",
+    "score": 63,
+    "meetPeopleScore": 85,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "4.3 mi from Bishops Corner, inside your range",
+      "Class format, everyone is a beginner together"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e169",
+    "score": 63,
+    "meetPeopleScore": 69,
+    "reasons": [
+      "Built around crafts, one of your interests",
+      "On your campus at UHart, no travel and a familiar crowd",
+      "Casual drop-in, come and go as you like"
+    ],
+    "isBestBet": false
+  },
+  {
+    "personId": "p30",
+    "eventId": "e177",
+    "score": 63,
+    "meetPeopleScore": 53,
+    "reasons": [
+      "Built around visual art, one of your interests",
+      "Student crowd from Trinity, open to you with an ID",
+      "Good show, and the crowd is your kind of people"
+    ],
+    "isBestBet": false
+  }
+]
